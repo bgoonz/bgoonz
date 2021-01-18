@@ -1,5 +1,4 @@
-![](https://tender-bartik-074feb.netlify.app/assets/images/profile-image.jpg)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xGZSWvFess8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -   [GitHub](https://github.com/bgoonz)
 -   [Instagram](https://www.instagram.com/bgoonz/)
