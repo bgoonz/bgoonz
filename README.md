@@ -1,4 +1,5 @@
-![g](https://www.youtube.com/watch?v=xGZSWvFess8)
+![](https://tender-bartik-074feb.netlify.app/assets/images/profile-image.jpg)
+
 
 -   [GitHub](https://github.com/bgoonz)
 -   [Instagram](https://www.instagram.com/bgoonz/)
