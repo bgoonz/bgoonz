@@ -43,10 +43,7 @@ Interview Prep Static Site
 
 
 
-This is an embedded [Microsoft Office](https://office.com) presentation, powered by [Office](https://office.com/webapps). This is an embedded [Microsoft Office](https://office.com) document, powered by [Office](https://office.com/webapps).
 
-Click the 100% button above (below the ) and select "Page Width" to see to scale!
----------------------------------------------------------------------------------
 
 
 
