@@ -9,7 +9,7 @@ Hi I'm Bryan!
 =============
 
 
-
+[github-resume](https://resume.github.io/?bgoonz)
 
 
 
