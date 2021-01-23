@@ -16,8 +16,8 @@ Hi I'm Bryan!
 ---
 Before I deleted some repositories to clean out my github account I had over 1000 commits in my personal repository in just a few months, I have a lot to learn... but I live and breathe code.
 
-[2020](./2020-contributions.JPG)
-[2021](./../2021.JPG)
+![2020](./2020-contributions.JPG)
+![2021](./../2021.JPG)
 
 <table><tr><td><img src='./2020-contributions.JPG'></td><td><img src='./2021.JPG'></td></tr></table>
 
