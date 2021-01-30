@@ -32,6 +32,11 @@
 Hi I'm Bryan!
 =============
 
+
+[Github Gists](https://gist.github.com/bgoonz)
+
+
+
 ![resume](./bryan-guner-resume-2021.jpeg)
 
 
