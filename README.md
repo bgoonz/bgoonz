@@ -18,7 +18,7 @@
 
 
 
-
+<div id="tech" data-v-18df9df8="" data-v-6c5fa52b=""><p data-v-18df9df8=""><i class="devicon-html5-plain colored" data-v-18df9df8=""></i><br data-v-18df9df8=""><br data-v-18df9df8=""> HTML </p><p data-v-18df9df8=""><i class="devicon-css3-plain colored" data-v-18df9df8=""></i><br data-v-18df9df8=""><br data-v-18df9df8=""> CSS </p><p data-v-18df9df8=""><i class="devicon-javascript-plain colored" data-v-18df9df8=""></i><br data-v-18df9df8=""><br data-v-18df9df8=""> JavaScript </p><p data-v-18df9df8=""><i class="devicon-jquery-plain colored" data-v-18df9df8=""></i><br data-v-18df9df8=""><br data-v-18df9df8=""> jQuery </p><p data-v-18df9df8=""><i class="devicon-nodejs-plain colored" data-v-18df9df8=""></i><br data-v-18df9df8=""><br data-v-18df9df8=""> NodeJS </p><p data-v-18df9df8=""><i class="devicon-express-original colored" data-v-18df9df8=""></i><br data-v-18df9df8=""><br data-v-18df9df8=""> Express </p><p data-v-18df9df8=""><i class="devicon-vuejs-plain colored" data-v-18df9df8=""></i><br data-v-18df9df8=""><br data-v-18df9df8=""> VueJS </p><p data-v-18df9df8=""><i class="devicon-mongodb-plain colored" data-v-18df9df8=""></i><br data-v-18df9df8=""><br data-v-18df9df8=""> MongoDB </p><p data-v-18df9df8=""><i class="devicon-git-plain colored" data-v-18df9df8=""></i><br data-v-18df9df8=""><br data-v-18df9df8=""> Git </p><p data-v-18df9df8=""><i class="devicon-typescript-plain colored" data-v-18df9df8=""></i><br data-v-18df9df8=""><br data-v-18df9df8=""><span style="color:orange;" data-v-18df9df8="">TypeScript</span></p></div>
 
 
 
