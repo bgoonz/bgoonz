@@ -87,6 +87,16 @@ Interview Prep Static Site
 -   [Live Site](https://gracious-raman-474030.netlify.app)
 
 
+Learning React Blog
+-----------------------------
+https://ecstatic-jang-593fd1.netlify.app/readme
+
+
+
+
+### React Repo:
+[React Repo](https://github.com/bgoonz/React-Practice)
+
 
 
 
