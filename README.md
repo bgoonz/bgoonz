@@ -50,7 +50,13 @@
 
 Hi I'm Bryan!
 =============
+Portfolio:
+------------
+[netlify](https://tender-bartik-074feb.netlify.app/)
 
+#### OR:
+
+[github-pages](https://bgoonz.github.io/)
 
 [Github Gists](https://gist.github.com/bgoonz)
 
