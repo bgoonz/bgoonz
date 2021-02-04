@@ -5,8 +5,8 @@ img[src~="thumbnail"] {
 img[src~="bordered"] {
    border: 1px solid black;
 }
-<div style="width:100%;">
-<img  sizes="(max-width: 600px) 200px, 50vw" style="vertical-align: middle; horizontal-align: middle;object-fit: fill || contain || cover || none || scale-down;text-align: center;display: block;" src="https://tender-bartik-074feb.netlify.app/assets/images/profile-image.jpg" >
+<div style="">
+<img  sizes="(max-width: 600px) 200px, 50vw" style="vertical-align: middle; horizontal-align: middle;object-fit: fill || contain || cover || none || scale-down;width:100%;display: block;" src="https://tender-bartik-074feb.netlify.app/assets/images/profile-image.jpg" >
 </div>
 
 
