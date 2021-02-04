@@ -1,6 +1,6 @@
 
 <center>
-<img src="https://tender-bartik-074feb.netlify.app/assets/images/profile-image.jpg"></img>
+<img src="https://tender-bartik-074feb.netlify.app/assets/images/profile-image.jpg" style="text-align: center;display: block;">
 
 </center>
 
