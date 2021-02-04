@@ -9,10 +9,10 @@
 </div>
 
 <hr>
-<center>
-  <center>
+
+ <center>
 <div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
 </div>
 
 <hr>
@@ -73,9 +73,9 @@
 ---
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
->    [**GitHub**](https://github.com/bgoonz)
->    [**Instagram**](https://www.instagram.com/bgoonz/)
->    [**LinkedIn**](https://www.linkedin.com/in/bryan-guner-046199128/)
+*    [**GitHub**](https://github.com/bgoonz)
+*    [**Instagram**](https://www.instagram.com/bgoonz/)
+*    [**LinkedIn**](https://www.linkedin.com/in/bryan-guner-046199128/)
 
 
 <center>
@@ -109,9 +109,13 @@ Portfolio:
 [Github Gists](https://gist.github.com/bgoonz)
 
 ---
+
 <center>
+
 ![resume](./bryan-guner-resume-2021.jpeg)
+
 </center>
+
 ---
 
 [github-resume](https://resume.github.io/?bgoonz)
@@ -132,6 +136,8 @@ Web Dev Resource Hub
 ### My personal Web Development blog and resource sharing site
 
 *   [Live Site](https://goofy-euclid-1cd736.netlify.app/)
+
+
 *   [Main Page](https://goofy-euclid-1cd736.netlify.app/core-site/index.html)
 
 
