@@ -1,8 +1,10 @@
+# Hi! I am Bryan!
 
+<center>
 <div style=" border: 1px solid black">
 <img  sizes="(max-width: 600px) 200px, 50vw" style="vertical-align: middle; border: 1px solid black;object-fit: fill || contain || cover || none || scale-down;width:100%;display: block;" src="https://github.com/bgoonz/bgoonz/blob/master/bryan-profile-pic.jpg?raw=true" ></img>
 </div>
-
+</center>
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
