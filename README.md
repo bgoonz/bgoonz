@@ -90,9 +90,9 @@ Portfolio:
 [Github Gists](https://gist.github.com/bgoonz)
 
 ---
-
+<center>
 ![resume](./bryan-guner-resume-2021.jpeg)
-
+</center>
 ---
 [github-resume](https://resume.github.io/?bgoonz)
 
@@ -133,7 +133,12 @@ Interview Prep Static Site
 *   [Live Site](https://gracious-raman-474030.netlify.app)
 
 ---
+
+
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif"alt="hr-line" width="781" height="22">
+
+
+---
 
 Learning React Blog
 -----------------------------
