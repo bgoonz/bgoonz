@@ -43,7 +43,7 @@
     
 
  ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgoonz)](https://github.com/bgoonz/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgoonz)](https://github.com/bgoonz/github-readme-stats&count_private=true)
 ---
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
