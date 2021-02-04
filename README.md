@@ -41,9 +41,11 @@
 
 
     
+---
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)[![Documentation Status](https://goofy-euclid-1cd736.netlify.app/0-assets/planning/documentation/portfolio/tree-diagram.html)](https://goofy-euclid-1cd736.netlify.app/0-assets/planning/documentation/portfolio/tree-diagram.html)
  ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgoonz)](https://github.com/bgoonz/github-readme-stats&count_private=true)
+[![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgoonz)](https://github.com/bgoonz/github-readme-stats&count_private=true)
 ---
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
