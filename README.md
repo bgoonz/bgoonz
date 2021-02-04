@@ -1,6 +1,8 @@
+
+<center>
 ![](https://tender-bartik-074feb.netlify.app/assets/images/profile-image.jpg)
 
-
+</center>
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
