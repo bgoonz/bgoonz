@@ -10,7 +10,13 @@
 
 <hr>
 <center>
-  <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+  <center>
+<div style=" border: 1px solid black">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+</div>
+
+<hr>
+<center>
 
 <p class="text spotlight">Documentation</p>
 </center>
@@ -72,7 +78,13 @@
 >    [**LinkedIn**](https://www.linkedin.com/in/bryan-guner-046199128/)
 
 
+<center>
+<div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+</div>
+
+<hr>
+<center>
 
 
 ---
@@ -85,7 +97,13 @@ Portfolio:
 [Github-Pages](https://bgoonz.github.io/)
 
 ---
+<center>
+<div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+</div>
+
+<hr>
+<center>
 
 [Github Gists](https://gist.github.com/bgoonz)
 
@@ -94,9 +112,18 @@ Portfolio:
 ![resume](./bryan-guner-resume-2021.jpeg)
 </center>
 ---
+
 [github-resume](https://resume.github.io/?bgoonz)
 
+---
+
+<center>
+<div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+</div>
+
+<hr>
+<center>
 
 Web Dev Resource Hub
 ----------------------
@@ -108,7 +135,13 @@ Web Dev Resource Hub
 
 
   
+<center>
+<div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+</div>
+
+<hr>
+<center>
 
 ---
 
