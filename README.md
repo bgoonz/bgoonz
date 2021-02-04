@@ -77,14 +77,13 @@
 *    [**LinkedIn**](https://www.linkedin.com/in/bryan-guner-046199128/)
 
 
-<center>
+ <center>
 <div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
 </div>
 
 <hr>
 </center>
-
 
 
 ---
@@ -97,7 +96,9 @@ Portfolio:
 [Github-Pages](https://bgoonz.github.io/)
 
 ---
-<center>
+
+
+ <center>
 <div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
 </div>
@@ -121,13 +122,15 @@ Portfolio:
 
 ---
 
-<center>
+ <center>
 <div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
 </div>
 
 <hr>
 </center>
+
+
 
 Web Dev Resource Hub
 ----------------------
@@ -141,9 +144,9 @@ Web Dev Resource Hub
 
 
   
-<center>
+ <center>
 <div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
 </div>
 
 <hr>
@@ -161,9 +164,9 @@ Web Dev Resource Hub
 
 -   [Live Site](https://eloquent-sammet-ba1810.netlify.app/)
 
-<center>
+ <center>
 <div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
 </div>
 
 <hr>
@@ -182,9 +185,9 @@ Interview Prep Static Site
 ---
 
 
-<center>
+ <center>
 <div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
 </div>
 
 <hr>
@@ -193,34 +196,37 @@ Interview Prep Static Site
 ---
 
 Learning React Blog
------------------------------
+--------------------
 https://ecstatic-jang-593fd1.netlify.app/readme
 
-### React Repo:
+#### React Repo:
 
 [React Repo](https://github.com/bgoonz/React-Practice)
+
 
 ---
 
 
 
 
-<center>
+ <center>
 <div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
 </div>
 
 <hr>
 </center>
+
+
 ## _Email_
 
 [bryan.guner@gmail.com](#)
 
-### _Phone_
+## _Phone_
 
 *551-254-5505*
 
-### Social
+## Social
 
    [GitHub](https://github.com/bgoonz)
    [Instagram](https://www.instagram.com/bgoonz/)
