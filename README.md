@@ -1,6 +1,6 @@
 
 <center>
-![](https://tender-bartik-074feb.netlify.app/assets/images/profile-image.jpg)
+<img src="https://tender-bartik-074feb.netlify.app/assets/images/profile-image.jpg"></img>
 
 </center>
 
