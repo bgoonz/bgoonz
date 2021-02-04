@@ -1,8 +1,8 @@
 
-<center>
-<img src="https://tender-bartik-074feb.netlify.app/assets/images/profile-image.jpg" style="text-align: center;display: block;">
 
-</center>
+<img style=" object-fit: fill || contain || cover || none || scale-down;text-align: center;display: block;" src="https://tender-bartik-074feb.netlify.app/assets/images/profile-image.jpg" >
+
+
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
