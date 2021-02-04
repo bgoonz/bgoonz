@@ -29,7 +29,6 @@
 - [ ] ✅ [Github-Pages](#github-pages)
 - [ ] ✅ [Github Gists](#github-gists)
 - [ ] ✅ [Web Dev Resource Hub](#web-dev-resource-hub)
-
 - [ ] ✅ [Mihir\_Beg.com](#mihir_begcom)
 - [ ] ✅ [Interview Prep Static Site](#interview-prep-static-site)
 - [ ] ✅ [Data Structures Repository](#data-structures-repository)
@@ -152,7 +151,9 @@ Web Dev Resource Hub
 
 ---
 
-## MihirBeg.com
+ MihirBeg.com
+---------------
+
 
 ### Created a dynamic web page for a local musician using the Bootsrtap framework.
 
@@ -160,7 +161,13 @@ Web Dev Resource Hub
 
 -   [Live Site](https://eloquent-sammet-ba1810.netlify.app/)
 
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif"alt="hr-line" width="781" height="22">
+<center>
+<div style=" border: 1px solid black">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+</div>
+
+<hr>
+</center>
 
 ---       
 Interview Prep Static Site 
@@ -175,8 +182,13 @@ Interview Prep Static Site
 ---
 
 
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif"alt="hr-line" width="781" height="22">
+<center>
+<div style=" border: 1px solid black">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+</div>
 
+<hr>
+</center>
 
 ---
 
@@ -187,7 +199,19 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 ### React Repo:
 
 [React Repo](https://github.com/bgoonz/React-Practice)
+
 ---
+
+
+
+
+<center>
+<div style=" border: 1px solid black">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="781" height="22">
+</div>
+
+<hr>
+</center>
 ## _Email_
 
 [bryan.guner@gmail.com](#)
