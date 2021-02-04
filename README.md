@@ -1,7 +1,7 @@
 
-
+<div style="margin:auto; align:center; display:block;">
 <img style=" object-fit: fill || contain || cover || none || scale-down;text-align: center;display: block;" src="https://tender-bartik-074feb.netlify.app/assets/images/profile-image.jpg" >
-
+</div>
 
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
