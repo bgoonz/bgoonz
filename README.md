@@ -16,7 +16,7 @@
 </div>
 
 <hr>
-<center>
+</center>
 
 <p class="text spotlight">Documentation</p>
 </center>
@@ -84,7 +84,7 @@
 </div>
 
 <hr>
-<center>
+</center>
 
 
 ---
@@ -103,7 +103,7 @@ Portfolio:
 </div>
 
 <hr>
-<center>
+</center>
 
 [Github Gists](https://gist.github.com/bgoonz)
 
@@ -123,7 +123,7 @@ Portfolio:
 </div>
 
 <hr>
-<center>
+</center>
 
 Web Dev Resource Hub
 ----------------------
@@ -141,7 +141,7 @@ Web Dev Resource Hub
 </div>
 
 <hr>
-<center>
+</center>
 
 ---
 
