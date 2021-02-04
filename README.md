@@ -1,13 +1,7 @@
-img[src~="thumbnail"] {
-   width:150px;
-   height:100px;
-}
-img[src~="bordered"] {
-   border: 1px solid black;
-}
-<div style="">
-<img  sizes="(max-width: 600px) 200px, 50vw" style="vertical-align: middle; horizontal-align: middle;object-fit: fill || contain || cover || none || scale-down;width:100%;display: block;" src="https://tender-bartik-074feb.netlify.app/assets/images/profile-image.jpg" >
-</div>
+
+
+<img  sizes="(max-width: 600px) 200px, 50vw" style="vertical-align: middle; border: 1px solid black;object-fit: fill || contain || cover || none || scale-down;width:100%;display: block;" src="https://tender-bartik-074feb.netlify.app/assets/images/profile-image.jpg" ></img>
+
 
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
