@@ -1,3 +1,5 @@
+<center>
+
 # Hi! I am Bryan!
 
 <center>
@@ -139,3 +141,4 @@ https://ecstatic-jang-593fd1.netlify.app/readme
     -   [GitHub](https://github.com/bgoonz)
     -   [Instagram](https://www.instagram.com/bgoonz/)
     -   [LinkedIn](https://www.linkedin.com/in/bryan-guner-046199128/)
+</center>
