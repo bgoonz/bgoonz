@@ -1,5 +1,10 @@
 <center>
 
+
+
+
+
+
 # Hi, I am Bryan!
 
 </center>
@@ -18,12 +23,53 @@
 <hr>
 </center>
 
+
+<div>
+
+
+</div>
+
 ---
 <div>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz)](https://github.com/bgoonz/github-readme-stats.git)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)
  </div>
 
+
+
+[![bgoonz wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bgoonz)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
+<a href="https://github.com/bgoonz/web-dev-notes-resource-site.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+<img src="https://camo.githubusercontent.com/9911bf1e126899ce0497383504ccf3c710edf6fb5548eaa59bfcff3e91e7a296/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d77696c6c69616e726f64266c61796f75743d636f6d70616374" alt="willianrod's wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&amp;layout=compact" style="max-width:100%;">
 
 ---
 
@@ -52,13 +98,15 @@
 ---
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)[![Documentation Status](https://goofy-euclid-1cd736.netlify.app/0-assets/planning/documentation/portfolio/tree-diagram.html)](https://goofy-euclid-1cd736.netlify.app/0-assets/planning/documentation/portfolio/tree-diagram.html)
- ---
-[![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgoonz)](https://github.com/bgoonz/github-readme-stats&count_private=true)
+
+---
+
 ---
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
 ---
  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
