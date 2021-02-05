@@ -1,7 +1,7 @@
 <center>
 
 
-[![Edit a-simple-react-router-v4-tutorial-forked](https://codesandbox.io/static/img/play-codesandbox.svg)]
+
 
 
 
@@ -238,7 +238,7 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 
 [React Repo](https://github.com/bgoonz/React-Practice)
 
-
+[![Edit a-simple-react-router-v4-tutorial-forked](https://codesandbox.io/static/img/play-codesandbox.svg)]
 ---
 
 
