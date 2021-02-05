@@ -17,8 +17,8 @@
 
 <hr>
 </center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=10)](https://github.com/bgoonz/github-readme-stats)
 
-<p class="text spotlight">Documentation</p>
 </center>
 <hr>
 
@@ -230,8 +230,9 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 
 ## Social
 
-   [GitHub](https://github.com/bgoonz)
-   [Instagram](https://www.instagram.com/bgoonz/)
-   [LinkedIn](https://www.linkedin.com/in/bryan-guner-046199128/)
-
+-   [GitHub](https://github.com/bgoonz)
+-   [Instagram](https://www.instagram.com/bgoonz/)
+-   [LinkedIn](https://www.linkedin.com/in/bryan-guner-046199128/)
+-   [Replit](https://repl.it/@bgoonz/)
+-   [Redit](https://www.reddit.com/user/bgoonz1)
 </center>
