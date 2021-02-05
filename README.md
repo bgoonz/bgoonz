@@ -17,7 +17,15 @@
 
 <hr>
 </center>
-[![Top Langs](https://github.com/github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8)](https://github.com/bgoonz/github-readme-stats)
+
+---
+<div>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz)](https://github.com/bgoonz/github-readme-stats.git)
+ </div>
+
+
+---
 
 </center>
 <hr>
