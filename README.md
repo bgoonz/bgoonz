@@ -168,7 +168,7 @@ Portfolio:
 
 <center>
  
- ![resume](./skills.JPG)
+ ![resume](./cem.JPG)
 
 ![resume](./bryan-guner-resume-2021.jpeg)
 
