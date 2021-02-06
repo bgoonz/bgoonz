@@ -1,8 +1,14 @@
 <center>
 
-![img](./wakasuper.png) </td>
+![img](./wakasuper.png) 
 
 ![img](./activity.JPG)
+
+
+
+![DAY 2 Using WakaTime](./langs4.JPG)
+
+<figcaption>Day # 2 Tracking Coding with WakaTime <a href="https://resume.github.io/?bgoonz"></a></figcaption>
 
 
 ---
