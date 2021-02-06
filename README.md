@@ -8,7 +8,7 @@
 ---
 
 
-![img](./wakasuper.JPG)
+![img](./wakasuper.png)
 
 
 ---
