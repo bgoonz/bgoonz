@@ -4,7 +4,7 @@
 
 ![img](./activity.JPG)
 
-
+![img](./waka2.JPG)
 
 # Hi, I am Bryan!
 
