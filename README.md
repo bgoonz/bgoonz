@@ -140,6 +140,11 @@
 ---
 Portfolio:
 ------------
+
+
+![po](./skills.JPG)
+
+
 [netlify](https://tender-bartik-074feb.netlify.app/)
 
 #### OR:
@@ -162,14 +167,24 @@ Portfolio:
 ---
 
 <center>
+ 
+ ![resume](./skills.JPG)
 
 ![resume](./bryan-guner-resume-2021.jpeg)
+
+![resume](./tcnj.JPG)
 
 </center>
 
 ---
 
+
+
+
 [github-resume](https://resume.github.io/?bgoonz)
+
+![git](./apture-resume-github-io-2021-02-06-07_30_54.png)
+
 
 ---
 
