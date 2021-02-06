@@ -6,7 +6,7 @@
 
 
 
-![DAY 2 Using WakaTime](./langs4.JPG)
+![DAY 2 Using WakaTime](./langs4.JPG)   ![day2](./day2.JPG)
 
 <figcaption>Day # 2 Tracking Coding with WakaTime <a href="https://resume.github.io/?bgoonz"></a></figcaption>
 
@@ -15,7 +15,7 @@
 
 
 
- ![matrix](https://github.com/bgoonz/web-dev-notes-resource-site/blob/ac10e07e3cdc5abcf22f0ed570acaf7a5c400877/core-site/upload/best-prac-250.gif) </td>
+
 
 
 
@@ -29,7 +29,7 @@
 </center>
 <center>
 <div style=" border: 1px solid black">
-<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/bryan-profile-pic.jpg?raw=true" ></img>
+<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/bryan-profile-pic.jpg?raw=true" ></img>    ![code](https://github.com/bgoonz/web-dev-notes-resource-site/blob/ac10e07e3cdc5abcf22f0ed570acaf7a5c400877/core-site/upload/best-prac-250.gif) 
 </div>
 
 <hr>
