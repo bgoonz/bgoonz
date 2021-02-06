@@ -32,7 +32,7 @@
 ---
 <div>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)<img src="https://camo.githubusercontent.com/9911bf1e126899ce0497383504ccf3c710edf6fb5548eaa59bfcff3e91e7a296/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d77696c6c69616e726f64266c61796f75743d636f6d70616374" alt="willianrod's wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&amp;layout=compact" style="max-width:100%;">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)<figure><embed src="https://wakatime.com/share/@bgoonz/55aaf309-3fca-4827-b98e-5d2c28bf1c8f.svg"></embed></figure>
  
  
  
@@ -74,7 +74,10 @@
     
 ---
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)[![Documentation Status](https://goofy-euclid-1cd736.netlify.app/0-assets/planning/documentation/portfolio/tree-diagram.html)](https://goofy-euclid-1cd736.netlify.app/0-assets/planning/documentation/portfolio/tree-diagram.html)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
+[![Documentation Status](https://goofy-euclid-1cd736.netlify.app/0-assets/planning/documentation/portfolio/tree-diagram.html)](https://goofy-euclid-1cd736.netlify.app/0-assets/planning/documentation/portfolio/tree-diagram.html)
 
 ---
 
