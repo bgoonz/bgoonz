@@ -37,7 +37,9 @@
 ![img](./wakasuper.png) 
 
 
-
+---
+### _DAY2_
+---
 
 
 ![DAY 2 Using WakaTime](./langs4.JPG)   ![day2](./day2.JPG)
