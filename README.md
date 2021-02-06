@@ -70,8 +70,8 @@
 - [ ] ✅ [_Phone_](#phone)
 - [ ] ✅ [Social](#social)
 
-<figure><embed src="https://wakatime.com/share/@bgoonz/40056be1-5bc5-47a1-ab8a-594ce0cd5ff5.svg"></embed></figure>
-    
+![breakup]("https://wakatime.com/share/@bgoonz/40056be1-5bc5-47a1-ab8a-594ce0cd5ff5.svg")
+
 ---
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
