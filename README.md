@@ -172,6 +172,9 @@ Portfolio:
 
 ![resume](./bryan-guner-resume-2021.jpeg)
 
+<center>
+<img src="./bryan-guner-resume-2021.jpeg" alt="hr-line" width="100%" height="1000px">
+</center>
 ![resume](./tcnj.JPG)
 
 </center>
@@ -183,7 +186,7 @@ Portfolio:
 
 [github-resume](https://resume.github.io/?bgoonz)
 
-![git](./apture-resume-github-io-2021-02-06-07_30_54.png)
+
 
 
 ---
