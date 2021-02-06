@@ -4,7 +4,15 @@
 
 ![img](./activity.JPG)
 
-![img](./waka2.JPG)
+
+---
+
+
+![img](./wakasuper.JPG)
+
+
+---
+---
 
 # Hi, I am Bryan!
 
