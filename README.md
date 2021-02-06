@@ -7,8 +7,13 @@
 
 ---
 
+<table>
+ <tr>
+  <td>  ![img](./wakasuper.png) </td>
+   <td>  ![](https://github.com/bgoonz/web-dev-notes-resource-site/blob/ac10e07e3cdc5abcf22f0ed570acaf7a5c400877/core-site/upload/matrix-250.gif) </td>
+  </tr>
+ </table>
 
-![img](./wakasuper.png)
 
 
 ---
