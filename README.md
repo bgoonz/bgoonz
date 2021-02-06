@@ -273,6 +273,7 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 -   [Replit](https://repl.it/@bgoonz/)
 -   [Redit](https://www.reddit.com/user/bgoonz1)
 -   [runkit](https://runkit.com/bgoonz)
+-   [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)
 </center>
 
 
