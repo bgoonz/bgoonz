@@ -1,8 +1,38 @@
 <center>
+![img](./activity.JPG)
+ 
+ 
 
+
+---
+---
+
+# Hi, I am Bryan!
+
+</center>
+<center>
+<div style=" border: 1px solid black">
+<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/bryan-profile-pic.jpg?raw=true" ></img>    <img align="center" src="https://github.com/bgoonz/web-dev-notes-resource-site/blob/ac10e07e3cdc5abcf22f0ed570acaf7a5c400877/core-site/upload/best-prac-250.gif"></img>
+</div>
+
+<hr>
+
+ <center>
+<div style=" border: 1px solid black">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
+</div>
+
+<hr>
+</center>
+ 
+ ---
+ 
+ 
+ ## DAY # 1 WakaTime app:
+ 
 ![img](./wakasuper.png) 
 
-![img](./activity.JPG)
+
 
 
 
@@ -19,28 +49,6 @@
 
 
 
-
-
----
----
-
-# Hi, I am Bryan!
-
-</center>
-<center>
-<div style=" border: 1px solid black">
-<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/bryan-profile-pic.jpg?raw=true" ></img>    ![code](https://github.com/bgoonz/web-dev-notes-resource-site/blob/ac10e07e3cdc5abcf22f0ed570acaf7a5c400877/core-site/upload/best-prac-250.gif) 
-</div>
-
-<hr>
-
- <center>
-<div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
-</div>
-
-<hr>
-</center>
 
 
 <div>
@@ -316,6 +324,7 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 ## Social
 
 -   [GitHub](https://github.com/bgoonz)
+-   [code pen](https://codepen.io/bgoonz)
 -   [Instagram](https://www.instagram.com/bgoonz/)
 -   [LinkedIn](https://www.linkedin.com/in/bryan-guner-046199128/)
 -   [Replit](https://repl.it/@bgoonz/)
