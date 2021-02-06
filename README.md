@@ -2,6 +2,7 @@
 
 
 
+![img](./activity.JPG)
 
 
 
@@ -34,10 +35,7 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://wakatime.com/share/@bgoonz/55aaf309-3fca-4827-b98e-5d2c28bf1c8f.svg)
- 
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://wakatime.com/share/@bgoonz/b81feaf4-3e71-4a45-9bb3-9e366ef75723.svg)
+
  
  
  
@@ -55,7 +53,6 @@
 
 
 
-![img](./activity.JPG)
 
 
 
