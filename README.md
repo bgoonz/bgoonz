@@ -70,7 +70,7 @@
 - [ ] ✅ [_Phone_](#phone)
 - [ ] ✅ [Social](#social)
 
-
+<figure><embed src="https://wakatime.com/share/@bgoonz/40056be1-5bc5-47a1-ab8a-594ce0cd5ff5.svg"></embed></figure>
     
 ---
 
