@@ -1,6 +1,6 @@
 <center>
  
- 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  
  
 ![img](./activity.JPG)
