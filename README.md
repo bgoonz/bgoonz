@@ -1,7 +1,11 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> HI
-  <img align="right" alt="GIF" src="https://github.com/bgoonz/bgoonz/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45%"> HI
+  <img align="right" alt="GIF" src="https://github.com/bgoonz/bgoonz/raw/master/code.gif?raw=true" width="500" height="320" width="28%";">
 
- <img src="https://readme-jokes.vercel.app/api" width="500" height="320" style="max-width:100%;" />
+---
+
+ <img src="https://readme-jokes.vercel.app/api" width="500" height="320" width="28%"; />
+
+---
  
  
  
