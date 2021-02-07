@@ -60,11 +60,11 @@
 
 <div style=" border: 1px solid black">
  
-<img align="center" src="./day3.JPG" ></img>   
+<img align="center" src="./day3.PNG" ></img>   
 
 
 
-<figcaption>Day # 3 Tracking Coding with WakaTime <a href="https://resume.github.io/?bgoonz"></a></figcaption>
+
 
 </div>
 
@@ -85,6 +85,7 @@
 ---
 <div>
  
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)
  
 
