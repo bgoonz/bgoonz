@@ -16,7 +16,7 @@
 <center>
 <div style=" border: 1px solid black">
  
-  <img align="center" src="https://media1.tenor.com/images/c2d940f50605e98bb833ab092a5a2e4a/tenor.gif" height="325"  ></img>      <img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/bryan-profile-pic.jpg?raw=true"width="344" height="325"  ></img>    <img align="center" src="https://github.com/bgoonz/web-dev-notes-resource-site/blob/ac10e07e3cdc5abcf22f0ed570acaf7a5c400877/core-site/upload/best-prac-250.gif" width="344" height="325"></img>
+  <img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/bryan-profile-pic.jpg?raw=true"width="450" height="400"  ></img>    <img align="center" src="https://github.com/bgoonz/web-dev-notes-resource-site/blob/ac10e07e3cdc5abcf22f0ed570acaf7a5c400877/core-site/upload/best-prac-250.gif" width="450" height="400" ></img>
 </div>
 
 <hr>
