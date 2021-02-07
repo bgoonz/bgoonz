@@ -1,7 +1,6 @@
 <center>
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
- 
+
  
 ![img](./activity.JPG)
  
@@ -24,6 +23,8 @@
  <center>
 <div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 </div>
 
 <hr>
