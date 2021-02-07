@@ -1,6 +1,9 @@
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> HI
+  <img align="right" alt="GIF" src="https://github.com/bgoonz/bgoonz/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
 
-<img align="right" alt="GIF" src="https://github.com/bgoonz/bgoonz/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
-
+ <img src="https://readme-jokes.vercel.app/api" width="500" height="320" style="max-width:100%;" />
+ 
+ 
  
 ![img](./activity.JPG)
 
@@ -13,6 +16,9 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+![ViewCount](https://views.whatilearened.today/views/github/bgoonz/views.svg)
+
 ---
 
 # Hi, I am Bryan!
@@ -184,6 +190,7 @@
 
 *    [**GitHub**](https://github.com/bgoonz)
 *    [**Instagram**](https://www.instagram.com/bgoonz/)
+<img src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram" /> 
 *    [**LinkedIn**](https://www.linkedin.com/in/bryan-guner-046199128/)
 
 
@@ -377,437 +384,577 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 
 # _MY Interests / Resources_:
 
-<p class="has-line-data" data-line-start="322" data-line-end="323"><img src="https://sway.office.com/s/xW9h9KBIalj9GLr0/embed%22" alt="alt"></p>
-<h1 class="code-line" data-line-start=325 data-line-end=326 ><a id="_MY_INTERESTS__325"></a><em>MY INTERESTS</em>:</h1>
-<ul>
-<li class="has-line-data" data-line-start="328" data-line-end="329"><a href="#ansible">Ansible</a></li>
-<li class="has-line-data" data-line-start="329" data-line-end="330"><a href="#awesome-lists">Awesome Lists</a></li>
-<li class="has-line-data" data-line-start="330" data-line-end="331"><a href="#continious-integration">CI/CD</a></li>
-<li class="has-line-data" data-line-start="331" data-line-end="332"><a href="#data-science">Data Science</a></li>
-<li class="has-line-data" data-line-start="332" data-line-end="333"><a href="#docker">Docker</a></li>
-<li class="has-line-data" data-line-start="333" data-line-end="334"><a href="#dynamodb">DynamoDB</a></li>
-<li class="has-line-data" data-line-start="334" data-line-end="335"><a href="#elasticsearch">Elasticsearch</a></li>
-<li class="has-line-data" data-line-start="335" data-line-end="336"><a href="#environment-setups">Environment Setups</a></li>
-<li class="has-line-data" data-line-start="336" data-line-end="337"><a href="#epic-github-repos">Epic Github Repos</a></li>
-<li class="has-line-data" data-line-start="337" data-line-end="338"><a href="#golang">Golang</a></li>
-<li class="has-line-data" data-line-start="338" data-line-end="339"><a href="#grafana">Grafana</a></li>
-<li class="has-line-data" data-line-start="339" data-line-end="340"><a href="#great-blogs">Great Blogs</a></li>
-<li class="has-line-data" data-line-start="340" data-line-end="341"><a href="#knowledge-base">Knowledge Base</a></li>
-<li class="has-line-data" data-line-start="341" data-line-end="343"><a href="#kubernetes">Kubernetes</a>
-<ul>
-<li class="has-line-data" data-line-start="342" data-line-end="343"><a href="#kubernetes-storage">Kubernetes Storage</a></li>
-</ul>
-</li>
-<li class="has-line-data" data-line-start="343" data-line-end="344"><a href="#machine-learning">Machine Learning</a></li>
-<li class="has-line-data" data-line-start="344" data-line-end="345"><a href="#monitoring">Monitoring</a></li>
-<li class="has-line-data" data-line-start="345" data-line-end="346"><a href="#mongodb">MongoDB</a></li>
-<li class="has-line-data" data-line-start="346" data-line-end="347"><a href="#programming">Programming</a></li>
-<li class="has-line-data" data-line-start="347" data-line-end="348"><a href="#queues">Queues</a></li>
-<li class="has-line-data" data-line-start="348" data-line-end="351"><a href="#self-hosting">Self Hosting</a>
-<ul>
-<li class="has-line-data" data-line-start="349" data-line-end="350"><a href="#email-server-setups">Email Server Setups</a></li>
-<li class="has-line-data" data-line-start="350" data-line-end="351"><a href="#mailscanner-server-setups">Mailscanner Server Setups</a></li>
-</ul>
-</li>
-<li class="has-line-data" data-line-start="351" data-line-end="352"><a href="#serverless">Serverless</a></li>
-<li class="has-line-data" data-line-start="352" data-line-end="353"><a href="#sysadmin-references">Sysadmin References</a></li>
-<li class="has-line-data" data-line-start="353" data-line-end="354"><a href="#vpn">VPN</a></li>
-<li class="has-line-data" data-line-start="354" data-line-end="356"><a href="#web-frameworks">Web Frameworks</a></li>
-</ul>
-<h2 class="code-line" data-line-start=356 data-line-end=357 ><a id="Ansible_356"></a>Ansible</h2>
-<ul>
-<li class="has-line-data" data-line-start="357" data-line-end="359"><a href="https://github.com/zimmertr/Bootstrap-Kubernetes-with-LXC">Kubernetes on LXC with Ansible</a></li>
-</ul>
-<h2 class="code-line" data-line-start=359 data-line-end=360 ><a id="Awesome_Lists_359"></a>Awesome Lists</h2>
-<ul>
-<li class="has-line-data" data-line-start="360" data-line-end="361"><a href="https://github.com/exAspArk/awesome-chatops">Awesome ChatOps</a></li>
-<li class="has-line-data" data-line-start="361" data-line-end="362"><a href="https://github.com/binhnguyennus/awesome-scalability">Awesome Scalability</a></li>
-<li class="has-line-data" data-line-start="362" data-line-end="364"><a href="https://github.com/drone/awesome-drone">Awesome Drone</a></li>
-</ul>
-<h2 class="code-line" data-line-start=364 data-line-end=365 ><a id="Epic_Github_Repos_364"></a>Epic Github Repos</h2>
-<ul>
-<li class="has-line-data" data-line-start="365" data-line-end="367"><a href="https://github.com/mlabouardy?tab=repositories">mlabouardy</a></li>
-</ul>
-<h2 class="code-line" data-line-start=367 data-line-end=368 ><a id="Authentication_367"></a>Authentication</h2>
-<ul>
-<li class="has-line-data" data-line-start="368" data-line-end="370"><a href="https://mapr.com/blog/how-secure-elasticsearch-and-kibana/">Nginx ES and Kibana Proxy with LDAP</a></li>
-</ul>
-<h2 class="code-line" data-line-start=370 data-line-end=371 ><a id="Data_Science_370"></a>Data Science</h2>
-<ul>
-<li class="has-line-data" data-line-start="371" data-line-end="373"><a href="https://github.com/bulutyazilim/awesome-datascience">bulutyazilim - datascience awesome list</a></li>
-</ul>
-<h2 class="code-line" data-line-start=373 data-line-end=374 ><a id="Grafana_373"></a>Grafana</h2>
-<ul>
-<li class="has-line-data" data-line-start="374" data-line-end="376"><a href="https://github.com/mlabouardy/grafana-dashboards">Grafana Dashboards @mlabouardy</a></li>
-</ul>
-<h2 class="code-line" data-line-start=376 data-line-end=377 ><a id="Docker_376"></a>Docker</h2>
-<h4 class="code-line" data-line-start=378 data-line-end=379 ><a id="Deploy_Stacks_to_your_Swarm_whale_heart_378"></a>Deploy Stacks to your Swarm: :whale: :heart:</h4>
-<p class="has-line-data" data-line-start="380" data-line-end="381">Logging:</p>
-<ul>
-<li class="has-line-data" data-line-start="382" data-line-end="384"><a href="https://github.com/shazChaudhry/docker-elastic">shazChaudhry Swarm GELF Stack</a></li>
-</ul>
-<p class="has-line-data" data-line-start="384" data-line-end="385">Metrics:</p>
-<ul>
-<li class="has-line-data" data-line-start="386" data-line-end="387"><a href="https://github.com/stefanprodan/swarmprom">StefanProdan - Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager</a></li>
-<li class="has-line-data" data-line-start="387" data-line-end="389"><a href="https://github.com/mlabouardy/swarm-tick">Mlabouardy - Telegraf, InfluxDB, Chronograf, Kapacitor &amp; Slack</a></li>
-</ul>
-<h4 class="code-line" data-line-start=389 data-line-end=390 ><a id="Awesome_Docker_Repos_389"></a>Awesome Docker Repos</h4>
-<ul>
-<li class="has-line-data" data-line-start="390" data-line-end="391"><a href="https://github.com/jessfraz/dockerfiles">Jess's Dockerfiles</a></li>
-<li class="has-line-data" data-line-start="391" data-line-end="393"><a href="https://github.com/firecat53/dockerfiles">Firecat53's Dockerfiles</a></li>
-</ul>
-<h4 class="code-line" data-line-start=393 data-line-end=394 ><a id="RaspberryPi_ARM_Images_393"></a>RaspberryPi ARM Images:</h4>
-<ul>
-<li class="has-line-data" data-line-start="394" data-line-end="395"><a href="https://hub.docker.com/r/arm32v6/alpine/">arm32v6/alpine:edge</a></li>
-<li class="has-line-data" data-line-start="395" data-line-end="396"><a href="https://hub.docker.com/r/arm32v6/golang/">arm32v6/golang:alpine</a></li>
-<li class="has-line-data" data-line-start="396" data-line-end="397"><a href="https://hub.docker.com/r/arm32v6/haproxy/">arm32v6/haproxy:alpine</a></li>
-<li class="has-line-data" data-line-start="397" data-line-end="398"><a href="https://hub.docker.com/r/arm32v6/node/">arm32v6/node:alpine</a></li>
-<li class="has-line-data" data-line-start="398" data-line-end="399"><a href="https://hub.docker.com/r/arm32v6/openjdk/">arm32v6/openjdk:alpine</a></li>
-<li class="has-line-data" data-line-start="399" data-line-end="400"><a href="https://hub.docker.com/r/arm32v6/postgres/">arm32v6/postgres:alpine</a></li>
-<li class="has-line-data" data-line-start="400" data-line-end="401"><a href="https://hub.docker.com/r/arm32v6/python/">arm32v6/python:2.7-alpine3.6</a></li>
-<li class="has-line-data" data-line-start="401" data-line-end="402"><a href="https://hub.docker.com/r/arm32v6/python/">arm32v6/python:3.6-alpine3.6</a></li>
-<li class="has-line-data" data-line-start="402" data-line-end="403"><a href="https://hub.docker.com/r/arm32v6/rabbitmq/">arm32v6/rabbitmq:alpine</a></li>
-<li class="has-line-data" data-line-start="403" data-line-end="404"><a href="https://hub.docker.com/r/arm32v6/redis/">arm32v6/redis:alpine</a></li>
-<li class="has-line-data" data-line-start="404" data-line-end="405"><a href="https://hub.docker.com/r/arm32v6/ruby/">arm32v6/ruby:alpine3.6</a></li>
-<li class="has-line-data" data-line-start="405" data-line-end="406"><a href="https://hub.docker.com/r/arm32v6/tomcat/">arm32v6/tomcat:alpine</a></li>
-<li class="has-line-data" data-line-start="406" data-line-end="407"><a href="https://hub.docker.com/r/arm32v6/traefik/">arm32v6/traefik:latest</a></li>
-<li class="has-line-data" data-line-start="407" data-line-end="408"><a href="https://hub.docker.com/r/arm32v7/debian/">arm32v7/debian:lates</a></li>
-<li class="has-line-data" data-line-start="408" data-line-end="409"><a href="https://hub.docker.com/r/hypriot/rpi-redis/">hypriot/rpi-redis</a></li>
-<li class="has-line-data" data-line-start="409" data-line-end="410"><a href="https://github.com/jixer/rpi-mongo">jixer/rpi-mongo</a></li>
-<li class="has-line-data" data-line-start="410" data-line-end="411"><a href="https://github.com/alexellis/docker-arm/tree/master/images/armhf">alexellis/armhf</a></li>
-<li class="has-line-data" data-line-start="411" data-line-end="412"><a href="https://github.com/zeiot">zeiot: rpi-prometheus stack</a></li>
-<li class="has-line-data" data-line-start="412" data-line-end="413"><a href="https://hub.docker.com/u/larmog/">larmog</a></li>
-<li class="has-line-data" data-line-start="413" data-line-end="414"><a href="https://github.com/andresvidal/rpi3-mongodb3">Rpi MongoDB</a></li>
-<li class="has-line-data" data-line-start="414" data-line-end="416"><a href="https://github.com/armswarm">ARM Swarm</a></li>
-</ul>
-<h4 class="code-line" data-line-start=416 data-line-end=417 ><a id="Docker_Image_Repositories_416"></a>Docker Image Repositories</h4>
-<ul>
-<li class="has-line-data" data-line-start="417" data-line-end="418"><a href="https://hub.docker.com/u/arm32v6/">Docker Hub: arm32v6</a></li>
-<li class="has-line-data" data-line-start="418" data-line-end="419"><a href="https://hub.docker.com/u/armv7/">Docker Hub: armv7</a></li>
-<li class="has-line-data" data-line-start="419" data-line-end="420"><a href="https://github.com/luvres/armhf">Github: Luvres Armhf</a></li>
-<li class="has-line-data" data-line-start="420" data-line-end="421"><a href="https://github.com/ulsmith/alpine-apache-php7">Apache/PHP7 on Alpine</a></li>
-<li class="has-line-data" data-line-start="421" data-line-end="422"><a href="https://github.com/docker-library/tomcat/blob/master/8.0/jre8-alpine/Dockerfile">Tomcat on Alpine</a></li>
-<li class="has-line-data" data-line-start="422" data-line-end="423"><a href="https://github.com/jwilder/nginx-proxy">Nginx (jwilder)</a></li>
-<li class="has-line-data" data-line-start="423" data-line-end="424"><a href="https://github.com/smebberson/docker-alpine">Alpine Images (smebberson)</a></li>
-<li class="has-line-data" data-line-start="424" data-line-end="425"><a href="https://hub.docker.com/u/sameersbn/">SameerSbn</a></li>
-<li class="has-line-data" data-line-start="425" data-line-end="426"><a href="https://hub.docker.com/u/linuxserver/">Linuxserver.io</a></li>
-<li class="has-line-data" data-line-start="426" data-line-end="427"><a href="https://hub.docker.com/r/nimmis/alpine-apache-php5/">Apache-PHP5</a></li>
-<li class="has-line-data" data-line-start="427" data-line-end="429"><a href="https://github.com/harobed/docker-php-ssmtp">Apache-PHP-Email</a></li>
-</ul>
-<h4 class="code-line" data-line-start=429 data-line-end=430 ><a id="DockerAwesomeLists_429"></a>Docker-Awesome-Lists</h4>
-<ul>
-<li class="has-line-data" data-line-start="430" data-line-end="431"><a href="https://github.com/AdamBien/docklands">Java Docker Services</a></li>
-<li class="has-line-data" data-line-start="431" data-line-end="433"><a href="https://gist.github.com/shouse/a14c44e97a2cd2a1f030">shouse Docker Awesome List</a></li>
-</ul>
-<h4 class="code-line" data-line-start=433 data-line-end=434 ><a id="Docker_Blogs_433"></a>Docker Blogs:</h4>
-<ul>
-<li class="has-line-data" data-line-start="434" data-line-end="435"><a href="https://hub.docker.com/r/emilevauge/whoami/">Whoami used in Traefik Docs</a></li>
-<li class="has-line-data" data-line-start="435" data-line-end="436"><a href="https://github.com/spartakode/my-docker-repos/blob/master/sqlite3/Dockerfile">Sqlite with Docker</a></li>
-<li class="has-line-data" data-line-start="436" data-line-end="437"><a href="https://github.com/mookjp/rails-docker-example">Rails with Postgres and Redis</a></li>
-<li class="has-line-data" data-line-start="437" data-line-end="438"><a href="https://testdriven.io/asynchronous-tasks-with-flask-and-redis-queue">Async Tasks with Flask and Redis</a></li>
-<li class="has-line-data" data-line-start="438" data-line-end="439"><a href="https://github.com/davidmukiibi/docker-flask">Flask and Postgres</a></li>
-<li class="has-line-data" data-line-start="439" data-line-end="441"><a href="http://ict.renevdmark.nl/2016/07/05/elastic-beats-on-raspberry-pi/">Elastic Beats on RaspberryPi</a></li>
-</ul>
-<h4 class="code-line" data-line-start=441 data-line-end=442 ><a id="Docker_Storage_441"></a>Docker Storage</h4>
-<ul>
-<li class="has-line-data" data-line-start="442" data-line-end="443"><a href="https://github.com/rancher/convoy">Rancher Convoy</a></li>
-<li class="has-line-data" data-line-start="443" data-line-end="444"><a href="https://flocker.readthedocs.io/en/latest/flocker-features/storage-backends.html#supported-backends">Flocker</a></li>
-<li class="has-line-data" data-line-start="444" data-line-end="445"><a href="http://node.mu/2017/06/30/scaleio-on-ubuntu-xenial/">EMC ScaleIO</a></li>
-<li class="has-line-data" data-line-start="445" data-line-end="446"><a href="https://github.com/lucj/swarm-rexray-ceph">RexRay Ceph with Ansible</a></li>
-<li class="has-line-data" data-line-start="446" data-line-end="447"><a href="http://containx.io/">ContainX</a></li>
-</ul>
-<h4 class="code-line" data-line-start=449 data-line-end=450 ><a id="OpenFaas_449"></a>OpenFaas:</h4>
-<ul>
-<li class="has-line-data" data-line-start="450" data-line-end="451"><a href="https://github.com/openfaas/faas/releases">FaaS Releases</a></li>
-<li class="has-line-data" data-line-start="451" data-line-end="453"><a href="https://github.com/openfaas/workshop">FaaS Workshop</a></li>
-</ul>
-<h4 class="code-line" data-line-start=453 data-line-end=454 ><a id="Prometheus__Grafana_on_Swarm_453"></a>Prometheus / Grafana on Swarm:</h4>
-<ul>
-<li class="has-line-data" data-line-start="454" data-line-end="455"><a href="https://github.com/stefanprodan/swarmprom">StefanProdan - SwarmProm</a></li>
-<li class="has-line-data" data-line-start="455" data-line-end="456"><a href="https://medium.com/@soumyadipde/monitoring-in-docker-stacks-its-that-easy-with-prometheus-5d71c1042443">Monitoring with Prometheus</a></li>
-<li class="has-line-data" data-line-start="456" data-line-end="457"><a href="https://github.com/uschtwill/docker_monitoring_logging_alerting">UschtWill - Prometheus Grafana Elastalert</a></li>
-<li class="has-line-data" data-line-start="457" data-line-end="458"><a href="https://github.com/chmod666org/docker-swarm-prometheus">Chmod-Org Promethus with Blackbox</a></li>
-<li class="has-line-data" data-line-start="458" data-line-end="460"><a href="https://finestructure.co/blog/2016/5/16/monitoring-with-prometheus-grafana-docker-part-1">Finestructure: Prometheus Tutorial</a></li>
-</ul>
-<h2 class="code-line" data-line-start=460 data-line-end=461 ><a id="Logging__Kibana__Beats_460"></a>Logging / Kibana / Beats</h2>
-<h3 class="code-line" data-line-start=462 data-line-end=463 ><a id="Libraries_462"></a>Libraries</h3>
-<ul>
-<li class="has-line-data" data-line-start="463" data-line-end="465"><a href="https://github.com/Delgan/loguru">Loguru</a> | <a href="https://gist.github.com/M0r13n/0b8c62c603fdbc98361062bd9ebe8153">Flask Example with Loguru</a></li>
-</ul>
-<h3 class="code-line" data-line-start=465 data-line-end=466 ><a id="Frameworks_465"></a>Frameworks</h3>
-<ul>
-<li class="has-line-data" data-line-start="466" data-line-end="467"><a href="https://github.com/shazChaudhry/docker-elastic">shazChaudhry Swarm GELF Stack</a></li>
-</ul>
-<h2 class="code-line" data-line-start=469 data-line-end=470 ><a id="Continious_Integration_469"></a>Continious Integration:</h2>
-<h4 class="code-line" data-line-start=471 data-line-end=472 ><a id="CircleCI_471"></a>Circle-CI</h4>
-<ul>
-<li class="has-line-data" data-line-start="472" data-line-end="474"><a href="https://circleci.com/docs/1.0/language-php/">PHP with Circle-CI</a></li>
-</ul>
-<h4 class="code-line" data-line-start=474 data-line-end=475 ><a id="Concourse_474"></a>Concourse</h4>
-<ul>
-<li class="has-line-data" data-line-start="475" data-line-end="476"><a href="https://concourse.ci/docker-repository.html">Setup Concourse Environment with Docker</a></li>
-<li class="has-line-data" data-line-start="476" data-line-end="477"><a href="https://blog.anynines.com/getting-started-with-concourse-ci-and-docker/">Getting Started with Concourse and Docker</a></li>
-<li class="has-line-data" data-line-start="477" data-line-end="478"><a href="https://github.com/pivotalservices/concourse-pipeline-samples/tree/master/concourse-pipeline-patterns/gated-pipelines">Concourse Gated Pipelines</a></li>
-<li class="has-line-data" data-line-start="478" data-line-end="480"><a href="https://github.com/EugenMayer/concourseci-server-boilerplate">Concourse Boilerplate</a></li>
-</ul>
-<h4 class="code-line" data-line-start=480 data-line-end=481 ><a id="Jenkins_480"></a>Jenkins</h4>
-<ul>
-<li class="has-line-data" data-line-start="481" data-line-end="482"><a href="https://modess.io/jenkins-php/">Modess - PHP with Jenkins</a></li>
-<li class="has-line-data" data-line-start="482" data-line-end="483"><a href="https://code.tutsplus.com/tutorials/setting-up-continuous-integration-continuous-deployment-with-jenkins--cms-21511">CI/CD Nodejs Tutorial with Jenkins</a></li>
-<li class="has-line-data" data-line-start="483" data-line-end="484"><a href="https://medium.com/@mosheezderman/how-to-set-up-ci-cd-pipeline-for-a-node-js-app-with-jenkins-c51581cc783c">CI/CD Nodejs Tutorial with Jenkins @medium</a></li>
-<li class="has-line-data" data-line-start="484" data-line-end="486"><a href="https://github.com/shazChaudhry/docker-swarm-mode">Epic CICD workflow with Jenkins, Gitlab, Sonar, Nexus</a></li>
-</ul>
-<h4 class="code-line" data-line-start=486 data-line-end=487 ><a id="SwarmCi_486"></a>SwarmCi</h4>
-<ul>
-<li class="has-line-data" data-line-start="487" data-line-end="489"><a href="https://github.com/ghostsquad/swarmci">SwarmCI</a></li>
-</ul>
-<h4 class="code-line" data-line-start=489 data-line-end=490 ><a id="TravisCI_489"></a>Travis-CI</h4>
-<ul>
-<li class="has-line-data" data-line-start="490" data-line-end="491"><a href="https://docs.travis-ci.com/user/getting-started/">Getting Started with Travis-CI (Original Docs)</a></li>
-<li class="has-line-data" data-line-start="491" data-line-end="492"><a href="https://github.com/dwyl/learn-travis">Getting Started with Travis-CI (dwyl - nodejs)</a></li>
-<li class="has-line-data" data-line-start="492" data-line-end="493"><a href="https://matthewmoisen.com/blog/how-to-set-up-travis-ci-with-github-for-a-python-project/">Blog Site with Travis-CI (Python)</a></li>
-<li class="has-line-data" data-line-start="493" data-line-end="494"><a href="https://github.com/softwaresaved/build_and_test_examples/blob/master/travis/HelloWorld.md">Build Tests with Python on Travis-CI</a></li>
-<li class="has-line-data" data-line-start="494" data-line-end="496"><a href="https://www.raywenderlich.com/109418/travis-ci-tutorial">Moving app with Travis-CI</a></li>
-</ul>
-<h4 class="code-line" data-line-start=496 data-line-end=497 ><a id="LambCI_496"></a>LambCI</h4>
-<ul>
-<li class="has-line-data" data-line-start="497" data-line-end="499"><a href="https://github.com/lambci/lambci">LambCI</a></li>
-</ul>
-<h2 class="code-line" data-line-start=499 data-line-end=500 ><a id="DynamoDB_499"></a>DynamoDB</h2>
-<h4 class="code-line" data-line-start=501 data-line-end=502 ><a id="DynamoDB_Docs_501"></a>DynamoDB Docs</h4>
-<ul>
-<li class="has-line-data" data-line-start="503" data-line-end="505"><a href="https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SQLtoNoSQL.ReadData.Query.html">AWS DynamoDB: SQL to NoSQL</a></li>
-</ul>
-<h4 class="code-line" data-line-start=505 data-line-end=506 ><a id="DynamoDB_Best_Practices_505"></a>DynamoDB Best Practices</h4>
-<ul>
-<li class="has-line-data" data-line-start="507" data-line-end="508"><a href="https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/">Choosing the Right Partition Key</a></li>
-<li class="has-line-data" data-line-start="508" data-line-end="510"><a href="https://cloudacademy.com/blog/amazon-dynamodb-ten-things/">10 Things you should know</a></li>
-</ul>
-<h4 class="code-line" data-line-start=510 data-line-end=511 ><a id="DynamoDB_General_Info_510"></a>DynamoDB General Info</h4>
-<ul>
-<li class="has-line-data" data-line-start="512" data-line-end="514"><a href="https://medium.com/@yaofei/understand-dynamodb-b278f718ddb8">Understanding DynamoDB</a></li>
-</ul>
-<h2 class="code-line" data-line-start=514 data-line-end=515 ><a id="Elasticsearch_514"></a>Elasticsearch</h2>
-<h4 class="code-line" data-line-start=516 data-line-end=517 ><a id="Elasticsearch_Documentation_516"></a>Elasticsearch Documentation</h4>
-<ul>
-<li class="has-line-data" data-line-start="517" data-line-end="518"><a href="https://www.elastic.co/guide/en/elasticsearch/reference/current/general-recommendations.html">General Recommendation</a></li>
-<li class="has-line-data" data-line-start="518" data-line-end="519"><a href="https://www.elastic.co/blog/how-many-shards-should-i-have-in-my-elasticsearch-cluster">How Many Shards in my Cluster</a></li>
-<li class="has-line-data" data-line-start="519" data-line-end="520"><a href="https://www.elastic.co/blog/managing-time-based-indices-efficiently">Managing Time-Based Indices Efficiently</a></li>
-<li class="has-line-data" data-line-start="520" data-line-end="521"><a href="https://bonsai.io/2016/01/11/ideal-elasticsearch-cluster">Elasticsearch Best Practices (Bonsai.io)</a></li>
-<li class="has-line-data" data-line-start="521" data-line-end="523"><a href="https://aws.amazon.com/premiumsupport/knowledge-center/elasticsearch-scale-up/">AWS ES - Scaling up my Domain</a></li>
-</ul>
-<h4 class="code-line" data-line-start=523 data-line-end=524 ><a id="Elasticsearch_Cheetsheets_523"></a>Elasticsearch Cheetsheets:</h4>
-<ul>
-<li class="has-line-data" data-line-start="524" data-line-end="526"><a href="https://gist.github.com/ruanbekker/e8a09604b14f37e8d2f743a87b930f93">My ES Cheatsheet</a></li>
-</ul>
-<h4 class="code-line" data-line-start=526 data-line-end=527 ><a id="Elasticsearch_Blogs_526"></a>Elasticsearch Blogs</h4>
-<ul>
-<li class="has-line-data" data-line-start="527" data-line-end="528"><a href="https://qbox.io/blog/maximize-guide-elasticsearch-indexing-performance-part-1">Maximize Elasticsearch Indexing Performance</a></li>
-<li class="has-line-data" data-line-start="528" data-line-end="529"><a href="https://qbox.io/blog/authoritative-guide-elasticsearch-performance-tuning-part-1">Autoritative Guide to ES Performance Tuning</a></li>
-<li class="has-line-data" data-line-start="529" data-line-end="530"><a href="https://opendistro.github.io/for-elasticsearch-docs/docs/elasticsearch/full-text/">Full text Search Queries</a></li>
-<li class="has-line-data" data-line-start="530" data-line-end="532"><a href="https://okfnlabs.org/blog/2013/07/01/elasticsearch-query-tutorial.html">Query Elasticsearch</a></li>
-</ul>
-<h4 class="code-line" data-line-start=532 data-line-end=533 ><a id="Elasticsearch_Tools_532"></a>Elasticsearch Tools</h4>
-<ul>
-<li class="has-line-data" data-line-start="533" data-line-end="535"><a href="https://github.com/mallocator/Elasticsearch-Exporter">Export Data from ES to ES</a></li>
-</ul>
-<h2 class="code-line" data-line-start=535 data-line-end=536 ><a id="Environment_Setups_535"></a>Environment Setups:</h2>
-<ul>
-<li class="has-line-data" data-line-start="536" data-line-end="538"><a href="https://medium.com/aishik/install-golang-the-right-way-4743fee9255f">Golang</a></li>
-</ul>
-<h2 class="code-line" data-line-start=538 data-line-end=539 ><a id="Knowledge_Base_538"></a>Knowledge Base</h2>
-<h2 class="code-line" data-line-start=540 data-line-end=541 ><a id="KB_HTTPS_540"></a>KB HTTPS</h2>
-<ul>
-<li class="has-line-data" data-line-start="541" data-line-end="543"><a href="https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https">How does HTTPS work (Miguel Grinberg)</a></li>
-</ul>
-<h2 class="code-line" data-line-start=543 data-line-end=544 ><a id="Kubernetes_543"></a>Kubernetes</h2>
-<ul>
-<li class="has-line-data" data-line-start="545" data-line-end="546"><a href="https://github.com/ramitsurana/awesome-kubernetes/blob/master/README.md">Awesome Kubernetes</a></li>
-<li class="has-line-data" data-line-start="546" data-line-end="547"><a href="https://cheatsheet.dennyzhang.com/cheatsheet-kubernetes-a4">Kubernetes Cheatsheet</a></li>
-<li class="has-line-data" data-line-start="547" data-line-end="548"><a href="https://kubernetes.io/blog/2019/07/23/get-started-with-kubernetes-using-python/">Getting Started: Python application on Kubernetes</a></li>
-<li class="has-line-data" data-line-start="548" data-line-end="549"><a href="https://semaphoreci.com/blog/kubernetes-deployment">Kubernetes Deployments: The Ultimate Guide</a></li>
-<li class="has-line-data" data-line-start="549" data-line-end="550"><a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-a-prometheus-grafana-and-alertmanager-monitoring-stack-on-digitalocean-kubernetes">Prometheus Monitoring Stack with Kubernetes on DO</a></li>
-<li class="has-line-data" data-line-start="550" data-line-end="551"><a href="https://tech.evaneos.com/traefik-as-an-ingress-controller-on-minikube-with-kustomize-helm-a3b2f44a5c2a">Traefik as an Ingress Controller on Minikube</a></li>
-<li class="has-line-data" data-line-start="551" data-line-end="552"><a href="https://itnext.io/traefik-cluster-as-ingress-controller-for-kubernetes-99fa6c34402">Traefik Ingress with Kubernetes</a></li>
-<li class="has-line-data" data-line-start="552" data-line-end="553"><a href="https://medium.com/faun/manually-connect-to-your-kubernetes-cluster-from-the-outside-d852346a7f0a">Manual Connect your Kubernetes from Outside</a></li>
-<li class="has-line-data" data-line-start="553" data-line-end="554"><a href="https://pascalw.me/blog/2019/07/02/k3s-https-letsencrypt.html">HTTPS Letsencrypt on k3s</a></li>
-<li class="has-line-data" data-line-start="554" data-line-end="555"><a href="https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0">Kubernetes: Nodeport vs Loadbalancer</a></li>
-<li class="has-line-data" data-line-start="555" data-line-end="556"><a href="https://medium.com/kubernetes-tutorials/simple-management-of-prometheus-monitoring-pipeline-with-the-prometheus-operator-b445da0e0d1a">Prometheus Monitoring Pipeline on Kubernetes</a></li>
-<li class="has-line-data" data-line-start="556" data-line-end="557"><a href="https://rancher.com/blog/2018/2018-08-07-cicd-pipeline-k8s-autodevops-rancher-and-gitlab/">Building a Kubernetes CI/CD Pipeline with Rancher</a></li>
-<li class="has-line-data" data-line-start="557" data-line-end="558"><a href="https://medium.com/swlh/universal-cicd-pipeline-on-aws-and-k8s-7b4129fac5d4">Building a Kubernetes CI/CD Pipeline with AWS</a></li>
-<li class="has-line-data" data-line-start="558" data-line-end="559"><a href="https://itnext.io/explore-gitea-drone-ci-cd-on-k3s-4a9e99f8b938">Gitea and Drone CI/CD on k3s</a></li>
-<li class="has-line-data" data-line-start="559" data-line-end="560"><a href="https://github.com/openfaas-incubator/openfaas-linkerd2/blob/master/README.md">Serverless with Kubernetes using OpenFaaS and Linkerd2</a></li>
-<li class="has-line-data" data-line-start="560" data-line-end="561"><a href="https://rancher.com/blog/2019/how-to-manage-kubernetes-with-kubectl/">Managing Kubernetes with kubectl</a></li>
-<li class="has-line-data" data-line-start="561" data-line-end="562"><a href="https://gist.github.com/alexellis/a6ee5f094f86987a0dc508442220c52a">OpenFaas Workshop on k3s</a></li>
-<li class="has-line-data" data-line-start="562" data-line-end="563"><a href="http://collabnix.com/kubernetes-hands-on-lab-4-deploy-application-stack-using-helm-on-play-with-kubernetes-platform/">Kubernetes Hands-On Lab with collabnix</a></li>
-<li class="has-line-data" data-line-start="563" data-line-end="564"><a href="https://medium.com/asl19-developers/create-readwritemany-persistentvolumeclaims-on-your-kubernetes-cluster-3a8db51f98e3">Create ReadWrite Persistent Volumes on Kubernetes</a></li>
-<li class="has-line-data" data-line-start="564" data-line-end="566"><a href="https://medium.com/@mattiaperi/kubernetes-cluster-with-k3s-and-multipass-7532361affa3">Kubernetes Clusters with k3s and multipass</a></li>
-</ul>
-<h3 class="code-line" data-line-start=566 data-line-end=567 ><a id="Kubernetes_Storage_566"></a>Kubernetes Storage</h3>
-<ul>
-<li class="has-line-data" data-line-start="567" data-line-end="568"><a href="https://kadalu.io/docs/quick-start">Kadalu</a></li>
-<li class="has-line-data" data-line-start="568" data-line-end="569"><a href="https://rancher.com/docs/k3s/latest/en/storage/">Rancher: Longhorn Storage</a></li>
-</ul>
-<h2 class="code-line" data-line-start=571 data-line-end=572 ><a id="Golang_571"></a>Golang</h2>
-<ul>
-<li class="has-line-data" data-line-start="573" data-line-end="574"><a href="https://github.com/brianvoe/gofakeit">Generate Fake Random Data with Golang</a></li>
-<li class="has-line-data" data-line-start="574" data-line-end="576"><a href="https://github.com/hoanhan101/ultimate-go">Ultimate Golang Study Guide</a></li>
-</ul>
-<h2 class="code-line" data-line-start=576 data-line-end=577 ><a id="Great_Blogs_576"></a>Great Blogs</h2>
-<ul>
-<li class="has-line-data" data-line-start="578" data-line-end="579"><a href="https://www.exratione.com/blog/">Exratione.com</a></li>
-<li class="has-line-data" data-line-start="579" data-line-end="580"><a href="http://joelabrahamsson.com/elasticsearch-101/">Joelabrahamsson.com</a></li>
-<li class="has-line-data" data-line-start="580" data-line-end="581"><a href="http://bencane.com/">Benjamin Cane</a></li>
-<li class="has-line-data" data-line-start="581" data-line-end="582"><a href="http://mherman.org/">Michael Herman</a></li>
-<li class="has-line-data" data-line-start="582" data-line-end="583"><a href="http://charlesleifer.com/">Charles Leifer</a></li>
-<li class="has-line-data" data-line-start="583" data-line-end="584"><a href="https://www.blog.labouardy.com/">Labouardy</a></li>
-<li class="has-line-data" data-line-start="584" data-line-end="586"><a href="https://tech.marksblogg.com">Mark's Tech Blog</a></li>
-</ul>
-<h2 class="code-line" data-line-start=586 data-line-end=587 ><a id="Linuxkit_586"></a>Linuxkit:</h2>
-<ul>
-<li class="has-line-data" data-line-start="587" data-line-end="589"><a href="https://medium.com/aishik/getting-started-with-linuxkit-and-moby-project-ff7121c4e321">Getting Started with Linuxkit</a></li>
-</ul>
-<h2 class="code-line" data-line-start=589 data-line-end=590 ><a id="Logging_Stacks_589"></a>Logging Stacks</h2>
-<ul>
-<li class="has-line-data" data-line-start="590" data-line-end="592"><a href="https://github.com/shazChaudhry/docker-elastic">shazChaudhry Swarm GELF Stack</a></li>
-</ul>
-<h2 class="code-line" data-line-start=592 data-line-end=593 ><a id="Machine_Learning_592"></a>Machine Learning:</h2>
-<ul>
-<li class="has-line-data" data-line-start="593" data-line-end="595"><a href="https://github.com/GokuMohandas/practicalAI/blob/master/README.md">PracticalAI</a></li>
-</ul>
-<h2 class="code-line" data-line-start=595 data-line-end=596 ><a id="Metrics_595"></a>Metrics:</h2>
-<ul>
-<li class="has-line-data" data-line-start="596" data-line-end="597"><a href="https://github.com/avalente/appmetrics">AppMetrics with Flask</a></li>
-<li class="has-line-data" data-line-start="597" data-line-end="598"><a href="https://github.com/Cue/scales">Scales: Metrics for Python</a></li>
-<li class="has-line-data" data-line-start="598" data-line-end="600"><a href="https://pypi.org/project/graphite-pymetrics/">Graphite: Python Flask Metrics</a></li>
-</ul>
-<h2 class="code-line" data-line-start=600 data-line-end=601 ><a id="MongoDB_600"></a>MongoDB:</h2>
-<ul>
-<li class="has-line-data" data-line-start="601" data-line-end="602"><a href="https://linode.com/docs/databases/mongodb/build-database-clusters-with-mongodb/">Setup MongoDB Cluster</a></li>
-<li class="has-line-data" data-line-start="602" data-line-end="603"><a href="https://github.com/AD7six/mongo-scripts">MongoDB Scripts</a></li>
-<li class="has-line-data" data-line-start="603" data-line-end="604"><a href="https://docs.mongodb.com/v2.4/administration/monitoring/#self-hosted-monitoring-tools">MongoDB Monitoring Tools</a></li>
-<li class="has-line-data" data-line-start="604" data-line-end="605"><a href="https://studio3t.com/knowledge-base/articles/mongodb-users-roles-explained-part-1/">Roles with MongoDB</a></li>
-<li class="has-line-data" data-line-start="605" data-line-end="606"><a href="https://www.guru99.com/mongodb-tutorials.html">Queries: Guru99</a></li>
-<li class="has-line-data" data-line-start="606" data-line-end="607"><a href="https://blog.exploratory.io/an-introduction-to-mongodb-query-for-beginners-bd463319aa4c">Queries: Exploratory</a></li>
-<li class="has-line-data" data-line-start="607" data-line-end="608"><a href="https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm">Queries: Tutorialspoint</a></li>
-<li class="has-line-data" data-line-start="608" data-line-end="610"><a href="https://gist.github.com/rbekker87/5b4cd9ef36b6ae092a6260ab9e621a43">Queries: MongoDB Cheatsheet</a></li>
-</ul>
-<h2 class="code-line" data-line-start=610 data-line-end=611 ><a id="Monitoring_610"></a>Monitoring</h2>
-<ul>
-<li class="has-line-data" data-line-start="611" data-line-end="612"><a href="https://hackernoon.com/monitor-swarm-cluster-with-tick-stack-slack-3aaa6483d44a">Docker Swarm Monitoring Stack: Telegraf, InfluxDB, Chronograf, Kapacitor</a> <a href="https://github.com/mlabouardy/swarm-tick">github source</a></li>
-<li class="has-line-data" data-line-start="612" data-line-end="613"><a href="https://stefanprodan.com/2017/docker-swarm-instrumentation-with-prometheus/">Docker Swarm Monitoring Stack: Prometheus, Grafana, cAdvisor, Node Exporter</a> <a href="https://github.com/stefanprodan/swarmprom">github source</a></li>
-<li class="has-line-data" data-line-start="613" data-line-end="614"><a href="https://finestructure.co/blog/2016/5/16/monitoring-with-prometheus-grafana-docker-part-1">Prometheus Grafana Docker</a></li>
-<li class="has-line-data" data-line-start="614" data-line-end="615"><a href="https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/">Prometheus Blog Seros</a></li>
-<li class="has-line-data" data-line-start="615" data-line-end="616"><a href="https://blog.serverdensity.com/monitor-memcached/">Memcached Monitoring</a></li>
-<li class="has-line-data" data-line-start="616" data-line-end="617"><a href="https://raymii.org/s/tutorials/Nagios_Core_4_Installation_on_Ubuntu_12.04.html">Nagios with Nagios Graph</a></li>
-<li class="has-line-data" data-line-start="617" data-line-end="618"><a href="https://medium.com/quiq-blog/better-slack-alerts-from-prometheus-49125c8c672b">Slack Alerts with Prometheus</a></li>
-<li class="has-line-data" data-line-start="618" data-line-end="619"><a href="https://github.com/deanwilson/docker-compose-prometheus">Local Prometheus Stack</a></li>
-<li class="has-line-data" data-line-start="619" data-line-end="621"><a href="https://github.com/chmod666org/docker-swarm-prometheus">Docker Swarm Promethus Setup #1</a>
-<ul>
-<li class="has-line-data" data-line-start="620" data-line-end="621"><a href="https://chmod666.org/2017/08/monitoring-a-docker-swarm-cluster-with-prometheus">Docker Swarm Prometheus Setup #1: Blog</a></li>
-</ul>
-</li>
-<li class="has-line-data" data-line-start="621" data-line-end="622"><a href="https://homelab.business/docker-swarm-monitoring-part-01/">Docker Swarm Promethus Setup #2</a></li>
-<li class="has-line-data" data-line-start="622" data-line-end="623"><a href="https://medium.com/the-telegraph-engineering/how-prometheus-and-the-blackbox-exporter-makes-monitoring-microservice-endpoints-easy-and-free-of-a986078912ee">Docker Swarm Promethus Setup #3 (Blackbox)</a></li>
-<li class="has-line-data" data-line-start="623" data-line-end="625"><a href="https://github.com/fzaninotto/uptime">Uptime (fzaninotto)</a></li>
-</ul>
-<h2 class="code-line" data-line-start=625 data-line-end=626 ><a id="Monitoring_and_Alerting_625"></a>Monitoring and Alerting</h2>
-<ul>
-<li class="has-line-data" data-line-start="626" data-line-end="627"><a href="https://github.com/arachnys/cabot">Cabot (Lightweight Pagerduty)</a></li>
-<li class="has-line-data" data-line-start="627" data-line-end="629"><a href="https://www.nagios.org/">Nagios</a></li>
-</ul>
-<h2 class="code-line" data-line-start=629 data-line-end=630 ><a id="Monitoring_as_Statuspages_629"></a>Monitoring as Statuspages</h2>
-<ul>
-<li class="has-line-data" data-line-start="630" data-line-end="631"><a href="https://github.com/darkpixel/statuspage">Statuspage (darkpixel</a></li>
-<li class="has-line-data" data-line-start="631" data-line-end="633"><a href="https://github.com/cachethq/Cachet">Cachet</a></li>
-</ul>
-<h2 class="code-line" data-line-start=633 data-line-end=634 ><a id="Programming_633"></a>Programming</h2>
-<h4 class="code-line" data-line-start=635 data-line-end=636 ><a id="Golang_635"></a>Golang:</h4>
-<ul>
-<li class="has-line-data" data-line-start="636" data-line-end="637"><a href="http://golangtutorials.blogspot.co.za/2011/05/table-of-contents.html">Golang Tutorials</a></li>
-<li class="has-line-data" data-line-start="637" data-line-end="639"><a href="https://github.com/golang/go/wiki">Golang Wiki</a></li>
-</ul>
-<h4 class="code-line" data-line-start=639 data-line-end=640 ><a id="Java_639"></a>Java:</h4>
-<ul>
-<li class="has-line-data" data-line-start="640" data-line-end="642"><a href="https://wiki.ruanbekker.com/index.php/Java_Spring_Boot_App_Examples">Java Spring Boot Examples</a></li>
-</ul>
-<h4 class="code-line" data-line-start=642 data-line-end=643 ><a id="Python_642"></a>Python</h4>
-<h4 class="code-line" data-line-start=644 data-line-end=645 ><a id="Ruby_644"></a>Ruby:</h4>
-<ul>
-<li class="has-line-data" data-line-start="645" data-line-end="646"><a href="https://learnrubythehardway.org/book">Learn Ruby: Learn Ruby the Hard Way</a></li>
-<li class="has-line-data" data-line-start="646" data-line-end="647"><a href="http://ruby-for-beginners.rubymonstas.org/index.html">Learn Ruby: Ruby for Beginners</a></li>
-<li class="has-line-data" data-line-start="647" data-line-end="648"><a href="https://launchschool.com/books/ruby/read/loops_iterators#forloops">Learn Ruby: Launch School</a></li>
-<li class="has-line-data" data-line-start="648" data-line-end="649"><a href="https://gistpages.com/posts/ruby_arrays_insert_append_length_index_remove">Learn Ruby: Arrays</a></li>
-<li class="has-line-data" data-line-start="649" data-line-end="651"><a href="https://gorails.com/setup/osx/10.12-sierra">Install Ruby Environment on Mac</a></li>
-</ul>
-<h4 class="code-line" data-line-start=651 data-line-end=652 ><a id="Ruby_on_Rails_651"></a>Ruby on Rails:</h4>
-<ul>
-<li class="has-line-data" data-line-start="652" data-line-end="653"><a href="https://www.railstutorial.org/book/beginning">Tutorial: Ruby On Rails</a></li>
-<li class="has-line-data" data-line-start="653" data-line-end="655"><a href="http://codingnudge.com/2017/03/17/tutorial-how-to-run-ruby-on-rails-on-docker-part-1/">Tutorial: ROR on Docker</a></li>
-</ul>
-<h2 class="code-line" data-line-start=655 data-line-end=656 ><a id="Queues_655"></a>Queues</h2>
-<ul>
-<li class="has-line-data" data-line-start="657" data-line-end="658"><a href="https://github.com/roribio/alpine-sqs">Alpine SQS</a></li>
-<li class="has-line-data" data-line-start="658" data-line-end="659"><a href="https://github.com/celery/kombu">Kombu: Messaging library for Python</a></li>
-<li class="has-line-data" data-line-start="659" data-line-end="661"><a href="https://python-rq.org/">Python Job Queues with Redis</a></li>
-</ul>
-<h2 class="code-line" data-line-start=661 data-line-end=662 ><a id="Sysadmin_References_661"></a>Sysadmin References:</h2>
-<ul>
-<li class="has-line-data" data-line-start="662" data-line-end="663"><a href="https://gist.github.com/ruanbekker/3118ed23c25451132becacd3b974db08">Sysadmin Command References</a></li>
-<li class="has-line-data" data-line-start="663" data-line-end="664"><a href="https://medium.com/@chrishantha/linux-performance-observability-tools-19ae2328f87f">Linux Performance Observability Tools</a></li>
-<li class="has-line-data" data-line-start="664" data-line-end="665"><a href="http://bencane.com/2012/08/06/troubleshooting-high-io-wait-in-linux/">Troubleshooting High IO Wait</a></li>
-<li class="has-line-data" data-line-start="665" data-line-end="666"><a href="https://blog.pythian.com/basic-io-monitoring-on-linux/">IO Monitoring in Linux</a></li>
-<li class="has-line-data" data-line-start="666" data-line-end="667"><a href="http://xiayubin.com/blog/2014/01/29/how-i-use-iostat-and-vmstat-for-performance-analysis/">IOStat and VMStat for Performance Monitoring</a></li>
-<li class="has-line-data" data-line-start="667" data-line-end="669"><a href="https://www.tummy.com/articles/isolating-heavy-load/">Debugging Heavy Load</a></li>
-</ul>
-<h2 class="code-line" data-line-start=669 data-line-end=670 ><a id="Self_Hosting_669"></a>Self Hosting</h2>
-<h4 class="code-line" data-line-start=671 data-line-end=672 ><a id="Email_Server_Setups_671"></a>Email Server Setups</h4>
-<ul>
-<li class="has-line-data" data-line-start="672" data-line-end="673"><a href="https://www.exratione.com/2016/05/a-mailserver-on-ubuntu-16-04-postfix-dovecot-mysql/">Extratione: Postfix Dovecot MySQL Virtual Users Postfixadmin</a></li>
-<li class="has-line-data" data-line-start="673" data-line-end="674"><a href="https://www.exratione.com/2019/02/a-mailserver-on-ubuntu-18-04-postfix-dovecot-mysql/">Extratione: Postfix Dovecot MySQL Virtual Users Postfixadmin (Ubuntu 18)</a></li>
-<li class="has-line-data" data-line-start="674" data-line-end="675"><a href="https://linuxize.com/post/set-up-an-email-server-with-postfixadmin/">Linuxsize: Postfix Dovecot MySQL Virtual Users Postfixadmin</a></li>
-<li class="has-line-data" data-line-start="675" data-line-end="676"><a href="https://www.howtoforge.com/postfix_mysql_dovecot_dspam_clamav_postgrey_rbl_debian_etch">Howtoforge: Postfix, MySQL, Dovecto, Dspam</a></li>
-<li class="has-line-data" data-line-start="676" data-line-end="678"><a href="https://linuxize.com/post/set-up-an-email-server-with-postfixadmin/">Linuxsize: VirtualUsers, MySQL, Postfix, Dovecot</a></li>
-</ul>
-<h4 class="code-line" data-line-start=678 data-line-end=679 ><a id="Mailscanner_Server_Setups_678"></a>Mailscanner Server Setups</h4>
-<ul>
-<li class="has-line-data" data-line-start="679" data-line-end="681"><a href="https://syslint.com/blog/tutorial/how-to-install-and-configure-spamassassin-with-postfix-in-debian-8/">Spamassassin with Debian 8</a></li>
-</ul>
-<h4 class="code-line" data-line-start=681 data-line-end=682 ><a id="Financial_681"></a>Financial</h4>
-<ul>
-<li class="has-line-data" data-line-start="682" data-line-end="683"><a href="https://github.com/firefly-iii/firefly-iii">SelfHosted Firefly</a></li>
-</ul>
-<h4 class="code-line" data-line-start=686 data-line-end=687 ><a id="Self_Hosting_Frameworks_686"></a>Self Hosting Frameworks:</h4>
-<ul>
-<li class="has-line-data" data-line-start="687" data-line-end="689"><a href="https://sandstorm.io/">Sandstorm</a></li>
-</ul>
-<h2 class="code-line" data-line-start=689 data-line-end=690 ><a id="Serverless_689"></a>Serverless</h2>
-<ul>
-<li class="has-line-data" data-line-start="691" data-line-end="692"><a href="https://github.com/Miserlou/Zappa">Serverless Zappa</a></li>
-<li class="has-line-data" data-line-start="692" data-line-end="693"><a href="https://github.com/faizanbashir/python-ses-dynamodb-contactform">Serverless Contact Form</a></li>
-<li class="has-line-data" data-line-start="693" data-line-end="695"><a href="https://github.com/danilop/LambdAuth">Serverless Authentication on AWS (danilop)</a></li>
-</ul>
-<h2 class="code-line" data-line-start=695 data-line-end=696 ><a id="VPN_695"></a>VPN:</h2>
-<h4 class="code-line" data-line-start=696 data-line-end=697 ><a id="VPNHowto_696"></a>VPN-Howto:</h4>
-<ul>
-<li class="has-line-data" data-line-start="697" data-line-end="698"><a href="https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/">Ubuntu OpenVPN Script</a></li>
-<li class="has-line-data" data-line-start="698" data-line-end="699"><a href="https://github.com/hwdsl2/setup-ipsec-vpn">Ubuntu IPSec Script</a></li>
-<li class="has-line-data" data-line-start="699" data-line-end="700"><a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04">DO - Setup OpenVPN on Ubuntu</a></li>
-<li class="has-line-data" data-line-start="700" data-line-end="701"><a href="https://www.elastichosts.com/blog/linux-l2tpipsec-vpn-client/">Elasticshosts - IPSec VPN</a></li>
-<li class="has-line-data" data-line-start="701" data-line-end="703"><a href="https://github.com/bedefaced/vpn-install">PPTP/IPSec/OpenVPN Auto Install</a></li>
-</ul>
-<h2 class="code-line" data-line-start=703 data-line-end=704 ><a id="Website_Templates_703"></a>Website Templates</h2>
-<h4 class="code-line" data-line-start=705 data-line-end=706 ><a id="Resume_Templates_705"></a>Resume Templates</h4>
-<ul>
-<li class="has-line-data" data-line-start="706" data-line-end="708"><a href="https://github.com/johnmarcampbell/resume-site">johnmarcampbell resume-site</a></li>
-</ul>
-<h2 class="code-line" data-line-start=708 data-line-end=709 ><a id="Web_Frameworks_708"></a>Web Frameworks</h2>
-<h4 class="code-line" data-line-start=710 data-line-end=711 ><a id="Python_Flask_710"></a>Python Flask:</h4>
-<ul>
-<li class="has-line-data" data-line-start="711" data-line-end="712"><a href="https://gist.github.com/dAnjou/2874714">Python Flask Upload Example</a></li>
-<li class="has-line-data" data-line-start="712" data-line-end="713"><a href="https://github.com/humiaozuzu/awesome-flask#awesome-flask">Awesome Flask - humiaozuzu</a></li>
-<li class="has-line-data" data-line-start="713" data-line-end="714"><a href="https://github.com/greyli?tab=repositories">Awesome Flask Apps - Greyli</a></li>
-<li class="has-line-data" data-line-start="714" data-line-end="715"><a href="https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https">Flask over HTTPS (MG)</a></li>
-<li class="has-line-data" data-line-start="715" data-line-end="716"><a href="https://speakerdeck.com/mitsuhiko/advanced-flask-patterns-1">Flask Advanced Patterns</a></li>
-<li class="has-line-data" data-line-start="716" data-line-end="718"><a href="https://github.com/tojrobinson/flask-mvc">Flask MVC Boilerplate</a></li>
-</ul>
+
+# Node JS Quick Reference
+
+---
+---
+
+```js
+
+
+var http = require('http');
+
+// An example of a web server written with Node which responds with 'Hello World'.
+// To run the server, put the code into a file called example.js and execute it with the node program.
+http.createServer(function (request, response) {
+  response.writeHead(200, {'Content-Type': 'text/plain'});
+  response.end('Hello World\n');
+}).listen(8124);
+
+console.log('Server running at http://127.0.0.1:8124/');
+
+
+/* *******************************************************************************************
+ * GLOBAL OBJECTS
+ * http://nodejs.org/api/globals.html
+ * ******************************************************************************************* */
+
+
+// In browsers, the top-level scope is the global scope.
+// That means that in browsers if you're in the global scope var something will define a global variable.
+// In Node this is different. The top-level scope is not the global scope; var something inside a Node module will be local to that module.
+
+__filename;  // The filename of the code being executed. (absolute path)
+__dirname;   // The name of the directory that the currently executing script resides in. (absolute path)
+module;      // A reference to the current module. In particular module.exports is used for defining what a module exports and makes available through require().
+exports;     // A reference to the module.exports that is shorter to type.
+process;     // The process object is a global object and can be accessed from anywhere. It is an instance of EventEmitter.
+Buffer;      // The Buffer class is a global type for dealing with binary data directly.
+
+
+/* *******************************************************************************************
+ * CONSOLE
+ * http://nodejs.org/api/console.html
+ * ******************************************************************************************* */
+
+
+console.log([data], [...]);             // Prints to stdout with newline.
+console.info([data], [...]);            // Same as console.log.
+console.error([data], [...]);           // Same as console.log but prints to stderr.
+console.warn([data], [...]);            // Same as console.error.
+console.dir(obj);                       // Uses util.inspect on obj and prints resulting string to stdout.
+console.time(label);                    // Mark a time.
+console.timeEnd(label);                 // Finish timer, record output.
+console.trace(label);                   // Print a stack trace to stderr of the current position.
+console.assert(expression, [message]);  // Same as assert.ok() where if the expression evaluates as false throw an AssertionError with message.
+
+
+/* *******************************************************************************************
+ * TIMERS
+ * http://nodejs.org/api/timers.html
+ * ******************************************************************************************* */
+
+
+setTimeout(callback, delay, [arg], [...]);   // To schedule execution of a one-time callback after delay milliseconds. Optionally you can also pass arguments to the callback.
+clearTimeout(t);                             // Stop a timer that was previously created with setTimeout().
+setInterval(callback, delay, [arg], [...]);  // To schedule the repeated execution of callback every delay milliseconds. Optionally you can also pass arguments to the callback.
+clearInterval(t);                            // Stop a timer that was previously created with setInterval().
+setImmediate(callback, [arg], [...]);        // To schedule the "immediate" execution of callback after I/O events callbacks and before setTimeout and setInterval.
+clearImmediate(immediateObject);             // Stop a timer that was previously created with setImmediate().
+
+unref();  // Allow you to create a timer that is active but if it is the only item left in the event loop, node won't keep the program running.
+ref();    // If you had previously unref()d a timer you can call ref() to explicitly request the timer hold the program open.
+
+
+/* *******************************************************************************************
+ * MODULES
+ * http://nodejs.org/api/modules.html
+ * ******************************************************************************************* */
+
+
+var module = require('./module.js');    // Loads the module module.js in the same directory.
+module.require('./another_module.js');  // load another_module as if require() was called from the module itself.
+
+module.id;        // The identifier for the module. Typically this is the fully resolved filename.
+module.filename;  // The fully resolved filename to the module.
+module.loaded;    // Whether or not the module is done loading, or is in the process of loading.
+module.parent;    // The module that required this one.
+module.children;  // The module objects required by this one.
+
+exports.area = function (r) {
+  return Math.PI * r * r;
+};
+
+// If you want the root of your module's export to be a function (such as a constructor)
+// or if you want to export a complete object in one assignment instead of building it one property at a time,
+// assign it to module.exports instead of exports.
+module.exports = function(width) {
+  return {
+    area: function() {
+      return width * width;
+    }
+  };
+}
+
+
+/* *******************************************************************************************
+ * PROCESS
+ * http://nodejs.org/api/process.html
+ * ******************************************************************************************* */
+
+
+process.on('exit', function(code) {});              // Emitted when the process is about to exit
+process.on('uncaughtException', function(err) {});  // Emitted when an exception bubbles all the way back to the event loop. (should not be used)
+
+process.stdout;           // A writable stream to stdout.
+process.stderr;           // A writable stream to stderr.
+process.stdin;            // A readable stream for stdin.
+
+process.argv;             // An array containing the command line arguments.
+process.env;              // An object containing the user environment.
+process.execPath;         // This is the absolute pathname of the executable that started the process.
+process.execArgv;         // This is the set of node-specific command line options from the executable that started the process.
+
+process.arch;             // What processor architecture you're running on: 'arm', 'ia32', or 'x64'.
+process.config;           // An Object containing the JavaScript representation of the configure options that were used to compile the current node executable.
+process.pid;              // The PID of the process.
+process.platform;         // What platform you're running on: 'darwin', 'freebsd', 'linux', 'sunos' or 'win32'.
+process.title;            // Getter/setter to set what is displayed in 'ps'.
+process.version;          // A compiled-in property that exposes NODE_VERSION.
+process.versions;         // A property exposing version strings of node and its dependencies.
+
+process.abort();          // This causes node to emit an abort. This will cause node to exit and generate a core file.
+process.chdir(dir);       // Changes the current working directory of the process or throws an exception if that fails.
+process.cwd();            // Returns the current working directory of the process.
+process.exit([code]);     // Ends the process with the specified code. If omitted, exit uses the 'success' code 0.
+process.getgid();         // Gets the group identity of the process.
+process.setgid(id);       // Sets the group identity of the process.
+process.getuid();         // Gets the user identity of the process.
+process.setuid(id);       // Sets the user identity of the process.
+process.getgroups();      // Returns an array with the supplementary group IDs.
+process.setgroups(grps);  // Sets the supplementary group IDs.
+
+process.initgroups(user, extra_grp);  // Reads /etc/group and initializes the group access list, using all groups of which the user is a member.
+process.kill(pid, [signal]);          // Send a signal to a process. pid is the process id and signal is the string describing the signal to send.
+process.memoryUsage();                // Returns an object describing the memory usage of the Node process measured in bytes.
+process.nextTick(callback);           // On the next loop around the event loop call this callback.
+process.maxTickDepth;                 // Callbacks passed to process.nextTick will usually be called at the end of the current flow of execution, and are thus approximately as fast as calling a function synchronously.
+process.umask([mask]);                // Sets or reads the process's file mode creation mask.
+process.uptime();                     // Number of seconds Node has been running.
+process.hrtime();                     // Returns the current high-resolution real time in a [seconds, nanoseconds] tuple Array.
+
+
+/* *******************************************************************************************
+ * CHILD PROCESS
+ * http://nodejs.org/api/child_process.html
+ * ******************************************************************************************* */
+
+
+// Node provides a tri-directional popen facility through the child_process module.
+// It is possible to stream data through a child's stdin, stdout, and stderr in a fully non-blocking way.
+
+ChildProcess;                                                 // Class. ChildProcess is an EventEmitter.
+
+child.stdin;                                                  // A Writable Stream that represents the child process's stdin
+child.stdout;                                                 // A Readable Stream that represents the child process's stdout
+child.stderr;                                                 // A Readable Stream that represents the child process's stderr.
+child.pid;                                                    // The PID of the child process
+child.connected;                                              // If .connected is false, it is no longer possible to send messages
+child.kill([signal]);                                         // Send a signal to the child process
+child.send(message, [sendHandle]);                            // When using child_process.fork() you can write to the child using child.send(message, [sendHandle]) and messages are received by a 'message' event on the child.
+child.disconnect();                                           // Close the IPC channel between parent and child, allowing the child to exit gracefully once there are no other connections keeping it alive.
+child_process.spawn(command, [args], [options]);              // Launches a new process with the given command, with command line arguments in args. If omitted, args defaults to an empty Array.
+child_process.exec(command, [options], callback);             // Runs a command in a shell and buffers the output.
+child_process.execFile(file, [args], [options], [callback]);  // Runs a command in a shell and buffers the output.
+child_process.fork(modulePath, [args], [options]);            // This is a special case of the spawn() functionality for spawning Node processes. In addition to having all the methods in a normal ChildProcess instance, the returned object has a communication channel built-in. 
+
+
+/* *******************************************************************************************
+ * UTIL
+ * http://nodejs.org/api/util.html
+ * ******************************************************************************************* */
+
+
+// These functions are in the module 'util'. Use require('util') to access them.
+
+util.format(format, [...]);    // Returns a formatted string using the first argument as a printf-like format. (%s, %d, %j)
+util.debug(string);            // A synchronous output function. Will block the process and output string immediately to stderr.
+util.error([...]);             // Same as util.debug() except this will output all arguments immediately to stderr.
+util.puts([...]);              // A synchronous output function. Will block the process and output all arguments to stdout with newlines after each argument.
+util.print([...]);             // A synchronous output function. Will block the process, cast each argument to a string then output to stdout. (no newlines)
+util.log(string);              // Output with timestamp on stdout.
+util.inspect(object, [opts]);  // Return a string representation of object, which is useful for debugging. (options: showHidden, depth, colors, customInspect)
+util.isArray(object);          // Returns true if the given "object" is an Array. false otherwise.
+util.isRegExp(object);         // Returns true if the given "object" is a RegExp. false otherwise.
+util.isDate(object);           // Returns true if the given "object" is a Date. false otherwise.
+util.isError(object);          // Returns true if the given "object" is an Error. false otherwise.
+util.promisify(fn)             // Takes a function whose last argument is a callback and returns a version that returns promises.
+
+util.inherits(constructor, superConstructor);  // Inherit the prototype methods from one constructor into another.
+
+
+/* *******************************************************************************************
+ * EVENTS
+ * http://nodejs.org/api/events.html
+ * ******************************************************************************************* */
+
+
+// All objects which emit events are instances of events.EventEmitter. You can access this module by doing: require("events");
+// To access the EventEmitter class, require('events').EventEmitter.
+// All EventEmitters emit the event 'newListener' when new listeners are added and 'removeListener' when a listener is removed.
+
+emitter.addListener(event, listener);        // Adds a listener to the end of the listeners array for the specified event.
+emitter.on(event, listener);                 // Same as emitter.addListener().
+emitter.once(event, listener);               // Adds a one time listener for the event. This listener is invoked only the next time the event is fired, after which it is removed.
+emitter.removeListener(event, listener);     // Remove a listener from the listener array for the specified event.
+emitter.removeAllListeners([event]);         // Removes all listeners, or those of the specified event.
+emitter.setMaxListeners(n);                  // By default EventEmitters will print a warning if more than 10 listeners are added for a particular event.
+emitter.listeners(event);                    // Returns an array of listeners for the specified event.
+emitter.emit(event, [arg1], [arg2], [...]);  // Execute each of the listeners in order with the supplied arguments. Returns true if event had listeners, false otherwise.
+
+EventEmitter.listenerCount(emitter, event);  // Return the number of listeners for a given event.
+
+
+/* *******************************************************************************************
+ * STREAM
+ * http://nodejs.org/api/stream.html
+ * ******************************************************************************************* */
+
+
+// A stream is an abstract interface implemented by various objects in Node. For example a request to an HTTP server is a stream, as is stdout.
+// Streams are readable, writable, or both. All streams are instances of EventEmitter.
+
+// The Readable stream interface is the abstraction for a source of data that you are reading from.
+// In other words, data comes out of a Readable stream.
+// A Readable stream will not start emitting data until you indicate that you are ready to receive it.
+// Examples of readable streams include: http responses on the client, http requests on the server, fs read streams
+// zlib streams, crypto streams, tcp sockets, child process stdout and stderr, process.stdin.
+
+var readable = getReadableStreamSomehow();
+
+readable.on('readable', function() {});   // When a chunk of data can be read from the stream, it will emit a 'readable' event.
+readable.on('data', function(chunk) {});  // If you attach a data event listener, then it will switch the stream into flowing mode, and data will be passed to your handler as soon as it is available.
+readable.on('end', function() {});        // This event fires when there will be no more data to read.
+readable.on('close', function() {});      // Emitted when the underlying resource (for example, the backing file descriptor) has been closed. Not all streams will emit this.
+readable.on('error', function() {});      // Emitted if there was an error receiving data.
+
+// The read() method pulls some data out of the internal buffer and returns it. If there is no data available, then it will return null.
+// This method should only be called in non-flowing mode. In flowing-mode, this method is called automatically until the internal buffer is drained.
+readable.read([size]);
+
+readable.setEncoding(encoding);           // Call this function to cause the stream to return strings of the specified encoding instead of Buffer objects.
+readable.resume();                        // This method will cause the readable stream to resume emitting data events.
+readable.pause();                         // This method will cause a stream in flowing-mode to stop emitting data events.
+readable.pipe(destination, [options]);    // This method pulls all the data out of a readable stream, and writes it to the supplied destination, automatically managing the flow so that the destination is not overwhelmed by a fast readable stream.
+readable.unpipe([destination]);           // This method will remove the hooks set up for a previous pipe() call. If the destination is not specified, then all pipes are removed.
+readable.unshift(chunk);                  // This is useful in certain cases where a stream is being consumed by a parser, which needs to "un-consume" some data that it has optimistically pulled out of the source, so that the stream can be passed on to some other party.
+
+
+// The Writable stream interface is an abstraction for a destination that you are writing data to.
+// Examples of writable streams include: http requests on the client, http responses on the server, fs write streams,
+// zlib streams, crypto streams, tcp sockets, child process stdin, process.stdout, process.stderr.
+
+var writer = getWritableStreamSomehow();
+
+writable.write(chunk, [encoding], [callback]);  // This method writes some data to the underlying system, and calls the supplied callback once the data has been fully handled.
+writer.once('drain', write);                    // If a writable.write(chunk) call returns false, then the drain event will indicate when it is appropriate to begin writing more data to the stream.
+
+writable.end([chunk], [encoding], [callback]);  // Call this method when no more data will be written to the stream.
+writer.on('finish', function() {});             // When the end() method has been called, and all data has been flushed to the underlying system, this event is emitted.
+writer.on('pipe', function(src) {});            // This is emitted whenever the pipe() method is called on a readable stream, adding this writable to its set of destinations.
+writer.on('unpipe', function(src) {});          // This is emitted whenever the unpipe() method is called on a readable stream, removing this writable from its set of destinations.
+writer.on('error', function(src) {});           // Emitted if there was an error when writing or piping data.
+
+
+// Duplex streams are streams that implement both the Readable and Writable interfaces. See above for usage.
+// Examples of Duplex streams include: tcp sockets, zlib streams, crypto streams.
+
+// Transform streams are Duplex streams where the output is in some way computed from the input. They implement both the Readable and Writable interfaces. See above for usage.
+// Examples of Transform streams include: zlib streams, crypto streams.
+
+
+/* *******************************************************************************************
+ * FILE SYSTEM
+ * http://nodejs.org/api/fs.html
+ * ******************************************************************************************* */
+
+
+// To use this module do require('fs').
+// All the methods have asynchronous and synchronous forms.
+
+fs.rename(oldPath, newPath, callback);  // Asynchronous rename. No arguments other than a possible exception are given to the completion callback.Asynchronous ftruncate. No arguments other than a possible exception are given to the completion callback.
+fs.renameSync(oldPath, newPath);        // Synchronous rename.
+
+fs.ftruncate(fd, len, callback);        // Asynchronous ftruncate. No arguments other than a possible exception are given to the completion callback.
+fs.ftruncateSync(fd, len);              // Synchronous ftruncate.
+fs.truncate(path, len, callback);       // Asynchronous truncate. No arguments other than a possible exception are given to the completion callback.
+fs.truncateSync(path, len);             // Synchronous truncate.
+
+fs.chown(path, uid, gid, callback);     // Asynchronous chown. No arguments other than a possible exception are given to the completion callback.
+fs.chownSync(path, uid, gid);           // Synchronous chown.
+fs.fchown(fd, uid, gid, callback);      // Asynchronous fchown. No arguments other than a possible exception are given to the completion callback.
+fs.fchownSync(fd, uid, gid);            // Synchronous fchown.
+fs.lchown(path, uid, gid, callback);    // Asynchronous lchown. No arguments other than a possible exception are given to the completion callback.
+fs.lchownSync(path, uid, gid);          // Synchronous lchown.
+
+fs.chmod(path, mode, callback);         // Asynchronous chmod. No arguments other than a possible exception are given to the completion callback.
+fs.chmodSync(path, mode);               // Synchronous chmod.
+fs.fchmod(fd, mode, callback);          // Asynchronous fchmod. No arguments other than a possible exception are given to the completion callback.
+fs.fchmodSync(fd, mode);                // Synchronous fchmod.
+fs.lchmod(path, mode, callback);        // Asynchronous lchmod. No arguments other than a possible exception are given to the completion callback.
+fs.lchmodSync(path, mode);              // Synchronous lchmod.
+
+fs.stat(path, callback);                // Asynchronous stat. The callback gets two arguments (err, stats) where stats is a fs.Stats object. 
+fs.statSync(path);                      // Synchronous stat. Returns an instance of fs.Stats.
+fs.lstat(path, callback);               // Asynchronous lstat. The callback gets two arguments (err, stats) where stats is a fs.Stats object. lstat() is identical to stat(), except that if path is a symbolic link, then the link itself is stat-ed, not the file that it refers to.
+fs.lstatSync(path);                     // Synchronous lstat. Returns an instance of fs.Stats.
+fs.fstat(fd, callback);                 // Asynchronous fstat. The callback gets two arguments (err, stats) where stats is a fs.Stats object. fstat() is identical to stat(), except that the file to be stat-ed is specified by the file descriptor fd.
+fs.fstatSync(fd);                       // Synchronous fstat. Returns an instance of fs.Stats.
+
+fs.link(srcpath, dstpath, callback);             // Asynchronous link. No arguments other than a possible exception are given to the completion callback.
+fs.linkSync(srcpath, dstpath);                   // Synchronous link.
+fs.symlink(srcpath, dstpath, [type], callback);  // Asynchronous symlink. No arguments other than a possible exception are given to the completion callback. The type argument can be set to 'dir', 'file', or 'junction' (default is 'file') and is only available on Windows (ignored on other platforms)
+fs.symlinkSync(srcpath, dstpath, [type]);        // Synchronous symlink.
+fs.readlink(path, callback);                     // Asynchronous readlink. The callback gets two arguments (err, linkString).
+fs.readlinkSync(path);                           // Synchronous readlink. Returns the symbolic link's string value.
+fs.unlink(path, callback);                       // Asynchronous unlink. No arguments other than a possible exception are given to the completion callback.
+fs.unlinkSync(path);                             // Synchronous unlink.
+
+fs.realpath(path, [cache], callback);     // Asynchronous realpath. The callback gets two arguments (err, resolvedPath).
+fs.realpathSync(path, [cache]);           // Synchronous realpath. Returns the resolved path.
+
+fs.rmdir(path, callback);                 // Asynchronous rmdir. No arguments other than a possible exception are given to the completion callback.
+fs.rmdirSync(path);                       // Synchronous rmdir.
+fs.mkdir(path, [mode], callback);         // Asynchronous mkdir. No arguments other than a possible exception are given to the completion callback. mode defaults to 0777.
+fs.mkdirSync(path, [mode]);               // Synchronous mkdir.
+fs.readdir(path, callback);               // Asynchronous readdir. Reads the contents of a directory. The callback gets two arguments (err, files) where files is an array of the names of the files in the directory excluding '.' and '..'.
+fs.readdirSync(path);                     // Synchronous readdir. Returns an array of filenames excluding '.' and '..'.
+fs.close(fd, callback);                   // Asynchronous close. No arguments other than a possible exception are given to the completion callback.
+fs.closeSync(fd);                         // Synchronous close.
+fs.open(path, flags, [mode], callback);   // Asynchronous file open.
+fs.openSync(path, flags, [mode]);         // Synchronous version of fs.open().
+fs.utimes(path, atime, mtime, callback);  // Change file timestamps of the file referenced by the supplied path.
+fs.utimesSync(path, atime, mtime);        // Synchronous version of fs.utimes().
+fs.futimes(fd, atime, mtime, callback);   // Change the file timestamps of a file referenced by the supplied file descriptor.
+fs.futimesSync(fd, atime, mtime);         // Synchronous version of fs.futimes().
+fs.fsync(fd, callback);                   // Asynchronous fsync. No arguments other than a possible exception are given to the completion callback.
+fs.fsyncSync(fd);                         // Synchronous fsync.
+
+fs.write(fd, buffer, offset, length, position, callback);  // Write buffer to the file specified by fd.
+fs.writeSync(fd, buffer, offset, length, position);        // Synchronous version of fs.write(). Returns the number of bytes written.
+fs.read(fd, buffer, offset, length, position, callback);   // Read data from the file specified by fd.
+fs.readSync(fd, buffer, offset, length, position);         // Synchronous version of fs.read. Returns the number of bytesRead.
+fs.readFile(filename, [options], callback);                // Asynchronously reads the entire contents of a file.
+fs.readFileSync(filename, [options]);                      // Synchronous version of fs.readFile. Returns the contents of the filename. If the encoding option is specified then this function returns a string. Otherwise it returns a buffer.
+
+fs.writeFile(filename, data, [options], callback);   // Asynchronously writes data to a file, replacing the file if it already exists. data can be a string or a buffer.
+fs.writeFileSync(filename, data, [options]);         // The synchronous version of fs.writeFile.
+fs.appendFile(filename, data, [options], callback);  // Asynchronously append data to a file, creating the file if it not yet exists. data can be a string or a buffer.
+fs.appendFileSync(filename, data, [options]);        // The synchronous version of fs.appendFile.
+fs.watch(filename, [options], [listener]);           // Watch for changes on filename, where filename is either a file or a directory. The returned object is a fs.FSWatcher. The listener callback gets two arguments (event, filename). event is either 'rename' or 'change', and filename is the name of the file which triggered the event.
+fs.exists(path, callback);                           // Test whether or not the given path exists by checking with the file system. Then call the callback argument with either true or false. (should not be used)
+fs.existsSync(path);                                 // Synchronous version of fs.exists. (should not be used)
+
+// fs.Stats: objects returned from fs.stat(), fs.lstat() and fs.fstat() and their synchronous counterparts are of this type.
+stats.isFile();
+stats.isDirectory()
+stats.isBlockDevice()
+stats.isCharacterDevice()
+stats.isSymbolicLink()  // (only valid with fs.lstat())
+stats.isFIFO()
+stats.isSocket()
+
+fs.createReadStream(path, [options]);   // Returns a new ReadStream object.
+fs.createWriteStream(path, [options]);  // Returns a new WriteStream object.
+
+
+/* *******************************************************************************************
+ * PATH
+ * http://nodejs.org/api/fs.html
+ * ******************************************************************************************* */
+
+
+// Use require('path') to use this module.
+// This module contains utilities for handling and transforming file paths.
+// Almost all these methods perform only string transformations.
+// The file system is not consulted to check whether paths are valid.
+
+path.normalize(p);                    // Normalize a string path, taking care of '..' and '.' parts.
+path.join([path1], [path2], [...]);   // Join all arguments together and normalize the resulting path.
+path.resolve([from ...], to);         // Resolves 'to' to an absolute path.
+path.relative(from, to);              // Solve the relative path from 'from' to 'to'.
+path.dirname(p);                      // Return the directory name of a path. Similar to the Unix dirname command.
+path.basename(p, [ext]);              // Return the last portion of a path. Similar to the Unix basename command.
+path.extname(p);                      // Return the extension of the path, from the last '.' to end of string in the last portion of the path.
+
+path.sep;                             // The platform-specific file separator. '\\' or '/'.
+path.delimiter;                       // The platform-specific path delimiter, ';' or ':'.
+
+
+/* *******************************************************************************************
+ * HTTP
+ * http://nodejs.org/api/http.html
+ * ******************************************************************************************* */
+
+
+// To use the HTTP server and client one must require('http').
+
+http.STATUS_CODES;                                             // A collection of all the standard HTTP response status codes, and the short description of each.
+http.request(options, [callback]);                             // This function allows one to transparently issue requests.
+http.get(options, [callback]);                                 // Set the method to GET and calls req.end() automatically.
+
+server = http.createServer([requestListener]);                 // Returns a new web server object. The requestListener is a function which is automatically added to the 'request' event.
+server.listen(port, [hostname], [backlog], [callback]);        // Begin accepting connections on the specified port and hostname.
+server.listen(path, [callback]);                               // Start a UNIX socket server listening for connections on the given path.
+server.listen(handle, [callback]);                             // The handle object can be set to either a server or socket (anything with an underlying _handle member), or a {fd: <n>} object.
+server.close([callback]);                                      // Stops the server from accepting new connections. 
+server.setTimeout(msecs, callback);                            // Sets the timeout value for sockets, and emits a 'timeout' event on the Server object, passing the socket as an argument, if a timeout occurs.
+
+server.maxHeadersCount;  // Limits maximum incoming headers count, equal to 1000 by default. If set to 0 - no limit will be applied.
+server.timeout;          // The number of milliseconds of inactivity before a socket is presumed to have timed out.
+
+server.on('request', function (request, response) { });        // Emitted each time there is a request.
+server.on('connection', function (socket) { });                // When a new TCP stream is established.
+server.on('close', function () { });                           // Emitted when the server closes.
+server.on('checkContinue', function (request, response) { });  // Emitted each time a request with an http Expect: 100-continue is received.
+server.on('connect', function (request, socket, head) { });    // Emitted each time a client requests a http CONNECT method.
+server.on('upgrade', function (request, socket, head) { });    // Emitted each time a client requests a http upgrade.
+server.on('clientError', function (exception, socket) { });    // If a client connection emits an 'error' event - it will forwarded here.
+
+request.write(chunk, [encoding]);                              // Sends a chunk of the body.
+request.end([data], [encoding]);                               // Finishes sending the request. If any parts of the body are unsent, it will flush them to the stream.
+request.abort();                                               // Aborts a request.
+request.setTimeout(timeout, [callback]);                       // Once a socket is assigned to this request and is connected socket.setTimeout() will be called.
+request.setNoDelay([noDelay]);                                 // Once a socket is assigned to this request and is connected socket.setNoDelay() will be called.
+request.setSocketKeepAlive([enable], [initialDelay]);          // Once a socket is assigned to this request and is connected socket.setKeepAlive() will be called.
+
+request.on('response', function(response) { });                // Emitted when a response is received to this request. This event is emitted only once.
+request.on('socket', function(socket) { });                    // Emitted after a socket is assigned to this request.
+request.on('connect', function(response, socket, head) { });   // Emitted each time a server responds to a request with a CONNECT method. If this event isn't being listened for, clients receiving a CONNECT method will have their connections closed.
+request.on('upgrade', function(response, socket, head) { });   // Emitted each time a server responds to a request with an upgrade. If this event isn't being listened for, clients receiving an upgrade header will have their connections closed.
+request.on('continue', function() { });                        // Emitted when the server sends a '100 Continue' HTTP response, usually because the request contained 'Expect: 100-continue'. This is an instruction that the client should send the request body.
+
+response.write(chunk, [encoding]);                             // This sends a chunk of the response body. If this merthod is called and response.writeHead() has not been called, it will switch to implicit header mode and flush the implicit headers.
+response.writeContinue();                                      // Sends a HTTP/1.1 100 Continue message to the client, indicating that the request body should be sent.
+response.writeHead(statusCode, [reasonPhrase], [headers]);     // Sends a response header to the request.
+response.setTimeout(msecs, callback);                          // Sets the Socket's timeout value to msecs. If a callback is provided, then it is added as a listener on the 'timeout' event on the response object.
+response.setHeader(name, value);                               // Sets a single header value for implicit headers. If this header already exists in the to-be-sent headers, its value will be replaced. Use an array of strings here if you need to send multiple headers with the same name.
+response.getHeader(name);                                      // Reads out a header that's already been queued but not sent to the client. Note that the name is case insensitive.
+response.removeHeader(name);                                   // Removes a header that's queued for implicit sending.
+response.addTrailers(headers);                                 // This method adds HTTP trailing headers (a header but at the end of the message) to the response.
+response.end([data], [encoding]);                              // This method signals to the server that all of the response headers and body have been sent; that server should consider this message complete. The method, response.end(), MUST be called on each response.
+
+response.statusCode;                                           // When using implicit headers (not calling response.writeHead() explicitly), this property controls the status code that will be sent to the client when the headers get flushed.
+response.headersSent;                                          // Boolean (read-only). True if headers were sent, false otherwise.
+response.sendDate;                                             // When true, the Date header will be automatically generated and sent in the response if it is not already present in the headers. Defaults to true.
+
+response.on('close', function () { });  // Indicates that the underlying connection was terminated before response.end() was called or able to flush.
+response.on('finish', function() { });  // Emitted when the response has been sent. 
+
+message.httpVersion;                    // In case of server request, the HTTP version sent by the client. In the case of client response, the HTTP version of the connected-to server.
+message.headers;                        // The request/response headers object.
+message.trailers;                       // The request/response trailers object. Only populated after the 'end' event.
+message.method;                         // The request method as a string. Read only. Example: 'GET', 'DELETE'.
+message.url;                            // Request URL string. This contains only the URL that is present in the actual HTTP request.
+message.statusCode;                     // The 3-digit HTTP response status code. E.G. 404.
+message.socket;                         // The net.Socket object associated with the connection.
+
+message.setTimeout(msecs, callback);    // Calls message.connection.setTimeout(msecs, callback).
+
+
+/* *******************************************************************************************
+ * URL
+ * http://nodejs.org/api/url.html
+ * ******************************************************************************************* */
+
+
+// This module has utilities for URL resolution and parsing. Call require('url') to use it.
+
+url.parse(urlStr, [parseQueryString], [slashesDenoteHost]);  // Take a URL string, and return an object.
+url.format(urlObj);                                          // Take a parsed URL object, and return a formatted URL string.
+url.resolve(from, to);                                       // Take a base URL, and a href URL, and resolve them as a browser would for an anchor tag.
+
+
+/* *******************************************************************************************
+ * QUERY STRING
+ * http://nodejs.org/api/querystring.html
+ * ******************************************************************************************* */
+
+
+// This module provides utilities for dealing with query strings. Call require('querystring') to use it.
+
+querystring.stringify(obj, [sep], [eq]);         // Serialize an object to a query string. Optionally override the default separator ('&') and assignment ('=') characters.
+querystring.parse(str, [sep], [eq], [options]);  // Deserialize a query string to an object. Optionally override the default separator ('&') and assignment ('=') characters.
+
+
+/* *******************************************************************************************
+ * ASSERT
+ * http://nodejs.org/api/assert.html
+ * ******************************************************************************************* */
+
+
+// This module is used for writing unit tests for your applications, you can access it with require('assert').
+
+assert.fail(actual, expected, message, operator);     // Throws an exception that displays the values for actual and expected separated by the provided operator.
+assert(value, message); assert.ok(value, [message]);  // Tests if value is truthy, it is equivalent to assert.equal(true, !!value, message);
+assert.equal(actual, expected, [message]);            // Tests shallow, coercive equality with the equal comparison operator ( == ).
+assert.notEqual(actual, expected, [message]);         // Tests shallow, coercive non-equality with the not equal comparison operator ( != ).
+assert.deepEqual(actual, expected, [message]);        // Tests for deep equality.
+assert.notDeepEqual(actual, expected, [message]);     // Tests for any deep inequality.
+assert.strictEqual(actual, expected, [message]);      // Tests strict equality, as determined by the strict equality operator ( === )
+assert.notStrictEqual(actual, expected, [message]);   // Tests strict non-equality, as determined by the strict not equal operator ( !== )
+assert.throws(block, [error], [message]);             // Expects block to throw an error. error can be constructor, RegExp or validation function.
+assert.doesNotThrow(block, [message]);                // Expects block not to throw an error, see assert.throws for details.
+assert.ifError(value);                                // Tests if value is not a false value, throws if it is a true value. Useful when testing the first argument, error in callbacks.
+
+
+/* *******************************************************************************************
+ * OS
+ * http://nodejs.org/api/os.html
+ * ******************************************************************************************* */
+
+
+// Provides a few basic operating-system related utility functions.
+// Use require('os') to access this module.
+
+os.tmpdir();             // Returns the operating system's default directory for temp files.
+os.endianness();         // Returns the endianness of the CPU. Possible values are "BE" or "LE".
+os.hostname();           // Returns the hostname of the operating system.
+os.type();               // Returns the operating system name.
+os.platform();           // Returns the operating system platform.
+os.arch();               // Returns the operating system CPU architecture.
+os.release();            // Returns the operating system release.
+os.uptime();             // Returns the system uptime in seconds.
+os.loadavg();            // Returns an array containing the 1, 5, and 15 minute load averages.
+os.totalmem();           // Returns the total amount of system memory in bytes.
+os.freemem();            // Returns the amount of free system memory in bytes.
+os.cpus();               // Returns an array of objects containing information about each CPU/core installed: model, speed (in MHz), and times (an object containing the number of milliseconds the CPU/core spent in: user, nice, sys, idle, and irq).
+os.networkInterfaces();  // Get a list of network interfaces.
+os.EOL;                  // A constant defining the appropriate End-of-line marker for the operating system.
+
+
+/* *******************************************************************************************
+ * BUFFER
+ * http://nodejs.org/api/buffer.html
+ * ******************************************************************************************* */
+
+
+// Buffer is used to dealing with binary data
+// Buffer is similar to an array of integers but corresponds to a raw memory allocation outside the V8 heap
+
+Buffer.from(size);                                                  // Allocates a new buffer of size octets.
+Buffer.from(array);                                                 // Allocates a new buffer using an array of octets.
+Buffer.from(str, [encoding]);                                       // Allocates a new buffer containing the given str. encoding defaults to 'utf8'.
+
+Buffer.isEncoding(encoding);                                        // Returns true if the encoding is a valid encoding argument, or false otherwise.
+Buffer.isBuffer(obj);                                               // Tests if obj is a Buffer
+Buffer.concat(list, [totalLength]);                                 // Returns a buffer which is the result of concatenating all the buffers in the list together.
+Buffer.byteLength(string, [encoding]);                              // Gives the actual byte length of a string.
+
+buf.write(string, [offset], [length], [encoding]);                  // Writes string to the buffer at offset using the given encoding
+buf.toString([encoding], [start], [end]);                           // Decodes and returns a string from buffer data encoded with encoding (defaults to 'utf8') beginning at start (defaults to 0) and ending at end (defaults to buffer.length).
+buf.toJSON();                                                       // Returns a JSON-representation of the Buffer instance, which is identical to the output for JSON Arrays
+buf.copy(targetBuffer, [targetStart], [sourceStart], [sourceEnd]);  // Does copy between buffers. The source and target regions can be overlapped
+buf.slice([start], [end]);                                          // Returns a new buffer which references the same memory as the old, but offset and cropped by the start (defaults to 0) and end (defaults to buffer.length) indexes. Negative indexes start from the end of the buffer.   
+buf.fill(value, [offset], [end]);                                   // Fills the buffer with the specified value
+buf[index];                                                         // Get and set the octet at index
+buf.length;                                                         // The size of the buffer in bytes, Note that this is not necessarily the size of the contents
+
+buffer.INSPECT_MAX_BYTES;                                           // How many bytes will be returned when buffer.inspect() is called. This can be overridden by user modules.
+
+
+
+```
+
+
