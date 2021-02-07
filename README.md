@@ -3,9 +3,14 @@
 
  
 ![img](./activity.JPG)
- <center>
+
+---
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)
  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ---
@@ -28,7 +33,7 @@
 </div>
 
 <hr>
-</center>
+
  
  ---
  
@@ -89,7 +94,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)
  
 
- 
+ ---
  
  
  
@@ -135,14 +140,14 @@
 - [ ] ✅ [_Phone_](#phone)
 - [ ] ✅ [Social](#social)
 
-![breakup]("https://wakatime.com/share/@bgoonz/40056be1-5bc5-47a1-ab8a-594ce0cd5ff5.svg")
+
 
 ---
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-[![Documentation Status](https://goofy-euclid-1cd736.netlify.app/0-assets/planning/documentation/portfolio/tree-diagram.html)](https://goofy-euclid-1cd736.netlify.app/0-assets/planning/documentation/portfolio/tree-diagram.html)
+
 
 ---
 
@@ -174,6 +179,7 @@
 
 
 ---
+
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bgoonz)
 
 *    [**GitHub**](https://github.com/bgoonz)
@@ -182,8 +188,12 @@
 
 
  <center>
+ 
 <div style=" border: 1px solid black">
+ 
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
+
+
 </div>
 
 <hr>
@@ -226,9 +236,9 @@ Portfolio:
 
 
 <center>
-<img src="./bryan-guner-resume-2021.jpeg" alt="hr-line" width="80%" height="800px" border="1px solid gold">
+<img src="./bryan-guner-resume-2021.jpeg" alt="hr-line" width="70%" height="800px" border="1px solid gold">
 </center>
-![resume](./tcnj.JPG)
+
 
 </center>
 
@@ -325,9 +335,10 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 
 [React Repo](https://github.com/bgoonz/React-Practice)
 
-[![Edit a-simple-react-router-v4-tutorial-forked](https://codesandbox.io/static/img/play-codesandbox.svg)]
+![Edit a-simple-react-router-v4-tutorial-forked](https://codesandbox.io/static/img/play-codesandbox.svg)(https://codesandbox.io/s/agitated-wiles-s0uhp?file=/README.md)
 ---
 
+<a href="https://codesandbox.io/embed/zealous-microservice-ti7em?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"   style="width:100%; height:20px; border:0; border-radius: 4px; overflow:hidden;" rel="React Todo">![Foo](https://codesandbox.io/static/img/play-codesandbox.svg)</a>
 
 
 
