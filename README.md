@@ -375,7 +375,7 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 ![alt](https://sway.office.com/s/xW9h9KBIalj9GLr0/embed")
 
 
-# _MY INTERESTS_:
+# _MY Interests / Resources_:
 
 <p class="has-line-data" data-line-start="322" data-line-end="323"><img src="https://sway.office.com/s/xW9h9KBIalj9GLr0/embed%22" alt="alt"></p>
 <h1 class="code-line" data-line-start=325 data-line-end=326 ><a id="_MY_INTERESTS__325"></a><em>MY INTERESTS</em>:</h1>
