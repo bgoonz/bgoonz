@@ -335,7 +335,7 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 
 [React Repo](https://github.com/bgoonz/React-Practice)
 
-![Edit a-simple-react-router-v4-tutorial-forked](https://codesandbox.io/static/img/play-codesandbox.svg)(https://codesandbox.io/s/agitated-wiles-s0uhp?file=/README.md)
+
 ---
 
 <a href="https://codesandbox.io/embed/zealous-microservice-ti7em?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"   style="width:100%; height:20px; border:0; border-radius: 4px; overflow:hidden;" rel="React Todo">![Foo](https://codesandbox.io/static/img/play-codesandbox.svg)</a>
