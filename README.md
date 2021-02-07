@@ -94,7 +94,7 @@
 <div>
  
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)
+
  
 
  ---
@@ -130,7 +130,7 @@
 [Hi I'm Bryan!](#hi-im-bryan)
 - [ ] ✅ [Portfolio:](#portfolio)
 - [ ] ✅- [OR:](#or)
-- [ ] ✅ [Github-Pages](#github-pages)
+- [ ] ✅ [Github-Pages](#github-pages)re
 - [ ] ✅ [Github Gists](#github-gists)
 - [ ] ✅ [Web Dev Resource Hub](#web-dev-resource-hub)
 - [ ] ✅ [Mihir\_Beg.com](#mihir_begcom)
@@ -239,7 +239,7 @@ Portfolio:
 
 
 <center>
-<img src="./bryan-guner-resume-2021.jpeg" alt="hr-line" width="70%" height="800px" border="1px solid gold">
+<img src="./bryan-guner-resume-2021.jpeg" alt="hr-line" width="78%" height="800px" border="1px solid gold">
 </center>
 
 
