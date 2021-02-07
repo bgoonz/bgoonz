@@ -37,6 +37,7 @@
  
 ![img](./wakasuper.png) 
 
+---
 
 ---
 ### _DAY2_
@@ -54,7 +55,21 @@
 
 ---
 
+### _DAY3_
+---
 
+<div style=" border: 1px solid black">
+ 
+<img align="center" src="./day3.JPG" ></img>   
+
+
+
+<figcaption>Day # 3 Tracking Coding with WakaTime <a href="https://resume.github.io/?bgoonz"></a></figcaption>
+
+</div>
+
+
+---
 
 
 
