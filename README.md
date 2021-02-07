@@ -1,8 +1,5 @@
 
- []ryo-)
- 
- 
- ma&theme=monokai)
+<img align="right" alt="GIF" src="https://github.com/bgoonz/bgoonz/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
 
  
 ![img](./activity.JPG)
