@@ -6,11 +6,11 @@
 
 ---
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)
+ [![Top Langs*](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)*](https://github.com/bgoonz)
  
 ---
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy*](https://github-profile-trophy.vercel.app/?username=bgoonz&theme=onedark)*](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ---
@@ -91,14 +91,14 @@
 <div>
  
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)
+ [![Top Langs*](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)*](https://github.com/bgoonz)
  
 
  ---
  
  
  
- [![](http://img.youtube.com/vi/xGZSWvFess8/0.jpg)](http://www.youtube.com/watch?v=xGZSWvFess8 "Ancestrial Solo")
+ [![*](http://img.youtube.com/vi/xGZSWvFess8/0.jpg)*](http://www.youtube.com/watch?v=xGZSWvFess8 "Ancestrial Solo")
  
 
  
@@ -144,7 +144,7 @@
 
 ---
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love*](https://badges.frapsoft.com/os/v1/open-source.png?v=103)*](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell*](https://badges.frapsoft.com/bash/v1/bash.png?v=103)*](https://github.com/ellerbrock/open-source-badges/)
 
 
 
@@ -152,39 +152,39 @@
 ---
 
 ---
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![Website shields.io*](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)*](http://shields.io/)
+[![Ask Me Anything !*](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)*](https://GitHub.com/Naereen/ama)
+[![Gitter*](https://badges.gitter.im/bgoonz/community.svg)*](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Open In Collab*](https://colab.research.google.com/assets/colab-badge.svg)*](https://colab.research.google.com/github/Naereen/badges)
+[![PyPI license*](https://img.shields.io/pypi/l/ansicolortags.svg)*](https://pypi.python.org/pypi/ansicolortags/)
 
 ---
- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+ ![JavaScript*](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Redux](https://img.shields.io/badge/-Redux-lightblue?style=flat&logo=redux)
+![React*](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Redux*](https://img.shields.io/badge/-Redux-lightblue?style=flat&logo=redux)
 
   
 
- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)
+ ![HTML5*](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3*](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Sass*](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)
 
  
  
 
-![Express](https://img.shields.io/badge/-Express-blue?style=flat&logo=express) ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)![Python](https://img.shields.io/badge/-Python-lightyellow?style=flat&logo=python&logoColor=blue)     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) 
+![Express*](https://img.shields.io/badge/-Express-blue?style=flat&logo=express) ![Nodejs*](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)![Python*](https://img.shields.io/badge/-Python-lightyellow?style=flat&logo=python&logoColor=blue)     ![Bootstrap*](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) 
 
   
 
- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)                                 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![PostgresQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)      ![Ruby](https://img.shields.io/badge/-Ruby-darkred?style=flat&logo=ruby)             ![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=Material-UI&logoColor=white)                     
+ ![Docker*](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)                                 ![MySQL*](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![PostgresQL*](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql) ![Git*](https://img.shields.io/badge/-Git-black?style=flat&logo=git)      ![Ruby*](https://img.shields.io/badge/-Ruby-darkred?style=flat&logo=ruby)             ![Material-UI*](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=Material-UI&logoColor=white)                     
 
 
 
 ---
 
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bgoonz)
+[![GitHub stars*](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)*](https://github.com/bgoonz)
 
-*    [**GitHub**](https://github.com/bgoonz)
-*    [**Instagram**](https://www.instagram.com/bgoonz/)
-*    [**LinkedIn**](https://www.linkedin.com/in/bryan-guner-046199128/)
+*    [**GitHub***](https://github.com/bgoonz)
+*    [**Instagram***](https://www.instagram.com/bgoonz/)
+*    [**LinkedIn***](https://www.linkedin.com/in/bryan-guner-046199128/)
 
 
  <center>
@@ -208,11 +208,11 @@ Portfolio:
 ![po](./skills.JPG)
 
 
-[netlify](https://tender-bartik-074feb.netlify.app/)
+[netlify*](https://tender-bartik-074feb.netlify.app/)
 
 #### OR:
 
-[Github-Pages](https://bgoonz.github.io/)
+[Github-Pages*](https://bgoonz.github.io/)
 
 ---
 
@@ -225,7 +225,7 @@ Portfolio:
 <hr>
 </center>
 
-[Github Gists](https://gist.github.com/bgoonz)
+[Github Gists*](https://gist.github.com/bgoonz)
 
 ---
 
@@ -247,7 +247,7 @@ Portfolio:
 
 
 
-[github-resume](https://resume.github.io/?bgoonz)
+[github-resume*](https://resume.github.io/?bgoonz)
 
 
 
@@ -269,10 +269,10 @@ Web Dev Resource Hub
 
 ### My personal Web Development blog and resource sharing site
 
-*   [Live Site](https://goofy-euclid-1cd736.netlify.app/)
+*   [*Live Site*](https://goofy-euclid-1cd736.netlify.app/)
 
 
-*   [Main Page](https://goofy-euclid-1cd736.netlify.app/core-site/index.html)
+*   [*Main Page*](https://goofy-euclid-1cd736.netlify.app/core-site/index.html)
 
 
   
@@ -294,7 +294,7 @@ Web Dev Resource Hub
 
 -Talk about App Features & Design Process Here-
 
--   [Live Site](https://eloquent-sammet-ba1810.netlify.app/)
+-   [Live Site*](https://eloquent-sammet-ba1810.netlify.app/)
 
  <center>
 <div style=" border: 1px solid black">
@@ -312,7 +312,7 @@ Interview Prep Static Site
 
 -Hope this helps someone other than me!-
 
-*   [Live Site](https://gracious-raman-474030.netlify.app)
+*   [*Live Site*](https://gracious-raman-474030.netlify.app)
 
 ---
 
@@ -333,12 +333,12 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 
 #### React Repo:
 
-[React Repo](https://github.com/bgoonz/React-Practice)
+[React Repo*](https://github.com/bgoonz/React-Practice)
 
 
 ---
 
-<a href="https://codesandbox.io/embed/zealous-microservice-ti7em?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"   style="width:100%; height:20px; border:0; border-radius: 4px; overflow:hidden;" rel="React Todo">![Foo](https://codesandbox.io/static/img/play-codesandbox.svg)</a>
+<a href="https://codesandbox.io/embed/zealous-microservice-ti7em?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"   style="width:100%; height:20px; border:0; border-radius: 4px; overflow:hidden;" rel="React Todo">![Foo*](https://codesandbox.io/static/img/play-codesandbox.svg)</a>
 
 
 
@@ -361,18 +361,18 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 
 ## Social
 
--   [GitHub](https://github.com/bgoonz)
--   [code pen](https://codepen.io/bgoonz)
--   [Instagram](https://www.instagram.com/bgoonz/)
--   [LinkedIn](https://www.linkedin.com/in/bryan-guner-046199128/)
--   [Replit](https://repl.it/@bgoonz/)
--   [Redit](https://www.reddit.com/user/bgoonz1)
--   [runkit](https://runkit.com/bgoonz)
--   [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)
+-   [GitHub*](https://github.com/bgoonz)
+-   [code pen*](https://codepen.io/bgoonz)
+-   [Instagram*](https://www.instagram.com/bgoonz/)
+-   [LinkedIn*](https://www.linkedin.com/in/bryan-guner-046199128/)
+-   [Replit*](https://repl.it/@bgoonz/)
+-   [Redit*](https://www.reddit.com/user/bgoonz1)
+-   [runkit*](https://runkit.com/bgoonz)
+-   [stack-exchange*](https://meta.stackexchange.com/users/936785/bryan-guner)
 </center>
 
 
-![alt](https://sway.office.com/s/xW9h9KBIalj9GLr0/embed")
+![alt*](https://sway.office.com/s/xW9h9KBIalj9GLr0/embed")
 
 
 # _MY Interests / Resources_:
@@ -453,8 +453,8 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 </ul>
 <h4 class="code-line" data-line-start=389 data-line-end=390 ><a id="Awesome_Docker_Repos_389"></a>Awesome Docker Repos</h4>
 <ul>
-<li class="has-line-data" data-line-start="390" data-line-end="391"><a href="https://github.com/jessfraz/dockerfiles">Jess’s Dockerfiles</a></li>
-<li class="has-line-data" data-line-start="391" data-line-end="393"><a href="https://github.com/firecat53/dockerfiles">Firecat53’s Dockerfiles</a></li>
+<li class="has-line-data" data-line-start="390" data-line-end="391"><a href="https://github.com/jessfraz/dockerfiles">Jess's Dockerfiles</a></li>
+<li class="has-line-data" data-line-start="391" data-line-end="393"><a href="https://github.com/firecat53/dockerfiles">Firecat53's Dockerfiles</a></li>
 </ul>
 <h4 class="code-line" data-line-start=393 data-line-end=394 ><a id="RaspberryPi_ARM_Images_393"></a>RaspberryPi ARM Images:</h4>
 <ul>
@@ -661,7 +661,7 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 <li class="has-line-data" data-line-start="581" data-line-end="582"><a href="http://mherman.org/">Michael Herman</a></li>
 <li class="has-line-data" data-line-start="582" data-line-end="583"><a href="http://charlesleifer.com/">Charles Leifer</a></li>
 <li class="has-line-data" data-line-start="583" data-line-end="584"><a href="https://www.blog.labouardy.com/">Labouardy</a></li>
-<li class="has-line-data" data-line-start="584" data-line-end="586"><a href="https://tech.marksblogg.com">Mark’s Tech Blog</a></li>
+<li class="has-line-data" data-line-start="584" data-line-end="586"><a href="https://tech.marksblogg.com">Mark's Tech Blog</a></li>
 </ul>
 <h2 class="code-line" data-line-start=586 data-line-end=587 ><a id="Linuxkit_586"></a>Linuxkit:</h2>
 <ul>
