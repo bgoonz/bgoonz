@@ -52,17 +52,7 @@
 <hr>
 
 
----
 
-
-## DAY # 1 WakaTime app:
-
-![img](./wakasuper.png) 
-
----
-
----
-### _DAY2_
 ---
 
 <div style=" border: 1px solid black">
@@ -71,18 +61,12 @@
 
 
 
-<figcaption>Day # 2 Tracking Coding with WakaTime <a href="https://resume.github.io/?bgoonz"></a></figcaption>
+<figcaption>Tracking Coding with WakaTime <a href="https://resume.github.io/?bgoonz"></a></figcaption>
 
 </div>
 
 ---
 
-### _DAY3_
----
-
-<div style=" border: 1px solid black">
-
-<img align="center" src="./day3.PNG" ></img>   
 
 
 
