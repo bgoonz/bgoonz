@@ -54,7 +54,7 @@
 
 <div style=" border: 1px solid black">
 
-<img align="center" src="./waka.JPG" ></img>   
+<img align="center" src="./wakasuper.JPG" ></img>   
 
 
 
