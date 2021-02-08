@@ -1,5 +1,5 @@
-
-<img src="./octocat.png" stye="width:100; height:100;">   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" stye="width:100; height:100;"> 
+![ViewCount](https://views.whatilearened.today/views/github/bgoonz/views.svg)
+<img src="./octocat.png" stye="width:100px; height:100px;">   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" stye="width:100px; height:100px;"> 
 
 ### HI
 ---
@@ -16,6 +16,9 @@
 
 > Refresh for a new joke!
 
+
+---
+
 ![img](./activity.JPG)
 
 ---
@@ -25,7 +28,7 @@
 
 ---
 
-![ViewCount](https://views.whatilearened.today/views/github/bgoonz/views.svg)
+
 
 ---
 
@@ -54,39 +57,17 @@
 
 <div style=" border: 1px solid black">
 
-<img align="center" src="./wakasuper.JPG" ></img>   
-
-
-
-<figcaption>Tracking Coding with WakaTime <a href="https://resume.github.io/?bgoonz"></a></figcaption>
-
-</div>
-
----
-
-
-
-
-
-
-</div>
-
-
----
-
-
-
-
-
-
-
-<div>
+![img](./wakasuper.png) 
 
 
 </div>
 
 ---
-<div>
+
+
+
+
+
 
 
 
@@ -99,24 +80,6 @@
 [![](http://img.youtube.com/vi/xGZSWvFess8/0.jpg)](http://www.youtube.com/watch?v=xGZSWvFess8 "Ancestrial Solo")
 
 
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
----
-
-</center>
-<hr>
 
 
 
@@ -147,7 +110,7 @@
 
 
 
----
+
 
 ---
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
