@@ -1,4 +1,6 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45%"> 
+
+![octo](./octocat.png)
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45%"> 
 
 ### HI
 ---
