@@ -1,4 +1,8 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45%"> HI
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45%"> 
+
+### HI
+---
+
   <img align="right" alt="GIF" src="https://github.com/bgoonz/bgoonz/raw/master/code.gif?raw=true" width="500" height="320" width="28%";">
 
 ---
