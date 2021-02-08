@@ -54,7 +54,7 @@
 
 <div style=" border: 1px solid black">
 
-<img align="center" src="./day2.JPG" ></img>   
+<img align="center" src="./day3.JPG" ></img>   
 
 
 
