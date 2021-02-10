@@ -10,44 +10,6 @@
 <img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/bryan-profile-pic.jpg?raw=true" ></img>    <img align="center" src="https://github.com/bgoonz/web-dev-notes-resource-site/blob/ac10e07e3cdc5abcf22f0ed570acaf7a5c400877/core-site/upload/best-prac-250.gif" width="475" height="400"></img>
 </div>
 
-<hr>
-
-<center>
-<div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
-
-
-</div>
-
-<hr>
-
-
-
----
-
-<div style=" border: 1px solid black">
-
-![img](./wakasuper.png) 
-
-
-</div>
-
----
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-[![](http://img.youtube.com/vi/xGZSWvFess8/0.jpg)](http://www.youtube.com/watch?v=xGZSWvFess8 "Ancestrial Solo")
 
 
 
@@ -272,7 +234,7 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 
 <a href="https://codesandbox.io/embed/zealous-microservice-ti7em?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"   style="width:100%; height:20px; border:0; border-radius: 4px; overflow:hidden;" rel="React Todo">![Foo](https://codesandbox.io/static/img/play-codesandbox.svg)</a>
 
-
+---
 
 <center>
 <div style=" border: 1px solid black">
@@ -304,4 +266,48 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 </center>
 
 
-![alt](https://sway.office.com/s/xW9h9KBIalj9GLr0/embed")
+<hr>
+
+<center>
+<div style=" border: 1px solid black">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
+
+
+</div>
+
+<hr>
+
+
+
+---
+
+<div style=" border: 1px solid black">
+
+![img](./wakasuper.png) 
+
+
+</div>
+
+---
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+[![](http://img.youtube.com/vi/xGZSWvFess8/0.jpg)](http://www.youtube.com/watch?v=xGZSWvFess8 "Ancestrial Solo")
+
+
+
+
+
+
+
