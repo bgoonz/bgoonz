@@ -276,6 +276,35 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 
 <hr>
 
+![ViewCount](https://views.whatilearened.today/views/github/bgoonz/views.svg)
+
+
+### HI
+---
+
+<img align="right" alt="GIF" src="https://github.com/bgoonz/bgoonz/raw/master/code.gif?raw=true" stye="width:500; height:320;">
+
+---
+
+
+
+<img src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
+
+---
+
+> Refresh for a new joke!
+
+
+---
+
+![img](./activity.JPG)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 ---
