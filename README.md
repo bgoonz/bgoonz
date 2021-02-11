@@ -12,6 +12,19 @@
 
 ---
 
+![ViewCount](https://views.whatilearened.today/views/github/bgoonz/views.svg)
+
+
+
+
+---
+
+<img src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
+
+---
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)
 [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -236,41 +249,17 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 </center>
 
 
-<hr>
 
 <center>
 <div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
 
 
-</div>
-
-<hr>
-
-![ViewCount](https://views.whatilearened.today/views/github/bgoonz/views.svg)
-
-
-### HI
----
-
-<img align="right" alt="GIF" src="https://github.com/bgoonz/bgoonz/raw/master/code.gif?raw=true" stye="width:500; height:320;">
-
----
 
 
 
-<img src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
-
----
-
-> Refresh for a new joke!
 
 
----
-
-![img](./activity.JPG)
-
----
 
 
 
