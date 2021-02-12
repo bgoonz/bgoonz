@@ -203,7 +203,7 @@ hashDirIn( pathB );
 
 ---
 
-### 
+### Jupyter Note Book Entry On Fourier Transform:
 
 ```python
 {
@@ -2623,7 +2623,7 @@ buf.length;                                                         // The size 
 buffer.INSPECT_MAX_BYTES;                                           // How many bytes will be returned when buffer.inspect() is called. This can be overridden by user modules.
 ```
 
-```
+
 
 
 
