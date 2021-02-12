@@ -1,6 +1,5 @@
 
 
-
 ---
 
 # Hi, I am Bryan!
@@ -46,20 +45,52 @@
 ---
 
 [Hi I'm Bryan!](#hi-im-bryan)
-- [ ] ✅ [Portfolio:](#portfolio)
-- [ ] ✅- [OR:](#or)
-- [ ] ✅ [Github-Pages](#github-pages)
+- [ ] ✅ [Hi, I am Bryan!](#hi-i-am-bryan)
+      - [ ] ✅ [Refresh the page for a new joke!](#refresh-the-page-for-a-new-joke)
+    - [ ] ✅ [Stats](#stats)
+  - [ ] ✅ [!Profile views](#)
+  - [ ] ✅ [Portfolio:](#portfolio)
+      - [ ] ✅ [OR:](#or)
 - [ ] ✅ [Github Gists](#github-gists)
-- [ ] ✅ [Web Dev Resource Hub](#web-dev-resource-hub)
-- [ ] ✅ [Mihir\_Beg.com](#mihir_begcom)
-- [ ] ✅ [Interview Prep Static Site](#interview-prep-static-site)
-- [ ] ✅ [Data Structures Repository](#data-structures-repository)
-- [ ] ✅ [Learning React Blog](#learning-react-blog)
-- [ ] ✅ [React Repo:](#react-repo)
-- [ ] ✅ [React Repo](#react-repo-1)
-- [ ] ✅ [_Email_](#email)
-- [ ] ✅ [_Phone_](#phone)
-- [ ] ✅ [Social](#social)
+    - [ ] ✅ [Find Duplicate Files in Working Directory](#find-duplicate-files-in-working-directory)
+    - [ ] ✅ [Node Cheat Sheet](#node-cheat-sheet)
+    - [ ] ✅ [Trello Board Json to HTML Converter](#trello-board-json-to-html-converter)
+- [ ] ✅ [Experience](#experience)
+- [ ] ✅ [Education](#education)
+  - [ ] ✅ [Web Dev Resource Hub](#web-dev-resource-hub)
+    - [ ] ✅ [My personal Web Development blog and resource sharing site](#my-personal-web-development-blog-and-resource-sharing-site)
+  - [ ] ✅ [MihirBeg.com](#mihirbegcom)
+    - [ ] ✅ [Created a dynamic web page for a local musician using the Bootsrtap framework.](#created-a-dynamic-web-page-for-a-local-musician-using-the-bootsrtap-framework)
+  - [ ] ✅ [Interview Prep Static Site](#interview-prep-static-site)
+    - [ ] ✅ [Data Structures Repository](#data-structures-repository)
+  - [ ] ✅ [Learning React Blog](#learning-react-blog)
+      - [ ] ✅ [React Repo:](#react-repo)
+  - [ ] ✅ [_Email_](#email)
+  - [ ] ✅ [_Phone_](#phone)
+  - [ ] ✅ [Social](#social)
+- [ ] ✅ [Hi, I am Bryan!](#hi-i-am-bryan-1)
+      - [ ] ✅ [Refresh the page for a new joke!](#refresh-the-page-for-a-new-joke-1)
+  - [ ] ✅ [!Profile views](#-1)
+  - [ ] ✅ [Portfolio:](#portfolio-1)
+      - [ ] ✅ [OR:](#or-1)
+- [ ] ✅ [My Gists:](#my-gists)
+    - [ ] ✅ [Find Duplicate Files in Working Directory](#find-duplicate-files-in-working-directory-1)
+    - [ ] ✅ [Node Cheat Sheet](#node-cheat-sheet-1)
+    - [ ] ✅ [Trello Board Json to HTML Converter](#trello-board-json-to-html-converter-1)
+- [ ] ✅ [Experience](#experience-1)
+- [ ] ✅ [Education](#education-1)
+  - [ ] ✅ [_Email_](#email-1)
+  - [ ] ✅ [_Phone_](#phone-1)
+  - [ ] ✅ [Social](#social-1)
+  - [ ] ✅ [Web Dev Resource Hub](#web-dev-resource-hub-1)
+    - [ ] ✅ [My personal Web Development blog and resource sharing site](#my-personal-web-development-blog-and-resource-sharing-site-1)
+- [ ] ✅ [Mihir_Beg.com](#mihir_begcom)
+    - [ ] ✅ [Created a dynamic web page for a local musician using the Bootsrtap framework.](#created-a-dynamic-web-page-for-a-local-musician-using-the-bootsrtap-framework-1)
+  - [ ] ✅ [Interview Prep Static Site](#interview-prep-static-site-1)
+    - [ ] ✅ [Data Structures Repository](#data-structures-repository-1)
+  - [ ] ✅ [Learning React Blog](#learning-react-blog-1)
+      - [ ] ✅ [React Repo:](#react-repo-1)
+
 
 
 
