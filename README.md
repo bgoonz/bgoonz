@@ -7,7 +7,7 @@
 </center>
 <center>
 <div style=" border: 1px solid black">
-<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/bryan-profile-pic.jpg?raw=true" ></img> 
+<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
 </div>
 
 ---
@@ -122,7 +122,7 @@ Portfolio:
 [github-resume](https://resume.github.io/?bgoonz)
 
 <center>
-<img src="./bryan-guner-resume-2021.jpeg" alt="hr-line" width="85%" height="920px" >
+<img src="./bryan-guner-resume-2021.jpeg" alt="hr-line" width="93%" height="920px" >
 </center>
 
 
