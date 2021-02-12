@@ -26,8 +26,18 @@
 
 
 ---
+[![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/bgoonz/bgoonz/graphs/commit-activity)
+[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/Naereen/README.md?pixel)](https://GitHub.com/bgoonz/bgoonz/)
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/bgoonz/)
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+[![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com)
 
-
+### Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bgoonz&theme=blue-green)](https://github.com/bgoonz/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)
 [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -38,7 +48,7 @@
 [Hi I'm Bryan!](#hi-im-bryan)
 - [ ] ✅ [Portfolio:](#portfolio)
 - [ ] ✅- [OR:](#or)
-- [ ] ✅ [Github-Pages](#github-pages)re
+- [ ] ✅ [Github-Pages](#github-pages)
 - [ ] ✅ [Github Gists](#github-gists)
 - [ ] ✅ [Web Dev Resource Hub](#web-dev-resource-hub)
 - [ ] ✅ [Mihir\_Beg.com](#mihir_begcom)
@@ -125,7 +135,7 @@ Portfolio:
 [Github Gists](https://gist.github.com/bgoonz)
 
 
-# My Gists:
+# Github Gists
 
 <details>
   
@@ -790,19 +800,19 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 **Technical Skills­­­**
 
 | **Programming**** Languages:** | JavaScript ES-6, NodeJS, React, HTML5, CSS3, SCSS, Bash Shell, Excel, SQL, NoSQL, MATLAB, Python, C++ |
-| --- | --- |
-| **Databases:** | PostgreSQL, MongoDB |
-| **Cloud:** | Docker, AWS, Google App Engine, Netlify, Digital Ocean, Heroku, Azure Cloud Services |
-| **OS:** | Linux, Windows (WSL), IOS |
-| **Agile:** | GitHub, BitBucket, Jira, Confluence |
-| **IDEs:** | VSCode, Visual Studio, Atom, Code Blocks, Sublime Text 3, Brackets |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| **Databases:**                 | PostgreSQL, MongoDB                                                                                   |
+| **Cloud:**                     | Docker, AWS, Google App Engine, Netlify, Digital Ocean, Heroku, Azure Cloud Services                  |
+| **OS:**                        | Linux, Windows (WSL), IOS                                                                             |
+| **Agile:**                     | GitHub, BitBucket, Jira, Confluence                                                                   |
+| **IDEs:**                      | VSCode, Visual Studio, Atom, Code Blocks, Sublime Text 3, Brackets                                    |
 
 # Experience
 
 | **Relational Concepts:** Hallandale Beach, FL | March 2020 - Present |
-| --- | --- |
-| **Front End Web Developer** |
- |
+| --------------------------------------------- | -------------------- |
+| **Front End Web Developer**                   |
+|                                               |
 
 - Responsible for front-end development for a custom real estate application which provides sophisticated and fully customizable filtering to allow investors and real estate professionals to narrow in on exact search targets.
 - Designed mock-up screens, wireframes, and workflows for intuitive user experience.
@@ -815,12 +825,12 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 - Injected Google Analytics to capture pertinent usage data to produce an insightful dashboard experience.
 
 | **Environment:** | **JavaScript, JQuery, React, HTML5 &amp; CSS, Bootstrap, DOJO, Google Cloud, Bash Script** |
-| --- | --- |
+| ---------------- | ------------------------------------------------------------------------------------------ |
 
-| **Cembre:** Edison, NJ | Nov 2019 – Mar 2020 |
-| --- | --- |
+| **Cembre:** Edison, NJ           | Nov 2019 – Mar 2020 |
+| -------------------------------- | ------------------- |
 | **Product Development Engineer** |
- |
+|                                  |
 
 - Converted client&#39;s product needs into technical specs to be sent to the development team in Italy.
 - Reorganized internal file server structure.
@@ -829,12 +839,12 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 - Served as the primary point of contact for troubleshooting railroad hardware and software in the North America.
 
 | **Environment:** | **Excel, AutoCAD, PowerPoint, Word** |
-| --- | --- |
+| ---------------- | ------------------------------------ |
 
 # Education
 
 | **B.S. Electrical Engineering, TCNJ,** Ewing NJ | 2014 – 2019 |
-| --- | --- |
+| ----------------------------------------------- | ----------- |
 
 **Capstone Project – Team Lead**
 
@@ -842,7 +852,7 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 - Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.
 
 | **Environment:** | **C++, Python, MATLAB, PureData** |
-| --- | --- |
+| ---------------- | --------------------------------- |
 
 **References and portfolio available upon request**
 
@@ -1766,7 +1776,7 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 
 
 
-</details>
+
 
 ---
 [github-resume](https://resume.github.io/?bgoonz)
@@ -1775,19 +1785,19 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 **Technical Skills­­­**
 
 | **Programming**** Languages:** | JavaScript ES-6, NodeJS, React, HTML5, CSS3, SCSS, Bash Shell, Excel, SQL, NoSQL, MATLAB, Python, C++ |
-| --- | --- |
-| **Databases:** | PostgreSQL, MongoDB |
-| **Cloud:** | Docker, AWS, Google App Engine, Netlify, Digital Ocean, Heroku, Azure Cloud Services |
-| **OS:** | Linux, Windows (WSL), IOS |
-| **Agile:** | GitHub, BitBucket, Jira, Confluence |
-| **IDEs:** | VSCode, Visual Studio, Atom, Code Blocks, Sublime Text 3, Brackets |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| **Databases:**                 | PostgreSQL, MongoDB                                                                                   |
+| **Cloud:**                     | Docker, AWS, Google App Engine, Netlify, Digital Ocean, Heroku, Azure Cloud Services                  |
+| **OS:**                        | Linux, Windows (WSL), IOS                                                                             |
+| **Agile:**                     | GitHub, BitBucket, Jira, Confluence                                                                   |
+| **IDEs:**                      | VSCode, Visual Studio, Atom, Code Blocks, Sublime Text 3, Brackets                                    |
 
 # Experience
 
 | **Relational Concepts:** Hallandale Beach, FL | March 2020 - Present |
-| --- | --- |
-| **Front End Web Developer** |
- |
+| --------------------------------------------- | -------------------- |
+| **Front End Web Developer**                   |
+|                                               |
 
 - Responsible for front-end development for a custom real estate application which provides sophisticated and fully customizable filtering to allow investors and real estate professionals to narrow in on exact search targets.
 - Designed mock-up screens, wireframes, and workflows for intuitive user experience.
@@ -1800,12 +1810,12 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 - Injected Google Analytics to capture pertinent usage data to produce an insightful dashboard experience.
 
 | **Environment:** | **JavaScript, JQuery, React, HTML5 &amp; CSS, Bootstrap, DOJO, Google Cloud, Bash Script** |
-| --- | --- |
+| ---------------- | ------------------------------------------------------------------------------------------ |
 
-| **Cembre:** Edison, NJ | Nov 2019 – Mar 2020 |
-| --- | --- |
+| **Cembre:** Edison, NJ           | Nov 2019 – Mar 2020 |
+| -------------------------------- | ------------------- |
 | **Product Development Engineer** |
- |
+|                                  |
 
 - Converted client&#39;s product needs into technical specs to be sent to the development team in Italy.
 - Reorganized internal file server structure.
@@ -1814,12 +1824,12 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 - Served as the primary point of contact for troubleshooting railroad hardware and software in the North America.
 
 | **Environment:** | **Excel, AutoCAD, PowerPoint, Word** |
-| --- | --- |
+| ---------------- | ------------------------------------ |
 
 # Education
 
 | **B.S. Electrical Engineering, TCNJ,** Ewing NJ | 2014 – 2019 |
-| --- | --- |
+| ----------------------------------------------- | ----------- |
 
 **Capstone Project – Team Lead**
 
@@ -1827,13 +1837,36 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 - Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.
 
 | **Environment:** | **C++, Python, MATLAB, PureData** |
-| --- | --- |
+| ---------------- | --------------------------------- |
 
 **References and portfolio available upon request**
 
+---
+
+---
+
+## _Email_
+
+[bryan.guner@gmail.com](#)
+
+## _Phone_
+
+*551-254-5505*
+
+## Social
+
+-   [GitHub](https://github.com/bgoonz)
+-   [code pen](https://codepen.io/bgoonz)
+-   [Glitch](https://glitch.com/@bgoonz)
+-   [Instagram](https://www.instagram.com/bgoonz/)
+-   [LinkedIn](https://www.linkedin.com/in/bryan-guner-046199128/)
+-   [Replit](https://repl.it/@bgoonz/)
+-   [Redit](https://www.reddit.com/user/bgoonz1)
+-   [runkit](https://runkit.com/bgoonz)
+-   [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)
 
 
-
+---
 
 ---
 
@@ -1873,8 +1906,8 @@ Web Dev Resource Hub
 
 ---
 
-MihirBeg.com
----------------
+# Mihir_Beg.com
+
 
 
 ### Created a dynamic web page for a local musician using the Bootsrtap framework.
@@ -1939,38 +1972,5 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 <details>
 
 ---
----
-
-## _Email_
-
-[bryan.guner@gmail.com](#)
-
-## _Phone_
-
-*551-254-5505*
-
-## Social
-
--   [GitHub](https://github.com/bgoonz)
--   [code pen](https://codepen.io/bgoonz)
--   [Glitch](https://glitch.com/@bgoonz)
--   [Instagram](https://www.instagram.com/bgoonz/)
--   [LinkedIn](https://www.linkedin.com/in/bryan-guner-046199128/)
--   [Replit](https://repl.it/@bgoonz/)
--   [Redit](https://www.reddit.com/user/bgoonz1)
--   [runkit](https://runkit.com/bgoonz)
--   [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)
-
 
 ---
----
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/bgoonz/bgoonz/graphs/commit-activity)
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/Naereen/README.md?pixel)](https://GitHub.com/bgoonz/bgoonz/)
-[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/bgoonz/)
-[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
-[![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com)
-
-### Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bgoonz&theme=blue-green)](https://github.com/bgoonz/github-readme-stats)
