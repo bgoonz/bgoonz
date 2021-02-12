@@ -46,11 +46,9 @@
 
 [Hi I'm Bryan!](#hi-im-bryan)
 - [ ] ✅ [Hi, I am Bryan!](#hi-i-am-bryan)
-      - [ ] ✅ [Refresh the page for a new joke!](#refresh-the-page-for-a-new-joke)
     - [ ] ✅ [Stats](#stats)
   - [ ] ✅ [!Profile views](#)
   - [ ] ✅ [Portfolio:](#portfolio)
-      - [ ] ✅ [OR:](#or)
 - [ ] ✅ [Github Gists](#github-gists)
     - [ ] ✅ [Find Duplicate Files in Working Directory](#find-duplicate-files-in-working-directory)
     - [ ] ✅ [Node Cheat Sheet](#node-cheat-sheet)
