@@ -1,5 +1,119 @@
 
 
+
+---
+
+# Hi, I am Bryan!
+
+
+
+<div style=" border: 1px solid black">
+<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
+</div>
+
+---
+
+![ViewCount](https://views.whatilearened.today/views/github/bgoonz/views.svg)
+
+
+
+
+---
+
+<img src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
+
+#### Refresh the page for a new joke!
+
+
+
+---
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
+
+[Hi I'm Bryan!](#hi-im-bryan)
+- [ ] ✅ [Portfolio:](#portfolio)
+- [ ] ✅- [OR:](#or)
+- [ ] ✅ [Github-Pages](#github-pages)re
+- [ ] ✅ [Github Gists](#github-gists)
+- [ ] ✅ [Web Dev Resource Hub](#web-dev-resource-hub)
+- [ ] ✅ [Mihir\_Beg.com](#mihir_begcom)
+- [ ] ✅ [Interview Prep Static Site](#interview-prep-static-site)
+- [ ] ✅ [Data Structures Repository](#data-structures-repository)
+- [ ] ✅ [Learning React Blog](#learning-react-blog)
+- [ ] ✅ [React Repo:](#react-repo)
+- [ ] ✅ [React Repo](#react-repo-1)
+- [ ] ✅ [_Email_](#email)
+- [ ] ✅ [_Phone_](#phone)
+- [ ] ✅ [Social](#social)
+
+
+
+---
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
+
+
+
+
+---
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
+---
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Redux](https://img.shields.io/badge/-Redux-lightblue?style=flat&logo=redux)
+
+
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)
+
+
+
+
+![Express](https://img.shields.io/badge/-Express-blue?style=flat&logo=express) ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)![Python](https://img.shields.io/badge/-Python-lightyellow?style=flat&logo=python&logoColor=blue)     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) 
+
+
+
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)                                 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![PostgresQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)      ![Ruby](https://img.shields.io/badge/-Ruby-darkred?style=flat&logo=ruby)             ![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=Material-UI&logoColor=white)                     
+
+
+
+---
+
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bgoonz)
+
+*    [**GitHub**](https://github.com/bgoonz)
+*    [**Instagram**](https://www.instagram.com/bgoonz/)
+*    [**LinkedIn**](https://www.linkedin.com/in/bryan-guner-046199128/)
+
+
+
+---
+Portfolio:
+------------
+
+[netlify](https://tender-bartik-074feb.netlify.app/)
+
+#### OR:
+
+[Github-Pages](https://bgoonz.github.io/)
+
+---
+
+
+
 <div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
 </div>
@@ -13,7 +127,7 @@
 [github-resume](https://resume.github.io/?bgoonz)
 
 
-<img src="./bryan-guner-resume-2021.jpeg" alt="hr-line" width="93%" height="920px" >
+<img src="./bryan-guner-resume-2021.jpeg" alt="hr-line" width="87%" height="920px" >
 
 
 
