@@ -1964,3 +1964,13 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 
 ---
 ---
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/bgoonz/bgoonz/graphs/commit-activity)
+[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/Naereen/README.md?pixel)](https://GitHub.com/bgoonz/bgoonz/)
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/bgoonz/)
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+[![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com)
+
+### Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bgoonz&theme=blue-green)](https://github.com/bgoonz/github-readme-stats)
