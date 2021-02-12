@@ -128,7 +128,7 @@ Portfolio:
 [github-resume](https://resume.github.io/?bgoonz)
 
 
-<img src="./bryan-guner-resume-2021.jpeg" alt="hr-line" width="87%" height="920px" >
+<img src="./bryan-guner-resume-2021.jpeg" alt="hr-line" width="87%" height="1050px" >
 
 
 
@@ -237,6 +237,8 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 
 <details>
 
+---
+---
 
 ## _Email_
 
@@ -257,3 +259,32 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 -   [Redit](https://www.reddit.com/user/bgoonz1)
 -   [runkit](https://runkit.com/bgoonz)
 -   [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)
+
+
+---
+---
+
+
+#My Gists:
+
+<details>
+  
+  <summary>Click to expand!</summary>
+  
+
+
+<script src="https://gist.github.com/bgoonz/947d5ecb737d8f7fd452d1e2cf5170ae.js"></script>
+
+<script src="https://gist.github.com/bgoonz/8e2c6d9840594fc544050841973c96db.js"></script>
+
+<script src="https://gist.github.com/bgoonz/cd6312bfeae2d3f07655cb84e30413e9.js"></script>
+
+
+<script src="https://gist.github.com/bgoonz/736fce1327efdde3afc50229f5ce51f6.js"></script>
+
+
+<script src="https://gist.github.com/bgoonz/7df00f31037c1c4cf75104cc38395d11.js"></script>
+
+
+</details>
+
