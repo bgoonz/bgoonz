@@ -57,8 +57,10 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+[wakatime](https://wakatime.com/@bgoonz)
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)
+---
 [![GitHub followers](https://img.shields.io/github/followers/bgoonz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bgoonz?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bgoonz)
 
@@ -140,6 +142,10 @@ Portfolio:
 </div>
 
 <hr>
+
+<details>
+  
+<summary>My Projects</summary>
 
 
 
@@ -229,6 +235,7 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 
 <hr>
 
+<details>
 
 
 ## _Email_
