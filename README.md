@@ -137,6 +137,7 @@
 *    [**GitHub**](https://github.com/bgoonz)
 *    [**Instagram**](https://www.instagram.com/bgoonz/)
 *    [**LinkedIn**](https://www.linkedin.com/in/bryan-guner-046199128/)
+*    [**Gitlab**](https://gitlab.com/bryan.guner.dev)
 
 
 
@@ -1006,6 +1007,8 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 ## Social
 
 -   [GitHub](https://github.com/bgoonz)
+-   [Gitlab](https://gitlab.com/bryan.guner.dev)
+-   [BitBucket](https://bitbucket.org/bgoonz/)
 -   [code pen](https://codepen.io/bgoonz)
 -   [Glitch](https://glitch.com/@bgoonz)
 -   [Instagram](https://www.instagram.com/bgoonz/)
@@ -1013,6 +1016,7 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 -   [Replit](https://repl.it/@bgoonz/)
 -   [Redit](https://www.reddit.com/user/bgoonz1)
 -   [runkit](https://runkit.com/bgoonz)
+-   [Trello](https://trello.com/bryancguner)
 -   [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)
 
 
