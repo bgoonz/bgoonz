@@ -1,30 +1,26 @@
 
-
----
-
-# Hi, I am Bryan!
-<div style=" border: 1px solid black">
+<h1 align="center">Hi 👋, I'm Bryan</h1>
+<div  align="center" style=" border: 1px solid black">
 <img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
 </div>
 
 ---
 
-<img src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
+<img align="center" src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
 
 #### Refresh the page for a new joke!
 ---
 
 
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&show_icons=true&theme=radical)](https://github.com/bgoonz)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bgoonz&theme=blue-green)](https://github.com/bgoonz/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&row=1)](https://github.com/bgoonz/github-profile-trophy)
----
+
+
 [![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://bgoonz.github.io/)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/bgoonz/ask-me-anything)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/bgoonz/bgoonz/graphs/commit-activity)[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/Naereen/README.md?pixel)](https://GitHub.com/bgoonz/bgoonz/)[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![GitHub followers](https://img.shields.io/github/followers/bgoonz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bgoonz?tab=followers)[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bgoonz)
+[![GitHub followers](https://img.shields.io/github/followers/bgoonz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bgoonz?tab=followers)[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bgoonz)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
@@ -32,7 +28,84 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)
 
 ![Express](https://img.shields.io/badge/-Express-blue?style=flat&logo=express) ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)![Python](https://img.shields.io/badge/-Python-lightyellow?style=flat&logo=python&logoColor=blue)     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)                                 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![PostgresQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)      ![Ruby](https://img.shields.io/badge/-Ruby-darkred?style=flat&logo=ruby)             ![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=Material-UI&logoColor=white)                     
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)                                 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![PostgresQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)      ![Ruby](https://img.shields.io/badge/-Ruby-darkred?style=flat&logo=ruby)             ![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=Material-UI&logoColor=white)      
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+
+
+<h3 align="center">A passionate Web Developer, Electrical Engineer, Musician & Producer</h3>
+
+![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)
+
+
+
+- 🔭 Contract Web Development **Relational Concepts**
+
+- 🌱 I'm currently learning **React/Redux, Python, Java, Express, jQuery**
+
+- 👯 I'm looking to collaborate on [Any web audio or open source educational tools.](https://goofy-euclid-1cd736.netlify.app/core-site/index.html)
+
+- 🤝 I'm looking for help with [Learning React](https://github.com/bgoonz/React-Practice)
+
+- 👨‍💻 All of my projects are available at [https://bgoonz.github.io/](https://bgoonz.github.io/)
+
+- 📝 I regularly write articles on [https://goofy-euclid-1cd736.netlify.app/core-site/index.html](https://goofy-euclid-1cd736.netlify.app/core-site/index.html)
+
+- 💬 Ask me about **Anything:**
+
+- 📫 How to reach me **bryan.guner@gmail.com**
+
+- ⚡ Fun fact **I played Bamboozle Music Festival at the Meadowlands Stadium Complex when I was 14.**
+
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgoonz&show_icons=true&locale=en&layout=compact" alt="bgoonz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bgoonz&show_icons=true&locale=en" alt="bgoonz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /></p>
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&row=1)](https://github.com/bgoonz/github-profile-trophy)
+ 
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bryan guner bryan has a account" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bryan guner bryan has a account" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20645183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="20645183" height="30" width="40" /></a>
+<a href="https://codesandbox.com/bgoonz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="bgoonz" height="30" width="40" /></a>
+<a href="https://instagram.com/bgoonz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bgoonz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bryan guner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="bryan guner" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bgoonz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="bgoonz" height="30" width="40" /></a>
+</p>
+
+## _Email_
+
+[bryan.guner@gmail.com](#)
+
+## _Phone_
+
+*551-254-5505*
+
+## Social
+
+-   [GitHub](https://github.com/bgoonz)
+-   [code pen](https://codepen.io/bgoonz)
+-   [Glitch](https://glitch.com/@bgoonz)
+-   [Instagram](https://www.instagram.com/bgoonz/)
+-   [LinkedIn](https://www.linkedin.com/in/bryan-guner-046199128/)
+-   [Replit](https://repl.it/@bgoonz/)
+-   [Redit](https://www.reddit.com/user/bgoonz1)
+-   [runkit](https://runkit.com/bgoonz)
+-   [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)
+
+
+
+               
 
 ---
 [wakatime](https://wakatime.com/@bgoonz)
@@ -105,29 +178,9 @@
 
 ##                **References and portfolio available upon request**
 
----
 
----
 
-## _Email_
 
-[bryan.guner@gmail.com](#)
-
-## _Phone_
-
-*551-254-5505*
-
-## Social
-
--   [GitHub](https://github.com/bgoonz)
--   [code pen](https://codepen.io/bgoonz)
--   [Glitch](https://glitch.com/@bgoonz)
--   [Instagram](https://www.instagram.com/bgoonz/)
--   [LinkedIn](https://www.linkedin.com/in/bryan-guner-046199128/)
--   [Replit](https://repl.it/@bgoonz/)
--   [Redit](https://www.reddit.com/user/bgoonz1)
--   [runkit](https://runkit.com/bgoonz)
--   [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)
 
 
 ---
