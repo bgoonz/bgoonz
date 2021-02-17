@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bryan</h1>
-![awesome-link](https://github.com/sindresorhus/awesome)
+
 <div  align="center" style=" border: 1px solid black">
 <img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
 </div>
@@ -12,7 +12,7 @@
 #### Refresh the page for a new joke!
 ---
 
-
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
