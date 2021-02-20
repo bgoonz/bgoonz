@@ -63,6 +63,10 @@
 - 📫 How to reach me **bryan.guner@gmail.com**
 
 - ⚡ Fun fact **I played Bamboozle Music Festival at the Meadowlands Stadium Complex when I was 14.**
+---
+
+
+![waka](https://github.com/bgoonz/bgoonz/blob/master/Screenshot%20(38).png)
 
 
 ---
