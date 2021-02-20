@@ -115,6 +115,9 @@
 
 ---
 [wakatime](https://wakatime.com/@bgoonz)
+---
+
+---
 [github-resume](https://resume.github.io/?bgoonz)
 ---
 
