@@ -98,6 +98,8 @@
 ## Social
 
 -   [GitHub](https://github.com/bgoonz)
+-   [Gitlab](https://gitlab.com/bryan.guner.dev)
+-   [Bitbucket](https://bitbucket.org/bgoonz/)
 -   [code pen](https://codepen.io/bgoonz)
 -   [Glitch](https://glitch.com/@bgoonz)
 -   [Instagram](https://www.instagram.com/bgoonz/)
