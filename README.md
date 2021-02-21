@@ -12,6 +12,22 @@
 #### Refresh the page for a new joke!
 ---
 
+## Snippet of the week:
+
+```js
+//APPEND-DIR.js
+
+const fs = require( 'fs' ); let cat = require( 'child_process' ).execSync( 'cat *' ).toString( 'UTF-8' );
+fs.writeFile( 'output.md', cat, ( err ) => { if ( err ) throw err; } );
+
+```
+
+
+
+
+---
+
+
 ![goals](./goals.PNG)
 
 ---
