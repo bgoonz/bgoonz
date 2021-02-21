@@ -9,10 +9,15 @@
 
 <img align="center" src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
 
+
 #### Refresh the page for a new joke!
+
 ---
 
-## Snippet of the week:
+## Weekly-Quick-Snips:
+
+
+![gists](https://github.com/bgoonz/bgoonz/blob/master/gists.png)
 
 ```js
 //APPEND-DIR.js
