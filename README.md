@@ -27,7 +27,7 @@ fs.writeFile( 'output.md', cat, ( err ) => { if ( err ) throw err; } );
 
 ```
 
-
+  [### Let's talk shop / collaborate:](https://join.slack.com/t/newworkspace-n6q3818/shared_invite/zt-mjtjchw7-4M0VO2OyzGHe20n4MBaNnw)
 
 
 ---
