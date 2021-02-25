@@ -27,6 +27,17 @@ fs.writeFile( 'output.md', cat, ( err ) => { if ( err ) throw err; } );
 
 ```
 
+---
+Snippet of the Day:
+>will replace any spaces in file names with an underscore!
+```bash
+ for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
+```
+
+
+
+---
+
   [### Let's talk shop / collaborate:](https://join.slack.com/t/newworkspace-n6q3818/shared_invite/zt-mjtjchw7-4M0VO2OyzGHe20n4MBaNnw)
 
 
