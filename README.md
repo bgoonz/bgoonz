@@ -23,26 +23,22 @@
 
 ---
 Snippet of the Day:
+> Language: Bash Shellscript
+
+
 >will replace any spaces in file names with an underscore!
 ```bash
  for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
- 
- ## TAKING IT A STEP FURTHER:
+  ## TAKING IT A STEP FURTHER:
  # Let's do it recursivley:
- 
- function RecurseDirs ()
+  function RecurseDirs ()
 {
     oldIFS=$IFS
     IFS=$'\n'
     for f in "$@"
     do
-  
   # YOUR CODE HERE!
-  
-  
-   for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
-  
-  
+    for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
         if [[ -d "${f}" ]]; then
             cd "${f}"
             RecurseDirs $(ls -1 ".")
@@ -61,10 +57,8 @@ RecurseDirs "./"
  
  ```js
 //APPEND-DIR.js
-
 const fs = require( 'fs' ); let cat = require( 'child_process' ).execSync( 'cat *' ).toString( 'UTF-8' );
 fs.writeFile( 'output.md', cat, ( err ) => { if ( err ) throw err; } );
-
 ```
 ---
 <details>
