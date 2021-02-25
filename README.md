@@ -32,6 +32,37 @@ Snippet of the Day:
 >will replace any spaces in file names with an underscore!
 ```bash
  for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
+ 
+ ## TAKING IT A STEP FURTHER:
+ # Let's do it recursivley:
+ 
+ function RecurseDirs ()
+{
+    oldIFS=$IFS
+    IFS=$'\n'
+    for f in "$@"
+    do
+  
+  # YOUR CODE HERE!
+  
+  
+   for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
+  
+  
+        if [[ -d "${f}" ]]; then
+            cd "${f}"
+            RecurseDirs $(ls -1 ".")
+            cd ..
+        fi
+    done
+    IFS=$oldIFS
+}
+RecurseDirs "./"
+ 
+ 
+ 
+ 
+ 
 ```
 
 
