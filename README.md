@@ -303,6 +303,9 @@ function longestCommonPrefix(strs) {
 
 ---
 
+![skills](./skills.PNG)
+
+---
 
 ![goals](./goals.PNG)
 
