@@ -38,7 +38,7 @@ Snippet of the Day:
     for f in "$@"
     do
   # YOUR CODE HERE!
-    for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
+#    for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
         if [[ -d "${f}" ]]; then
             cd "${f}"
             RecurseDirs $(ls -1 ".")
