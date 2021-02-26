@@ -15,18 +15,55 @@
 ---
 
 ## Weekly-Quick-Snips:
+---
+#### Snippet of the Day:
+> Language: Javascript/Jquery
 
 
+>In combination with the script tag :  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> , this snippet will add a copy to clipboard button to all of your embedded <code> blocks. 
+
+
+```js
+$(document).ready(function() {
+  $('code, pre').append('<span class="command-copy" ><i class="fa fa-clipboard" aria-hidden="true"></i></span>');
+
+  $('code span.command-copy').click(function(e) {
+    var text = $(this).parent().text().trim(); //.text();
+    var copyHex = document.createElement('input');
+    copyHex.value = text
+    document.body.appendChild(copyHex);
+    copyHex.select();
+    document.execCommand('copy');
+    console.log(copyHex.value)
+    document.body.removeChild(copyHex);
+  });
+
+
+  $('pre span.command-copy').click(function(e) {
+    var text = $(this).parent().text().trim();
+    var copyHex = document.createElement('input');
+    copyHex.value = text
+    document.body.appendChild(copyHex);
+    copyHex.select();
+    document.execCommand('copy');
+    console.log(copyHex.value)
+    document.body.removeChild(copyHex);
+  });
+})
 
 
 
 
 ---
-Snippet of the Day:
-> Language: Bash Shellscript
 
 
->will replace any spaces in file names with an underscore!
+
+
+
+ ---
+ 
+ #### Yesterday's Snippet of the day:
+ >will replace any spaces in file names with an underscore!
 ```bash
  for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
   ## TAKING IT A STEP FURTHER:
@@ -51,15 +88,6 @@ RecurseDirs "./"
   
 ```
 
- ---
- 
- #### Yesterday's Snippet of the day:
- 
- ```js
-//APPEND-DIR.js
-const fs = require( 'fs' ); let cat = require( 'child_process' ).execSync( 'cat *' ).toString( 'UTF-8' );
-fs.writeFile( 'output.md', cat, ( err ) => { if ( err ) throw err; } );
-```
 ---
 <details>
   
@@ -67,6 +95,17 @@ fs.writeFile( 'output.md', cat, ( err ) => { if ( err ) throw err; } );
   
   
   #### This Week's snippets: 
+ 
+ ---
+ ### Append Files in PWD
+ 
+ 
+  ```js
+//APPEND-DIR.js
+const fs = require( 'fs' ); let cat = require( 'child_process' ).execSync( 'cat *' ).toString( 'UTF-8' );
+fs.writeFile( 'output.md', cat, ( err ) => { if ( err ) throw err; } );
+```
+ 
  
  ---
  
