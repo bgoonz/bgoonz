@@ -1276,7 +1276,7 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 </div>
 
 
-![react-documentation-site](https://codesandbox.io/s/magical-stallman-ov0d1)
+[react-documentation-site](https://codesandbox.io/s/magical-stallman-ov0d1)
 
 <hr>
 
