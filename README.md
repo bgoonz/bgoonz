@@ -1277,8 +1277,8 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 
 [react-documentation-site](https://documentation-site-react2-peitff669-bgoonz.vercel.app/)
 
-<a href="https://codesandbox.io/embed/zealous-microservice-ti7em?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"   style="width:100%; height:20px; border:0; border-radius: 4px; overflow:hidden;" rel="React Todo">![Foo](https://codesandbox.io/s/magical-stallman-ov0d1)</a>
 
+[![Edit magical-stallman-ov0d1](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/magical-stallman-ov0d1?autoresize=1&expanddevtools=1&fontsize=12&hidenavigation=1&moduleview=1&theme=dark)
 
 <hr>
 
