@@ -447,6 +447,7 @@ function longestCommonPrefix(strs) {
 -   [runkit](https://runkit.com/bgoonz)
 -   [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)
 -   [Netlify](https://app.netlify.com/user/settings#profile)
+-   [Medium](https://bryanguner.medium.com/)
 
 
                
