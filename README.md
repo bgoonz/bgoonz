@@ -358,8 +358,7 @@ function longestCommonPrefix(strs) {
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/bgoonz/bgoonz/graphs/commit-activity)[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/Naereen/README.md?pixel)](https://GitHub.com/bgoonz/bgoonz/)[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-[![GitHub followers](https://img.shields.io/github/followers/bgoonz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bgoonz?tab=followers)[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bgoonz)
-
+[![GitHub followers](https://img.shields.io/github/followers/bgoonz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bgoonz?tab=followers)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Redux](https://img.shields.io/badge/-Redux-lightblue?style=flat&logo=redux)
