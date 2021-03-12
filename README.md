@@ -1213,10 +1213,10 @@ Web Dev Resource Hub
 
 ### My personal Web Development blog and resource sharing site
 
-*   [Live Site](https://goofy-euclid-1cd736.netlify.app/)
+*   [Live Site](https://web-dev-resource-hub.netlify.app/)
 
 
-*   [Main Page](https://goofy-euclid-1cd736.netlify.app/core-site/index.html)
+
 
 <div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
