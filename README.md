@@ -24,7 +24,8 @@
 <hr>
 ---
 ### I write for: 
-[medium](https://bryanguner.medium.com/)
+
+https://bryanguner.medium.com/
 
 ![publications](write-for.PNG)
 
