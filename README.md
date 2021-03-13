@@ -23,7 +23,9 @@
 
 <hr>
 ---
-### I write for:  [medium](https://bryanguner.medium.com/)
+### I write for: 
+[medium](https://bryanguner.medium.com/)
+
 ![publications](https://imgur.com/a/VCM4W4A)
 
 
