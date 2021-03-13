@@ -1250,7 +1250,7 @@ Interview Prep Static Site
 
 -Hope this helps someone other than me!-
 
-*   [Live Site](https://gracious-raman-474030.netlify.app)
+*   [Live Site](https://ds-algo-official-c3dw6uapg-bgoonz.vercel.app/)
 
 ---
 <div style=" border: 1px solid black">
