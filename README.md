@@ -32,6 +32,10 @@ https://bryanguner.medium.com/
 
 ---
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8" />
+
+---
+
 ## Weekly-Quick-Snips:
 ---
 #### Snippet of the Day:
