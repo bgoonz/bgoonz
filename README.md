@@ -14,7 +14,46 @@
 
 ---
 
+## _Email_
+
+[bryan.guner@gmail.com](#)
+
+## _Phone_
+
+*551-254-5505*
+
+## Social
+
+-   [GitHub](https://github.com/bgoonz)
+-   [Gitlab](https://gitlab.com/bryan.guner.dev)
+-   [Bitbucket](https://bitbucket.org/bgoonz/)
+-   [code pen](https://codepen.io/bgoonz)
+-   [Glitch](https://glitch.com/@bgoonz)
+-   [Instagram](https://www.instagram.com/bgoonz/)
+-   [LinkedIn](https://www.linkedin.com/in/bryan-guner-046199128/)
+-   [Replit](https://repl.it/@bgoonz/)
+-   [Redit](https://www.reddit.com/user/bgoonz1)
+-   [runkit](https://runkit.com/bgoonz)
+-   [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)
+-   [Netlify](https://app.netlify.com/user/settings#profile)
+-   [Medium](https://bryanguner.medium.com/)
+-   [webcomponents.dev](https://webcomponents.dev/user/bgoonz)
+-   [npm](https://www.npmjs.com/package/@wcd/bgoonz.02-using-effects-fork-klwaxmkx)  *OR*  [npm](https://www.npmjs.com/~bgoonz11)
+-   [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)
+
+               
+
+
+
+
+
+
+
 ---
+
+
+
+
 
 
 <div style=" border: 1px solid black">
@@ -446,34 +485,7 @@ function longestCommonPrefix(strs) {
 <a href="https://www.leetcode.com/bgoonz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="bgoonz" height="30" width="40" /></a>
 </p>
 
-## _Email_
 
-[bryan.guner@gmail.com](#)
-
-## _Phone_
-
-*551-254-5505*
-
-## Social
-
--   [GitHub](https://github.com/bgoonz)
--   [Gitlab](https://gitlab.com/bryan.guner.dev)
--   [Bitbucket](https://bitbucket.org/bgoonz/)
--   [code pen](https://codepen.io/bgoonz)
--   [Glitch](https://glitch.com/@bgoonz)
--   [Instagram](https://www.instagram.com/bgoonz/)
--   [LinkedIn](https://www.linkedin.com/in/bryan-guner-046199128/)
--   [Replit](https://repl.it/@bgoonz/)
--   [Redit](https://www.reddit.com/user/bgoonz1)
--   [runkit](https://runkit.com/bgoonz)
--   [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)
--   [Netlify](https://app.netlify.com/user/settings#profile)
--   [Medium](https://bryanguner.medium.com/)
--   [webcomponents.dev](https://webcomponents.dev/user/bgoonz)
--   [npm](https://www.npmjs.com/package/@wcd/bgoonz.02-using-effects-fork-klwaxmkx)
--   [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)
-
-               
 
 ---
 [wakatime](https://wakatime.com/@bgoonz)
