@@ -508,12 +508,9 @@ function longestCommonPrefix(strs) {
 ---
 
 
-![waka](https://github.com/bgoonz/bgoonz/blob/master/Screenshot%20(38).png)
-
-
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgoonz&show_icons=true&locale=en&layout=compact" alt="bgoonz" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bgoonz&show_icons=true&locale=en" alt="bgoonz" /></p>
 
