@@ -31,7 +31,7 @@
 <a href="https://stackoverflow.com/users/20645183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="20645183" height="30" width="40" /></a>
 <a href="https://codesandbox.com/bgoonz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="bgoonz" height="30" width="40" /></a>
 <a href="https://instagram.com/bgoonz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bgoonz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bryan guner" target="blank"><img align="center" src="https://www.youtube.com/watch?v=xGZSWvFess8" alt="bryan guner" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=xGZSWvFess8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="bryan guner" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bgoonz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="bgoonz" height="30" width="40" /></a>
 </p>
 
