@@ -498,7 +498,7 @@ function longestCommonPrefix(strs) {
 
 - 👨‍💻 All of my projects are available at [https://bgoonz.github.io/](https://bgoonz.github.io/)
 
-- 📝 I regularly write articles on [medium](https://bryanguner.medium.com/) && [https://goofy-euclid-1cd736.netlify.app/core-site/index.html](https://goofy-euclid-1cd736.netlify.app/core-site/index.html)
+- 📝 I regularly write articles on [medium](https://bryanguner.medium.com/) && [Web-Dev-Resource-Hub](https://web-dev-resource-hub.netlify.app/)
 
 - 💬 Ask me about **Anything:**
 
