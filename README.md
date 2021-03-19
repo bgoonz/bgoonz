@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 
+---
+
+![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)
+
+---
 <div  align="center" style=" border: 1px solid black">
 <img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
 </div>
@@ -565,7 +570,6 @@ function longestCommonPrefix(strs) {
 
 <h3 align="center">A passionate Web Developer, Electrical Engineer, Musician & Producer</h3>
 
-![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)
 
 
 
