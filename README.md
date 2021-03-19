@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bryan</h1>
-[![time tracker](https://wakatime.com/badge/github/bgoonz/bryan.svg)](https://wakatime.com/badge/github/bgoonz/bryan)
+
 <div  align="center" style=" border: 1px solid black">
 <img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
 </div>
@@ -51,10 +51,11 @@
 
 
 ---
+## Blog:
 
+[blog](https://modest-booth-4e17df.netlify.app/)
 
-
-
+---
 
 
 <div style=" border: 1px solid black">
@@ -62,14 +63,6 @@
 </div>
 
 <hr>
----
-### I write for: 
-
-https://bryanguner.medium.com/
-
-![publications](write-for.PNG)
-
-
 ---
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8" />
