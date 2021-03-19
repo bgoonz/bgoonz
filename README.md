@@ -72,7 +72,97 @@
 ## Weekly-Quick-Snips:
 ---
 #### Snippet of the Day:
-> Language: Javascript/Jquery
+
+
+---
+### Fibonacci in Python:
+
+```py
+def fib_iter(n):
+    if n == 0:
+        return 0
+    if n == 1:
+        return 1
+    p0 = 0
+    p1 = 1
+    for i in range(n-1):
+        next_val = p0 + p1
+        p0 = p1
+        p1 = next_val
+    return next_val
+for i in range(10):
+    print(f'{i}: {fib_iter(i)}')
+```
+
+
+
+
+ ---
+ 
+ #### Yesterday's Snippet of the day:
+
+---
+
+```py
+def quicksort(l):
+    # One of our base cases is an empty list or list with one element
+    if len(l) == 0 or len(l) == 1:
+        return l
+    # If we have a left list, a pivot point and a right list...
+    # assigns the return values of the partition() function
+    left, pivot, right = partition(l) 
+    # Our sorted list looks like left + pivot + right, but sorted.
+    # Pivot has to be in brackets to be a list, so python can concatenate all the elements to a single list
+    return quicksort(left) + [pivot] + quicksort(right)
+# print(quicksort([]))
+# print(quicksort([1]))
+# print(quicksort([1,2]))
+# print(quicksort([2,1]))
+# print(quicksort([2,2]))
+# print(quicksort([5,3,9,4,8,1,7]))
+# print(quicksort([1,2,3,4,5,6,7]))
+# print(quicksort([9,8,7,6,5,4,3,2,1]))
+```
+---
+<details>
+  
+  <summary>Click to expand!</summary>
+  
+  
+  #### This Week's snippets: 
+  
+  ---
+  
+  
+   >will replace any spaces in file names with an underscore!
+```bash
+ for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
+  ## TAKING IT A STEP FURTHER:
+ # Let's do it recursivley:
+  function RecurseDirs ()
+{
+    oldIFS=$IFS
+    IFS=$'\n'
+    for f in "$@"
+    do
+  # YOUR CODE HERE!
+#    for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
+        if [[ -d "${f}" ]]; then
+            cd "${f}"
+            RecurseDirs $(ls -1 ".")
+            cd ..
+        fi
+    done
+    IFS=$oldIFS
+}
+RecurseDirs "./"
+  
+```
+  
+  
+ ---
+ ### Copy to clipboard jQuerry
+ > Language: Javascript/Jquery
 
 
 >In combination with the script tag :  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> , this snippet will add a copy to clipboard button to all of your embedded <code> blocks. 
@@ -108,48 +198,12 @@ $(document).ready(function() {
 
 
 ```
-
----
-
-
-
-
-
- ---
  
- #### Yesterday's Snippet of the day:
- >will replace any spaces in file names with an underscore!
-```bash
- for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
-  ## TAKING IT A STEP FURTHER:
- # Let's do it recursivley:
-  function RecurseDirs ()
-{
-    oldIFS=$IFS
-    IFS=$'\n'
-    for f in "$@"
-    do
-  # YOUR CODE HERE!
-#    for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
-        if [[ -d "${f}" ]]; then
-            cd "${f}"
-            RecurseDirs $(ls -1 ".")
-            cd ..
-        fi
-    done
-    IFS=$oldIFS
-}
-RecurseDirs "./"
-  
-```
-
----
-<details>
-  
-  <summary>Click to expand!</summary>
-  
-  
-  #### This Week's snippets: 
+ 
+ 
+ 
+ 
+ 
  
  ---
  ### Append Files in PWD
