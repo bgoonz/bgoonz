@@ -52,7 +52,7 @@
 -   [webcomponents.dev](https://webcomponents.dev/user/bgoonz)
 -   [npm](https://www.npmjs.com/~bgoonz11)
 -   [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)
-
+-   [AngelList](https://angel.co/u/bryan-guner)
                
 
 
