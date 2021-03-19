@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 
 ---
-<center>
+
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)
-</center>
+
 ---
 <div  align="center" style=" border: 1px solid black">
 <img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
