@@ -38,7 +38,7 @@
 -   [Netlify](https://app.netlify.com/user/settings#profile)
 -   [Medium](https://bryanguner.medium.com/)
 -   [webcomponents.dev](https://webcomponents.dev/user/bgoonz)
--   [npm](https://www.npmjs.com/package/@wcd/bgoonz.02-using-effects-fork-klwaxmkx)  *OR*  [npm](https://www.npmjs.com/~bgoonz11)
+-   [npm](https://www.npmjs.com/~bgoonz11)
 -   [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)
 
                
