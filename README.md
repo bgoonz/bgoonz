@@ -57,17 +57,27 @@
 
 
 ---
-<figure><embed src="https://wakatime.com/share/@bgoonz/92e0ac81-f5e8-4379-a5f5-c03709874da2.svg"></embed></figure>
 
 
 
 
----
+
+
 ## Blog:
 
 [blog](https://modest-booth-4e17df.netlify.app/)
 
+# Projects:
+
 ---
+Web Dev Resource Hub
+----------------------
+
+### My personal Web Development blog and resource sharing site
+
+*   [Live Site](https://web-dev-resource-hub.netlify.app/)
+
+
 
 
 <div style=" border: 1px solid black">
@@ -75,9 +85,70 @@
 </div>
 
 <hr>
+
+
 ---
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8" />
+# Mihir_Beg.com
+### Created a dynamic web page for a local musician using the Bootsrtap framework.
+
+-Talk about App Features & Design Process Here-
+
+-   [Live Site](https://eloquent-sammet-ba1810.netlify.app/)
+
+
+<div style=" border: 1px solid black">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
+</div>
+
+<hr>
+
+
+---       
+Interview Prep Static Site 
+-----------------------------
+
+### Data Structures Repository
+
+-Hope this helps someone other than me!-
+
+*   [Live Site](https://ds-algo-official-c3dw6uapg-bgoonz.vercel.app/)
+
+---
+<div style=" border: 1px solid black">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
+</div>
+
+<hr>
+
+
+---
+
+Learning React Blog
+--------------------
+https://ecstatic-jang-593fd1.netlify.app/readme
+
+#### React Repo:
+
+[React Repo](https://github.com/bgoonz/React-Practice)
+
+
+---
+
+<a href="https://codesandbox.io/embed/zealous-microservice-ti7em?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"   style="width:100%; height:20px; border:0; border-radius: 4px; overflow:hidden;" rel="React Todo">![Foo](https://codesandbox.io/static/img/play-codesandbox.svg)</a>
+---
+
+
+<div style=" border: 1px solid black">
+<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
+</div>
+
+[react-documentation-site](https://documentation-site-react2-peitff669-bgoonz.vercel.app/)
+
+
+[![Edit magical-stallman-ov0d1](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/magical-stallman-ov0d1?autoresize=1&expanddevtools=1&fontsize=12&hidenavigation=1&moduleview=1&theme=dark)
+
+
 
 ---
 
@@ -456,9 +527,7 @@ function longestCommonPrefix(strs) {
 
 ---
 
----
 
-  [### Let's talk shop / collaborate:](https://join.slack.com/t/newworkspace-n6q3818/shared_invite/zt-mjtjchw7-4M0VO2OyzGHe20n4MBaNnw)
 
 
 ---
@@ -534,99 +603,6 @@ function longestCommonPrefix(strs) {
 
 
 
----
-[wakatime](https://wakatime.com/@bgoonz)
----
-
----
-[github-resume](https://resume.github.io/?bgoonz)
----
-
-------
-
-**Technical Skills­­­**
-
-| **Programming**** Languages:** | JavaScript ES-6, NodeJS, React, HTML5, CSS3, SCSS, Bash Shell, Excel, SQL, NoSQL, MATLAB, Python, C++ |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| **Databases:**                 | PostgreSQL, MongoDB                                                                                   |
-| **Cloud:**                     | Docker, AWS, Google App Engine, Netlify, Digital Ocean, Heroku, Azure Cloud Services                  |
-| **OS:**                        | Linux, Windows (WSL), IOS                                                                             |
-| **Agile:**                     | GitHub, BitBucket, Jira, Confluence                                                                   |
-| **IDEs:**                      | VSCode, Visual Studio, Atom, Code Blocks, Sublime Text 3, Brackets                                    |
-
----
-
-# Experience
-
-| **Relational Concepts:** Hallandale Beach, FL | March 2020 - Present |
-| --------------------------------------------- | -------------------- |
-| **Front End Web Developer**                   |
-|                                               |
-
-- Responsible for front-end development for a custom real estate application which provides sophisticated and fully customizable filtering to allow investors and real estate professionals to narrow in on exact search targets.
-- Designed mock-up screens, wireframes, and workflows for intuitive user experience.
-- Migrated existing multi-page user experience into singular page interfaces using React components.
-- Participated in every stage of the design from conception through development and iterative improvement.
-- Produced user stories and internal documentation for future site development and maintenance.
-- Implemented modern frameworks including Bootstrap and Font-Awesome to give the site an aesthetic overhaul.
-- Managed all test deployments using a combination of Digital Ocean and Netlify.
-- Produced unit tests using a combination of Mocha and Chai.
-- Injected Google Analytics to capture pertinent usage data to produce an insightful dashboard experience.
-
-| **Environment:** | **JavaScript, JQuery, React, HTML5 &amp; CSS, Bootstrap, DOJO, Google Cloud, Bash Script** |
-| ---------------- | ------------------------------------------------------------------------------------------ |
-
-| **Cembre:** Edison, NJ           | Nov 2019 – Mar 2020 |
-| -------------------------------- | ------------------- |
-| **Product Development Engineer** |
-|                                  |
-
-- Converted client&#39;s product needs into technical specs to be sent to the development team in Italy.
-- Reorganized internal file server structure.
-- Conducted remote / in person system integration and product demonstrations.
-- Presided over internal and end user software trainings in addition to producing the corresponding documentation.
-- Served as the primary point of contact for troubleshooting railroad hardware and software in the North America.
-
-| **Environment:** | **Excel, AutoCAD, PowerPoint, Word** |
-| ---------------- | ------------------------------------ |
-
----
-
-# Education
-
-| **B.S. Electrical Engineering, TCNJ,** Ewing NJ | 2014 – 2019 |
-| ----------------------------------------------- | ----------- |
-
-**Capstone Project – Team Lead**
-
-- Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency &amp; time domain analysis to track a current performance against prerecorded performance.
-- Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.
-
-| **Environment:** | **C++, Python, MATLAB, PureData** |
-| ---------------- | --------------------------------- |
-
-
-##                **References and portfolio available upon request**
-
-
-
-
-
-
----
-Portfolio:
-------------
-
-[netlify](https://tender-bartik-074feb.netlify.app/)
----
-#### OR:
-
-[Github-Pages](https://bgoonz.github.io/)
----
----
-<div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
-</div>
 
 <hr>
 
@@ -1276,86 +1252,106 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 
 <details>
   
-<summary>My Projects</summary>
-
-Web Dev Resource Hub
-----------------------
-
-### My personal Web Development blog and resource sharing site
-
-*   [Live Site](https://web-dev-resource-hub.netlify.app/)
+<summary>See More</summary>
 
 
 
 
+
+
+---
+[wakatime](https://wakatime.com/@bgoonz)
+---
+
+---
+[github-resume](https://resume.github.io/?bgoonz)
+---
+
+------
+
+**Technical Skills­­­**
+
+| **Programming**** Languages:** | JavaScript ES-6, NodeJS, React, HTML5, CSS3, SCSS, Bash Shell, Excel, SQL, NoSQL, MATLAB, Python, C++ |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| **Databases:**                 | PostgreSQL, MongoDB                                                                                   |
+| **Cloud:**                     | Docker, AWS, Google App Engine, Netlify, Digital Ocean, Heroku, Azure Cloud Services                  |
+| **OS:**                        | Linux, Windows (WSL), IOS                                                                             |
+| **Agile:**                     | GitHub, BitBucket, Jira, Confluence                                                                   |
+| **IDEs:**                      | VSCode, Visual Studio, Atom, Code Blocks, Sublime Text 3, Brackets                                    |
+
+---
+
+# Experience
+
+| **Relational Concepts:** Hallandale Beach, FL | March 2020 - Present |
+| --------------------------------------------- | -------------------- |
+| **Front End Web Developer**                   |
+|                                               |
+
+- Responsible for front-end development for a custom real estate application which provides sophisticated and fully customizable filtering to allow investors and real estate professionals to narrow in on exact search targets.
+- Designed mock-up screens, wireframes, and workflows for intuitive user experience.
+- Migrated existing multi-page user experience into singular page interfaces using React components.
+- Participated in every stage of the design from conception through development and iterative improvement.
+- Produced user stories and internal documentation for future site development and maintenance.
+- Implemented modern frameworks including Bootstrap and Font-Awesome to give the site an aesthetic overhaul.
+- Managed all test deployments using a combination of Digital Ocean and Netlify.
+- Produced unit tests using a combination of Mocha and Chai.
+- Injected Google Analytics to capture pertinent usage data to produce an insightful dashboard experience.
+
+| **Environment:** | **JavaScript, JQuery, React, HTML5 &amp; CSS, Bootstrap, DOJO, Google Cloud, Bash Script** |
+| ---------------- | ------------------------------------------------------------------------------------------ |
+
+| **Cembre:** Edison, NJ           | Nov 2019 – Mar 2020 |
+| -------------------------------- | ------------------- |
+| **Product Development Engineer** |
+|                                  |
+
+- Converted client&#39;s product needs into technical specs to be sent to the development team in Italy.
+- Reorganized internal file server structure.
+- Conducted remote / in person system integration and product demonstrations.
+- Presided over internal and end user software trainings in addition to producing the corresponding documentation.
+- Served as the primary point of contact for troubleshooting railroad hardware and software in the North America.
+
+| **Environment:** | **Excel, AutoCAD, PowerPoint, Word** |
+| ---------------- | ------------------------------------ |
+
+---
+
+# Education
+
+| **B.S. Electrical Engineering, TCNJ,** Ewing NJ | 2014 – 2019 |
+| ----------------------------------------------- | ----------- |
+
+**Capstone Project – Team Lead**
+
+- Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency &amp; time domain analysis to track a current performance against prerecorded performance.
+- Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.
+
+| **Environment:** | **C++, Python, MATLAB, PureData** |
+| ---------------- | --------------------------------- |
+
+
+##                **References and portfolio available upon request**
+
+
+
+
+
+
+---
+Portfolio:
+------------
+
+[netlify](https://tender-bartik-074feb.netlify.app/)
+---
+#### OR:
+
+[Github-Pages](https://bgoonz.github.io/)
+---
+---
 <div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
 </div>
-
-<hr>
-
-
----
-
-# Mihir_Beg.com
-### Created a dynamic web page for a local musician using the Bootsrtap framework.
-
--Talk about App Features & Design Process Here-
-
--   [Live Site](https://eloquent-sammet-ba1810.netlify.app/)
-
-
-<div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
-</div>
-
-<hr>
-
-
----       
-Interview Prep Static Site 
------------------------------
-
-### Data Structures Repository
-
--Hope this helps someone other than me!-
-
-*   [Live Site](https://ds-algo-official-c3dw6uapg-bgoonz.vercel.app/)
-
----
-<div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
-</div>
-
-<hr>
-
-
----
-
-Learning React Blog
---------------------
-https://ecstatic-jang-593fd1.netlify.app/readme
-
-#### React Repo:
-
-[React Repo](https://github.com/bgoonz/React-Practice)
-
-
----
-
-<a href="https://codesandbox.io/embed/zealous-microservice-ti7em?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"   style="width:100%; height:20px; border:0; border-radius: 4px; overflow:hidden;" rel="React Todo">![Foo](https://codesandbox.io/static/img/play-codesandbox.svg)</a>
----
-
-
-<div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
-</div>
-
-[react-documentation-site](https://documentation-site-react2-peitff669-bgoonz.vercel.app/)
-
-
-[![Edit magical-stallman-ov0d1](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/magical-stallman-ov0d1?autoresize=1&expanddevtools=1&fontsize=12&hidenavigation=1&moduleview=1&theme=dark)
-
 <hr>
 
 <details>
