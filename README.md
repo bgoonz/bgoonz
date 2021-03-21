@@ -1,4 +1,4 @@
-
+<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 
 ---
@@ -20,11 +20,17 @@
 ---
 
     
-## _Email_
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#_email_)
+
+## ➤ _Email_
 
 [bryan.guner@gmail.com](#)
 
-## _Phone_
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#_phone_)
+
+## ➤ _Phone_
 
 *551-254-5505*
 
@@ -42,7 +48,10 @@
 </p>
 
 ---
-## Social
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#social)
+
+## ➤ Social
 
 -   [GitHub](https://github.com/bgoonz)
 -   [Gitlab](https://gitlab.com/bryan.guner.dev)
@@ -69,11 +78,17 @@
 
 
 
-## Blog:
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#blog)
+
+## ➤ Blog:
 
 [blog](https://modest-booth-4e17df.netlify.app/)
 
-# Projects:
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#projects)
+
+# ➤ Projects:
 
 ---
 Web Dev Resource Hub
@@ -95,7 +110,10 @@ Web Dev Resource Hub
 
 ---
 
-# Mihir_Beg.com
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#mihir_begcom)
+
+# ➤ Mihir_Beg.com
 ### Created a dynamic web page for a local musician using the Bootsrtap framework.
 
 -Talk about App Features & Design Process Here-
@@ -158,7 +176,10 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 
 ---
 
-## Weekly-Quick-Snips:
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#weekly-quick-snips)
+
+## ➤ Weekly-Quick-Snips:
 ---
 #### Snippet of the Day:
 
@@ -203,14 +224,38 @@ def quicksort(l):
     # Our sorted list looks like left + pivot + right, but sorted.
     # Pivot has to be in brackets to be a list, so python can concatenate all the elements to a single list
     return quicksort(left) + [pivot] + quicksort(right)
-# print(quicksort([]))
-# print(quicksort([1]))
-# print(quicksort([1,2]))
-# print(quicksort([2,1]))
-# print(quicksort([2,2]))
-# print(quicksort([5,3,9,4,8,1,7]))
-# print(quicksort([1,2,3,4,5,6,7]))
-# print(quicksort([9,8,7,6,5,4,3,2,1]))
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#printquicksort)
+
+# ➤ print(quicksort([]))
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#printquicksort1)
+
+# ➤ print(quicksort([1]))
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#printquicksort12)
+
+# ➤ print(quicksort([1,2]))
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#printquicksort21)
+
+# ➤ print(quicksort([2,1]))
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#printquicksort22)
+
+# ➤ print(quicksort([2,2]))
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#printquicksort5394817)
+
+# ➤ print(quicksort([5,3,9,4,8,1,7]))
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#printquicksort1234567)
+
+# ➤ print(quicksort([1,2,3,4,5,6,7]))
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#printquicksort987654321)
+
+# ➤ print(quicksort([9,8,7,6,5,4,3,2,1]))
 ```
 ---
 <details>
@@ -235,7 +280,10 @@ def quicksort(l):
     for f in "$@"
     do
   # YOUR CODE HERE!
-#    for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#---for-file-in--do-mv-file-echo-file--tr---_--done)
+
+# ➤    for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
         if [[ -d "${f}" ]]; then
             cd "${f}"
             RecurseDirs $(ls -1 ".")
@@ -611,7 +659,10 @@ function longestCommonPrefix(strs) {
 
 <hr>
 
-# Github Gists
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#github-gists)
+
+# ➤ Github Gists
 [Github Gists](https://gist.github.com/bgoonz)
 ---
 <details>
@@ -985,7 +1036,10 @@ server.listen(path, [callback]);                               // Start a UNIX s
 server.listen(handle, [callback]);                             // The handle object can be set to either a server or socket (anything with an underlying _handle member), or a {fd: <n>} object.
 server.close([callback]);                                      // Stops the server from accepting new connections. 
 server.setTimeout(msecs, callback);                            // Sets the timeout value for sockets, and emits a 'timeout' event on the Server object, passing the socket as an argument, if a timeout occurs.
-# Node JS Quick Reference
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#node-js-quick-reference)
+
+# ➤ Node JS Quick Reference
 server.maxHeadersCount;  // Limits maximum incoming headers count, equal to 1000 by default. If set to 0 - no limit will be applied.
 server.timeout;          // The number of milliseconds of inactivity before a socket is presumed to have timed out.
 server.on('request', function (request, response) { });        // Emitted each time there is a request.
@@ -1134,26 +1188,26 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
     </div>
 
     <script type="text/html" id="template-output">
-        {{#lists}}
-        <h1> {{name}}</h1>
-        {{#cards}}
+        #lists
+        <h1> name</h1>
+        #cards
         <div class="panel panel-default">
             <div class="panel-heading">
-                <h4>{{name}}</h4>{{{desc}}}
+                <h4>name}}</h4>{{{desc}
             </div>
             <!--div class="panel-body" >
                 
               </div-->
             <ul class="list-group">
 
-                {{#actions}}
-                <li class="list-group-item"><tt style="color:gray;">{{date}} </tt> {{{text}}}</li>
-                {{/actions}}
+                #actions
+                <li class="list-group-item"><tt style="color:gray;">date </tt> {text}</li>
+                /actions
             </ul>
         </div>
-        {{/cards}}
+        /cards
         <hr><br><br>
-        {{/lists}}
+        /lists
     </script>
 
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
@@ -1286,7 +1340,10 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 
 ---
 
-# Experience
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#experience)
+
+# ➤ Experience
 
 | **Relational Concepts:** Hallandale Beach, FL | March 2020 - Present |
 | --------------------------------------------- | -------------------- |
@@ -1322,7 +1379,10 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 
 ---
 
-# Education
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#education)
+
+# ➤ Education
 
 | **B.S. Electrical Engineering, TCNJ,** Ewing NJ | 2014 – 2019 |
 | ----------------------------------------------- | ----------- |
@@ -1336,7 +1396,10 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 | ---------------- | --------------------------------- |
 
 
-##                **References and portfolio available upon request**
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#---------------references-and-portfolio-available-upon-request)
+
+## ➤                **References and portfolio available upon request**
 
 
 
