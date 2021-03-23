@@ -1,4 +1,4 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
+
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 
 ---
@@ -186,6 +186,11 @@ https://ecstatic-jang-593fd1.netlify.app/readme
 #### Just some simpe static webpage projects
 
 [mini-projects](https://jovial-agnesi-8ec8b1.netlify.app/)
+
+## Codepens (mostly embeded animations)
+
+[code-pens-embedded](https://embedable-content.netlify.app/)
+
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#weekly-quick-snips)
