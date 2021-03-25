@@ -1426,12 +1426,9 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 Portfolio:
 ------------
 
-[netlify](https://tender-bartik-074feb.netlify.app/)
+[netlify](https://portfolio42.netlify.app/)
 ---
-#### OR:
 
-[Github-Pages](https://bgoonz.github.io/)
----
 ---
 <div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
