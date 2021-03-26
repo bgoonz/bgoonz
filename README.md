@@ -18,6 +18,10 @@
 
 ---
 
+<div align="center">
+
+
+
 <img align="center" src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
 
 
@@ -25,7 +29,7 @@
 
 ---
 
-    
+</div>    
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#_email_)
 
