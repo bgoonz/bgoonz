@@ -3,7 +3,13 @@
 
 ---
 
+
+<div align="center">
+
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)
+
+
+</div>
 
 ---
 <div  align="center" style=" border: 1px solid black">
