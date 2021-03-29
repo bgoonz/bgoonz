@@ -110,15 +110,15 @@
 
 
 
----
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#projects)
 
 ![skills](./skills.PNG)
 
----
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#projects)
 
 
 
----
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 
 
@@ -173,7 +173,7 @@
 
 <details> 
 
- <summary>🤖 <b>My programming stats</b>: </summary>
+ <summary>🤖 <b>My Programming Stats</b>: </summary>
 <br>
 
 ![waka1](https://github.com/bgoonz/bgoonz/blob/master/langs.PNG)
@@ -223,8 +223,9 @@
 
 <!-- start work experience section -->
 <details>
-<summary><b> resume </b></summary>
-#  ➤ Technical Skills­­­
+<summary> Resume </summary>
+
+# ➤ Technical Skills­­­
 
 | **Programming**** Languages:** | JavaScript ES-6,  NodeJS,  React,  HTML5,  CSS3,  SCSS,  Bash Shell,  Excel,  SQL,  NoSQL,  MATLAB,  Python,  C++ |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -294,7 +295,9 @@
 </details>
 
 <details>
-<summary><b> My Projects</b></summary>
+
+<summary> My Projects</summary>
+
 <table>
   <thead>
     <tr>
@@ -485,7 +488,7 @@ print(quicksort([9,8,7,6,5,4,3,2,1]))
 ---
 <details>
   
-  <summary>Click to expand!</summary>
+  <summary>Click To Expand!</summary>
   
   
   #### This Week's snippets: 
@@ -506,7 +509,7 @@ print(quicksort([9,8,7,6,5,4,3,2,1]))
     do
   # YOUR CODE HERE!
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#---for-file-in--do-mv-file-echo-file--tr---_--done)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]
 
    for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
         if [[ -d "${f}" ]]; then
@@ -829,7 +832,7 @@ function longestCommonPrefix(strs) {
 ---
 <details>
   
-  <summary>Click to expand!</summary>
+  <summary>See More Gists!</summary>
   
   ---
   
