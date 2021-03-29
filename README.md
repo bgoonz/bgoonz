@@ -1354,7 +1354,7 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 
 <details>
 
-<summary><b> About Me</b></summary>
+<summary>About Me</summary>
 
 
 
@@ -1449,14 +1449,14 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 
 
 
----
+
 [wakatime](https://wakatime.com/@bgoonz)
----
 
----
+
+
 [github-resume](https://resume.github.io/?bgoonz)
----
 
+</details>
 
 
 
