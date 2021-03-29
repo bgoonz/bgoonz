@@ -1416,13 +1416,8 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 
 ### i really like music :headphones:
 
----
-
-
 
 </details>
-<!-- end statics fun section -->
-
 
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
@@ -1434,7 +1429,7 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 ![waka2](https://github.com/bgoonz/bgoonz/blob/master/waka.PNG)
 
 
-<!--END_SECTION:waka-->
+
 
 </details>
 
@@ -1443,7 +1438,6 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 
 
 
----
 
 
 <details>
