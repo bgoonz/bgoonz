@@ -185,9 +185,9 @@
       <td>My blog site contains my resource sharing and blog site ... centered mostly on web development and just a bit of audio production / generally nerdy things I find interesting.</td>
     </tr>
        <tr>
-      <td><a href='https://project-showcase-bgoonz.netlify.app/'>Mini Project Showcase</a></td>
-      <td>HTML, HTML5, CSS, CSS3, Javascript, jQuery, Web Audio API</td>
-      <td>A collection of many mini js/css/html projects</td>
+      <td><a href='https://project-showcase-bgoonz.netlify.app/'>Dynamic Guitar Effects Triggering Using A Modified Dynamic Time Warping Algorithm</a></td>
+      <td>C, C++, Python, Java, Pure Data, Matlab</td>
+      <td>Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency & time domain analysis to track a current performance against prerecorded performance.Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.</td>
     </tr>
     <tr>
       <td><a href="https://trusting-dijkstra-4d3b17.netlify.app/">Data Structures & Algorithms Interactive Learning Site</a></td>
