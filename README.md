@@ -44,7 +44,7 @@
 
 #### [551-254-5505](551-254-5505)
 
----
+
 ---
 
 ## ➤ Connect with me:
@@ -72,10 +72,10 @@
 -   [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)
 -   [AngelList](https://angel.co/u/bryan-guner)
 -   [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN)               
--   
+
 
 </p>
----
+
 
 
 
@@ -100,12 +100,12 @@
 #  ➤ Technical Skills­­­
 
 | **Programming**** Languages:** | JavaScript ES-6,  NodeJS,  React,  HTML5,  CSS3,  SCSS,  Bash Shell,  Excel,  SQL,  NoSQL,  MATLAB,  Python,  C++ |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| **Databases:**                 | PostgreSQL,  MongoDB                                                                                   |
-| **Cloud:**                     | Docker,  AWS,  Google App Engine,  Netlify,  Digital Ocean,  Heroku,  Azure Cloud Services                  |
-| **OS:**                        | Linux,  Windows (WSL),  IOS                                                                             |
-| **Agile:**                     | GitHub,  BitBucket,  Jira,  Confluence                                                                   |
-| **IDEs:**                      | VSCode,  Visual Studio,  Atom,  Code Blocks,  Sublime Text 3,  Brackets                                    |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| **Databases:**                 | PostgreSQL,  MongoDB                                                                                              |
+| **Cloud:**                     | Docker,  AWS,  Google App Engine,  Netlify,  Digital Ocean,  Heroku,  Azure Cloud Services                        |
+| **OS:**                        | Linux,  Windows (WSL),  IOS                                                                                       |
+| **Agile:**                     | GitHub,  BitBucket,  Jira,  Confluence                                                                            |
+| **IDEs:**                      | VSCode,  Visual Studio,  Atom,  Code Blocks,  Sublime Text 3,  Brackets                                           |
 
 ---
 
@@ -115,9 +115,9 @@
 # ➤ Experience
 
 | **Relational Concepts:** Hallandale Beach,  FL | March 2020 - Present |
-| --------------------------------------------- | -------------------- |
-| **Front End Web Developer**                   |
-|                                               |
+| ---------------------------------------------- | -------------------- |
+| **Front End Web Developer**                    |
+|                                                |
 
 - Responsible for front-end development for a custom real estate application which provides sophisticated and fully customizable filtering to allow investors and real estate professionals to narrow in on exact search targets.
 - Designed mock-up screens,  wireframes,  and workflows for intuitive user experience.
@@ -130,9 +130,9 @@
 - Injected Google Analytics to capture pertinent usage data to produce an insightful dashboard experience.
 
 | **Environment:** | **JavaScript,  JQuery,  React,  HTML5 &amp; CSS,  Bootstrap,  DOJO,  Google Cloud,  Bash Script** |
-| ---------------- | ------------------------------------------------------------------------------------------ |
+| ---------------- | ------------------------------------------------------------------------------------------------- |
 
-| **Cembre:** Edison,  NJ           | Nov 2019 – Mar 2020 |
+| **Cembre:** Edison,  NJ          | Nov 2019 – Mar 2020 |
 | -------------------------------- | ------------------- |
 | **Product Development Engineer** |
 |                                  |
@@ -144,7 +144,7 @@
 - Served as the primary point of contact for troubleshooting railroad hardware and software in the North America.
 
 | **Environment:** | **Excel,  AutoCAD,  PowerPoint,  Word** |
-| ---------------- | ------------------------------------ |
+| ---------------- | --------------------------------------- |
 
 ---
 
@@ -154,7 +154,7 @@
 # ➤ Education
 
 | **B.S. Electrical Engineering,  TCNJ, ** Ewing NJ | 2014 – 2019 |
-| ----------------------------------------------- | ----------- |
+| ------------------------------------------------- | ----------- |
 
 **Capstone Project – Team Lead**
 
@@ -162,12 +162,10 @@
 - Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.
 
 | **Environment:** | **C++,  Python,  MATLAB,  PureData** |
-| ---------------- | --------------------------------- |
+| ---------------- | ------------------------------------ |
 
 </details>
-<!-- end work experience section -->
 
-<!-- start work project section -->
 <details>
 <summary><b> My Projects</b></summary>
 <table>
@@ -197,7 +195,7 @@
     <tr>
       <td><a href='https://mihirbegmusic.netlify.app/'>MihirBeg.com</a></td>
       <td>Html, Css, Javascript,  Bootstrap,  FontAwesome,  jQuery</td>
-      <td>A responsive and mobil friendly content promotion site for an Audio Engineer to engage with fans and potential clients</td>
+      <td>A responsive and mobile friendly content promotion site for an Audio Engineer to engage with fans and potential clients</td>
     </tr>
     <tr>
       <td><a href='https://tetris42.netlify.app/'>Tetris-JS</a></td>
@@ -1353,10 +1351,11 @@ buffer.INSPECT_MAX_BYTES;                                           // How many 
 
 
 </details>
-<!-- end work project section -->
 
-<!-- start statics fun section -->
+
+
 <details>
+
 <summary><b> About Me</b></summary>
 
 
