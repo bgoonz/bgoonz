@@ -54,8 +54,6 @@
   </p>
 <p align="left">
 
--   <a href="https://stackoverflow.com/users/20645183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="20645183" height="30" width="40" /></a>
--   <a href="https://codesandbox.com/bgoonz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="bgoonz" height="30" width="40" /></a>
 -   [GitHub](https://github.com/bgoonz)
 -   [Gitlab](https://gitlab.com/bryan.guner.dev)
 -   [Bitbucket](https://bitbucket.org/bgoonz/)
