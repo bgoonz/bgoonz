@@ -488,7 +488,7 @@ print(quicksort([9,8,7,6,5,4,3,2,1]))
 ---
 <details>
   
-  <summary>Click To Expand!</summary>
+  <summary>See Older Snippets!</summary>
   
   
   #### This Week's snippets: 
