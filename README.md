@@ -44,7 +44,6 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&hide=html,mathematica&langs_count=16)](https://github.com/bgoonz/github-readme-stats)
 
-[![bgoonz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bgoonz)](https://github.com/bgoonz/github-readme-stats)
 
 
 
@@ -182,6 +181,10 @@
 
  <summary>🤖 <b>My Programming Stats</b>: </summary>
 <br>
+
+
+[![bgoonz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bgoonz)](https://github.com/bgoonz/github-readme-stats)
+
 
 ![waka1](https://github.com/bgoonz/bgoonz/blob/master/langs.PNG)
 
