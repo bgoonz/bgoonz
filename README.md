@@ -42,7 +42,7 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&row=1)](https://github.com/bgoonz/github-profile-trophy)
  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&hide=html)](https://github.com/bgoonz/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&langs_count=8&hide=html,css,mathematica)](https://github.com/bgoonz/github-readme-stats)
 </div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#_email_)
