@@ -42,7 +42,12 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&row=1)](https://github.com/bgoonz/github-profile-trophy)
  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&hide=html,css,mathematica&langs_count=14)](https://github.com/bgoonz/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&hide=html,mathematica&langs_count=16)](https://github.com/bgoonz/github-readme-stats)
+
+[![bgoonz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bgoonz)](https://github.com/bgoonz/github-readme-stats)
+
+
+
 </div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#_email_)
