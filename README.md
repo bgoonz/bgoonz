@@ -104,7 +104,13 @@
 ##### ➤ [Blog:](https://modest-booth-4e17df.netlify.app/)
 
 
-
+> Writer for:
+- CodeX
+- Analytics Vidhya
+- Star Gazers
+- JavaScript in Plain English
+- Geek Culture
+- Level Up Coding
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#projects)
 
