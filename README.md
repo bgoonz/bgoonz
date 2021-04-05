@@ -89,6 +89,7 @@
 -   [AngelList](https://angel.co/u/bryan-guner)
 -   [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN)               
 -  [dev.to] 
+-  [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)
 
 </p>
 
