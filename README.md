@@ -104,8 +104,14 @@
 
 ##### ➤ [Blog:](https://modest-booth-4e17df.netlify.app/)
 
-[![Bryan C Guner's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/bgoonz)
 
+
+
+
+ 
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bryan C Guner's DEV Community Profile" height="30" width="30">
+</a>
+        
 
 > Writer for:
 - CodeX
@@ -114,7 +120,9 @@
 - JavaScript in Plain English
 - Geek Culture
 - Level Up Coding
-
+- 
+<a href="https://dev.to/bgoonz">
+ 
 ![medium](./medium.PNG)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#projects)
