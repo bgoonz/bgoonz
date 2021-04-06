@@ -88,7 +88,7 @@
 -   [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)
 -   [AngelList](https://angel.co/u/bryan-guner)
 -   [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN)               
--  [dev.to] 
+-  [dev.to](https://dev.to/bgoonz)
 -  [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)
 
 </p>
