@@ -90,7 +90,7 @@
 -   [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN)               
 -  [dev.to](https://dev.to/bgoonz)
 -  [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)
-
+- [Notation](https://www.notion.so/Overview-Of-Css-5d88b0bc9a73422a9be1481d599a56ba)
 </p>
 
 
