@@ -138,7 +138,10 @@
 - JavaScript in Plain English
 - Geek Culture
 - Level Up Coding
-- [![Bryan C Guner's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/bgoonz)
+- <a href="https://dev.to/bgoonz">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bryan C Guner's DEV Community Profile" height="30px" width="30px">
+</a>
+        
 
 <a href="https://dev.to/bgoonz">
  
