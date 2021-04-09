@@ -8,7 +8,7 @@
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)
 
-![daft](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkrman009%2FOctodex-Images-Links&psig=AOvVaw0N86jHDmgEgj1I1s1uoiqv&ust=1618029780992000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiQxOWs8O8CFQAAAAAdAAAAABAD)
+![daft](./daftpunktocat-thomas.gif)
 
 </div>
 
