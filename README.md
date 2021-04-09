@@ -8,13 +8,13 @@
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)
 
-![daft](./daftpunktocat-thomas.gif)
+![daft](./daftpunktocat-thomas.gif)<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
 
 </div>
 
 ---
 <div  align="center" style=" border: 1px solid black">
-<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
+
 </div>
 
 ---
