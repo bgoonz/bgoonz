@@ -127,8 +127,7 @@
 
 
  
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bryan C Guner's DEV Community Profile" height="30" width="30">
-</a>
+
         
 
 > I write articles for:
