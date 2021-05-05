@@ -152,8 +152,6 @@
 
 <a href="https://dev.to/bgoonz">
  
-![medium](./medium.PNG)
-
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#projects)
 
 
