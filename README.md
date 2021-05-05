@@ -44,8 +44,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#_email_)
 
 
-![daft](./daftpunktocat-thomas.gif)<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bgoonz&show_icons=true&locale=en" alt="bgoonz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /></p>
@@ -962,6 +960,9 @@ function longestCommonPrefix(strs) {
 [list-of-my-websites](https://gist.github.com/bgoonz/659a9b81ac45453bedc0a1a36275b580)
 
 ---
+
+
+![daft](./daftpunktocat-thomas.gif)<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
 
 
 
