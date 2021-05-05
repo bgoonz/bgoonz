@@ -8,7 +8,7 @@
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)
 
-
+<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
 
 </div>
 
@@ -962,7 +962,7 @@ function longestCommonPrefix(strs) {
 ---
 
 
-![daft](./daftpunktocat-thomas.gif)<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
+![daft](./daftpunktocat-thomas.gif)
 
 
 
