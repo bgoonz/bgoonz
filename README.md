@@ -61,7 +61,7 @@
 [repo-url]: https://github.com/wizardsource/
 [banner-url]: https://user-images.githubusercontent.com/7276145/117090386-308f6b00-ad26-11eb-9763-2c0c3d47c5db.gif
 
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bgoonz/1e4943b9-54e0-4a4b-8a42-6c0ae92d8410.png" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bgoonz&show_icons=true&locale=en" alt="bgoonz" /></p>
 
