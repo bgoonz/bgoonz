@@ -10,6 +10,12 @@
 
 <img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
 
+
+
+[![](http://img.youtube.com/vi/xGZSWvFess8/0.jpg)](http://www.youtube.com/watch?v=xGZSWvFess8 "Ancestrial Solo")
+
+
+
 </div>
 
 ---
