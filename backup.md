@@ -59,6 +59,9 @@
 
 ---
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bgoonz/1e4943b9-54e0-4a4b-8a42-6c0ae92d8410.png" /></a>
+
+
 ---
 ### _DAY2_
 ---
