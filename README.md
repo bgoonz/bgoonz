@@ -44,6 +44,25 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#_email_)
 
 
+
+<div align="center">
+
+[![][banner-url]][repo-url]  
+
+
+  
+
+</div>
+
+
+
+
+[panda]: https://user-images.githubusercontent.com/7276145/117089593-ec02d000-ad23-11eb-8019-80bd34eecaa3.gif
+[repo-url]: https://github.com/wizardsource/
+[banner-url]: https://user-images.githubusercontent.com/7276145/117090386-308f6b00-ad26-11eb-9763-2c0c3d47c5db.gif
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bgoonz&show_icons=true&locale=en" alt="bgoonz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /></p>
