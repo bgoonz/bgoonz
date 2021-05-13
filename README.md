@@ -8,6 +8,9 @@
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)
 
+
+[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 <img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
 
 
