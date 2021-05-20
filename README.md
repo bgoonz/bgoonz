@@ -39,12 +39,12 @@
 [![GitHub bgoonz](https://img.shields.io/github/followers/bgoonz?label=follow&style=social)](https://github.com/bgoonz) 
 
 
-<img align="center" src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
 
 
 #### Refresh the page for a new joke!
 
 
+<img align="center" src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
 
 </div>    
 <div align="center">
