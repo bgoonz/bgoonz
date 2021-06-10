@@ -6,7 +6,7 @@
 
 <div align="center">
 
-###  [WEBSITE](https://best-celery-b2d7c.netlify.app/)
+###  [WEBSITE](https://https://bgoonz-blog.netlify.app/)
 ###  [Portfolio](https://bg-portfolio.netlify.app/)  
 ###  [Collaborate](https://webdevhub.jetbrains.space/oauth/auth/invite/419dd305ba717a392a02aa5b4e41e09c)  
   
