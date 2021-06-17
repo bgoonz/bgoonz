@@ -99,16 +99,20 @@
 
 <div align="center">
 
-| [GitHub](https://github.com/bgoonz)          | [Replit](https://repl.it/@bgoonz/)                                        | [Medium](https://bryanguner.medium.com/)                                                          | [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN) |
-|----------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| [Gitlab](https://gitlab.com/bryan.guner.dev) | [Redit](https://www.reddit.com/user/bgoonz1)                              | [webcomponents.dev](https://webcomponents.dev/user/bgoonz)                                        | [dev.to](https://dev.to/bgoonz)                                                     |
-| [Bitbucket](https://bitbucket.org/bgoonz/)   | [runkit](https://runkit.com/bgoonz)                                       | [npm](https://www.npmjs.com/~bgoonz11)                                                            | [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)                |
-| [code pen](https://codepen.io/bgoonz)        | [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner) | [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368) | [Notation](https://www.notion.so/Overview-Of-Css-5d88b0bc9a73422a9be1481d599a56ba)  |
-| [Glitch](https://glitch.com/@bgoonz)         | [Netlify](https://app.netlify.com/user/settings#profile)                  | [AngelList](https://angel.co/u/bryan-guner)                                                       | [StackShare](https://stackshare.io/bryanguner)                                      |
-| [Plunk](http://plnkr.co/account/plunks)      | [Dribble](https://dribbble.com/bgoonz4242?onboarding=true)                | [contentful](https://app.contentful.com/spaces/lelpu0ihaz11/assets?id=MocOPmmNliLn6PPv)           | [giphy](https://giphy.com/channel/bryanguner)       |                                             |  |        [Codewars](https://www.codewars.com/users/bgoonz)                 |                          [kofi](https://ko-fi.com/bgoonz)                                    |                                |                                           |     
+
 
   
-  
+  | [GitHub](https://github.com/bgoonz)   	| [Gitlab](https://gitlab.com/bryan.guner.dev)  	| [Bitbucket](https://bitbucket.org/bgoonz/)  	| [Medium](https://bryanguner.medium.com/)  	| [code pen](https://codepen.io/bgoonz)   	|
+|---	|---	|---	|---	|---	|
+| [Replit](https://repl.it/@bgoonz/)  	|  [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN) 	| [Redit](https://www.reddit.com/user/bgoonz1)   	| [webcomponents.dev](https://webcomponents.dev/user/bgoonz)  	|  [dev.to](https://dev.to/bgoonz) 	|
+| [runkit](https://runkit.com/bgoonz)    	| [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)  	| [npm](https://www.npmjs.com/~bgoonz11)  	| [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)  	| [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)  	|
+| [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)  	| [Notion](https://www.notion.so/Overview-Of-Css-5d88b0bc9a73422a9be1481d599a56ba)  	|  [AngelList](https://angel.co/u/bryan-guner)  	| [StackShare](https://stackshare.io/bryanguner)  	| [Plunk](http://plnkr.co/account/plunks)   	|
+| [giphy](https://giphy.com/channel/bryanguner)  	| [kofi](https://ko-fi.com/bgoonz)    	| [Codewars](https://www.codewars.com/users/bgoonz)   	| [Dribble](https://dribbble.com/bgoonz4242?onboarding=true)   	| [Glitch](https://glitch.com/@bgoonz)   	|
+| [contentful](https://app.contentful.com/spaces/lelpu0ihaz11/assets?id=MocOPmmNliLn6PPv)    	| [Netlify](https://app.netlify.com/user/settings#profile)  	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
   
   
 </div>
