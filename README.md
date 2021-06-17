@@ -30,7 +30,6 @@
 ---
 
 <div align="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bgoonz42/e088a908-1c73-434f-9eab-b73ea4f17d3c.png" /></a>
   
   
 
@@ -927,6 +926,7 @@ function longestCommonPrefix(strs) {
 
 
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bgoonz42/e088a908-1c73-434f-9eab-b73ea4f17d3c.png" /></a>
 
 
 
