@@ -134,7 +134,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#projects)
 
-##### ➤ [Blog:](https://modest-booth-4e17df.netlify.app/)
+##### ➤ [Blog:](https://bgoonz-blog.netlify.app/)
 
 
 
@@ -155,7 +155,7 @@
         
 <a href="https://dev.to/bgoonz">
  
-
+> Netlify Research Program Participant!
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 
