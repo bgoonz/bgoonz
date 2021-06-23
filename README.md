@@ -119,7 +119,7 @@
 | [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)  	| [Notion](https://www.notion.so/Overview-Of-Css-5d88b0bc9a73422a9be1481d599a56ba)  	|  [AngelList](https://angel.co/u/bryan-guner)  	| [StackShare](https://stackshare.io/bryanguner)  	| [Plunk](http://plnkr.co/account/plunks)   	|
 | [giphy](https://giphy.com/channel/bryanguner)  	| [kofi](https://ko-fi.com/bgoonz)    	| [Codewars](https://www.codewars.com/users/bgoonz)   	| [Dribble](https://dribbble.com/bgoonz4242?onboarding=true)   	| [Glitch](https://glitch.com/@bgoonz)   	|
 | [contentful](https://app.contentful.com/spaces/lelpu0ihaz11/assets?id=MocOPmmNliLn6PPv)    	| [Netlify](https://app.netlify.com/user/settings#profile)  	| [Stackblitz](https://stackblitz.com/@bgoonz)  	| [Vercel](https://vercel.com/bgoonz)  	| [Youtube](https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/featured)  	|
-| [wordpress](https://web-dev-hub.com/)   	| [Edabit](https://edabit.com/user/dsRcx6yCwAgYwZbRB)  	| [Vinmeo](https://vimeo.com/user128661018)  	|   	|   	|
+| [wordpress](https://web-dev-hub.com/)   	| [Edabit](https://edabit.com/user/dsRcx6yCwAgYwZbRB)  	| [Vinmeo](https://vimeo.com/user128661018)  	|  [js fiddle](https://jsfiddle.net/user/bgoonz/) 	|   	|
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
