@@ -951,7 +951,7 @@ function longestCommonPrefix(strs) {
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#github-gists)
 
 # ➤ Github Gists
-[Github Gists](https://gist.github.com/bgoonz)
+[Github Gists](https://bgoonzgist.netlify.app/)
 ---
 
 [list-of-my-websites](https://gist.github.com/bgoonz/659a9b81ac45453bedc0a1a36275b580)
@@ -959,7 +959,7 @@ function longestCommonPrefix(strs) {
 ---
 
 
-![daft](./daftpunktocat-thomas.gif)
+
 
 
 
