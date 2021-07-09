@@ -18,7 +18,9 @@
 
 [![](http://img.youtube.com/vi/xGZSWvFess8/0.jpg)](http://www.youtube.com/watch?v=xGZSWvFess8 "Ancestrial Solo")
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179749486&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile-dfmkc6qfc-bgoonz.vercel.app/api/view?uid=12179749486&cover_image=true&theme=default)](https://github.com/bgoonz/spotify-github-profile)
+
+
 ---
 
 
