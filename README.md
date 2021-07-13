@@ -22,11 +22,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz)](https://github.com/bgoonz/github-readme-activity-graph)
   
 
-![GitHub metrics](https://metrics.lecoq.io/bgoonz)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bgoonz)  
-
-![Profile views](https://gpvc.arturio.dev/bgoonz)  
 
 ---
 
