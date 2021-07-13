@@ -17,7 +17,7 @@
 [![](http://img.youtube.com/vi/xGZSWvFess8/0.jpg)](http://www.youtube.com/watch?v=xGZSWvFess8 "Ancestrial Solo")
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz)](https://github.com/bgoonz/github-readme-activity-graph)
+[![Bryans github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz?theme=react-dark)](https://github.com/bgoonz/github-readme-activity-graph)
   
 
 
