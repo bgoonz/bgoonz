@@ -18,11 +18,10 @@
 
 [![](http://img.youtube.com/vi/xGZSWvFess8/0.jpg)](http://www.youtube.com/watch?v=xGZSWvFess8 "Ancestrial Solo")
 
-[![spotify-github-profile](https://spotify-github-profile-dfmkc6qfc-bgoonz.vercel.app/api/view?uid=12179749486&cover_image=true&theme=default)](https://github.com/bgoonz/spotify-github-profile)
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=12179749486&cover_image=true&theme=compact)]]
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179749486&cover_image=true&theme=default)](https://github.com/bgoonz/spotify-github-profile)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bgoonz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]
+
 
 ---
 
