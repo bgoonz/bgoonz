@@ -254,32 +254,6 @@ Creating things that change my every day life.
 
 </details>
 
-<details> 
-
- <summary>🤖 <b>My Programming Stats</b>: </summary>
-<br>
-
-
-
-
-
-![waka1](https://github.com/bgoonz/bgoonz/blob/master/langs.PNG)
-
-
-![waka2](https://github.com/bgoonz/bgoonz/blob/master/waka.PNG)
-
-
-[![bgoonz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bgoonz)](https://github.com/bgoonz/github-readme-stats)
-
-
-
-</details>
-
-
-
-
-
-
 
 
 <details>
