@@ -19,9 +19,17 @@
 [![](http://img.youtube.com/vi/xGZSWvFess8/0.jpg)](http://www.youtube.com/watch?v=xGZSWvFess8 "Ancestrial Solo")
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bgoonz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bgoonz&show_icons=true&count_private=true)  
 
+![GitHub Activity Graph](t)  
+
+![GitHub metrics](https://metrics.lecoq.io/bgoonz)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bgoonz)  
+
+![Profile views](https://gpvc.arturio.dev/bgoonz)  
 
 ---
 
