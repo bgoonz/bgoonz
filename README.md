@@ -10,15 +10,13 @@
   
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
 
 
 
-[![](http://img.youtube.com/vi/xGZSWvFess8/0.jpg)](http://www.youtube.com/watch?v=xGZSWvFess8 "Ancestrial Solo")
 
 
-[![Bryans github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz?theme=react-dark)](https://github.com/bgoonz/github-readme-activity-graph)
-  
+
+[![Bryans github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz&custom_title=This%20is%20a%20title&hide_border=true&theme=chartreuse-dark)](https://github.com/bgoonz/github-readme-activity-graph)
 
 
 
@@ -72,14 +70,14 @@
   
  [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&row=1)](https://github.com/bgoonz/github-profile-trophy) 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&layout=compact&hide=html,mathematica&langs_count=16)](https://github.com/bgoonz/github-readme-stats)
-|  |  |
-|:----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**    | ![](https://img.shields.io/badge/Lang-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=CSS%20Wizardry&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=00FF00)  ![](https://img.shields.io/badge/Lang-SQL-informational?style=flat&logo=SQL&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=Java&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=Python&logoColor=white&color=00FF00)   ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=00FF00) |
-| **Libraries**    | ![](https://img.shields.io/badge/Lib-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=React&logoColor=white&color=00FF00)  |
-| **Frameworks**   | ![](https://img.shields.io/badge/FW-Redux-informational?style=flat&logo=Redux&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/FW-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/FW-Express-informational?style=flat&logoColor=white&color=00FF00)  ![](https://img.shields.io/badge/FW-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=00FF00) |
-| **Databases**    | ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00FF00) |
-| **Testing**      | ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=Jest&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logo=JUnit&logoColor=white&color=00FF00) |
-| **Other**        | ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=ESLint&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=00FF00)  <br />![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Code-LESS-informational?style=flat&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Code-Emmet-informational?style=flat&logoColor=white&color=00FF00) 
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| :------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**  | ![](https://img.shields.io/badge/Lang-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=CSS%20Wizardry&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=00FF00)  ![](https://img.shields.io/badge/Lang-SQL-informational?style=flat&logo=SQL&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=Java&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=Python&logoColor=white&color=00FF00)   ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=00FF00)                                                                                                                                                                                                                                            |
+| **Libraries**  | ![](https://img.shields.io/badge/Lib-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=React&logoColor=white&color=00FF00)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Frameworks** | ![](https://img.shields.io/badge/FW-Redux-informational?style=flat&logo=Redux&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/FW-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/FW-Express-informational?style=flat&logoColor=white&color=00FF00)  ![](https://img.shields.io/badge/FW-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=00FF00)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Databases**  | ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00FF00)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|  **Testing**   | ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=Jest&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logo=JUnit&logoColor=white&color=00FF00)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|   **Other**    | ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=ESLint&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=00FF00)  <br />![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Code-LESS-informational?style=flat&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Code-Emmet-informational?style=flat&logoColor=white&color=00FF00) |
 
 
  <br />
@@ -143,10 +141,18 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#projects)
 
-![skills](./skills.PNG)
+
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#projects)
 
+  
+<img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
+
+
+[![](http://img.youtube.com/vi/xGZSWvFess8/0.jpg)](http://www.youtube.com/watch?v=xGZSWvFess8 "Ancestrial Solo")
+  
+  
+  
 ##### ➤ [Blog:](https://bgoonz-blog.netlify.app/)
 
 
@@ -175,7 +181,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://bgoonz.github.io/)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/bgoonz/ask-me-anything)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/bgoonz/blog-w-comments)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/bgoonz/ask-me-anything)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/bgoonz/bgoonz/graphs/commit-activity)[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/Naereen/README.md?pixel)](https://GitHub.com/bgoonz/bgoonz/)[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -264,7 +270,7 @@ Creating things that change my every day life.
 <br>
 
 
-[![bgoonz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bgoonz)](https://github.com/bgoonz/github-readme-stats)
+
 
 
 ![waka1](https://github.com/bgoonz/bgoonz/blob/master/langs.PNG)
@@ -272,6 +278,8 @@ Creating things that change my every day life.
 
 ![waka2](https://github.com/bgoonz/bgoonz/blob/master/waka.PNG)
 
+
+[![bgoonz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bgoonz)](https://github.com/bgoonz/github-readme-stats)
 
 
 
