@@ -19,11 +19,8 @@
 [![](http://img.youtube.com/vi/xGZSWvFess8/0.jpg)](http://www.youtube.com/watch?v=xGZSWvFess8 "Ancestrial Solo")
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bgoonz&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](t)  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz)](https://github.com/bgoonz/github-readme-activity-graph)
+  
 
 ![GitHub metrics](https://metrics.lecoq.io/bgoonz)  
 
