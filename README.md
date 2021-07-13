@@ -6,7 +6,7 @@
 
 <div align="center">
 
-###  [WEBSITE](https://bgoonz-blog.netlify.app/) [Portfolio](https://bg-portfolio.netlify.app/)   [Collaborate](https://webdevhub.jetbrains.space/oauth/auth/invite/419dd305ba717a392a02aa5b4e41e09c)  
+###  [WEBSITE](https://bgoonz-blog.netlify.app/)   ⇄    [Portfolio](https://bg-portfolio.netlify.app/)   ⇄      [Collaborate](https://webdevhub.jetbrains.space/oauth/auth/invite/419dd305ba717a392a02aa5b4e41e09c)  
   
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
