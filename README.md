@@ -1,15 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 
----
-
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#projects)
 
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#projects)
-
+  
+<div align="center">  
   
 <img align="center" src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
 
@@ -86,6 +82,8 @@
 
 </div>
 
+
+</div>
 
 
 <div align="center">
