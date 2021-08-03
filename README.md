@@ -2,6 +2,26 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 
 
+
+
+<div align="center">
+
+###  [WEBSITE](https://bgoonz-blog.netlify.app/)   ⇄    [Portfolio](https://bg-portfolio.netlify.app/)   ⇄      [Collaborate](https://webdevhub.jetbrains.space/oauth/auth/invite/419dd305ba717a392a02aa5b4e41e09c)   ⇄    [Other-Websites](https://unruffled-curran-b8a076.netlify.app/my-websites.html)
+  
+![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+  
+  
+
+
+[![Bryans github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz&custom_title=This%20is%20Bryans%20Activity&hide_border=true&theme=chartreuse-dark)](https://github.com/bgoonz/github-readme-activity-graph)
+
+
+
+<h3 align="center">A passionate Web Developer, Electrical Engineer, Musician & Producer</h3>
+
+
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#projects)
 
   
@@ -19,18 +39,7 @@
  
 
         
-
-> I write articles for:
-- CodeX
-- Analytics Vidhya
-- Star Gazers
-- JavaScript in Plain English
-- Geek Culture
-- Level Up Coding
-- <a href="https://dev.to/bgoonz">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bryan C Guner's DEV Community Profile" height="30px" width="30px">
-</a>
-        
+ 
 <a href="https://dev.to/bgoonz">
  
 > Netlify Research Program Participant!
@@ -84,24 +93,6 @@
 
 
 </div>
-
-
-<div align="center">
-
-###  [WEBSITE](https://bgoonz-blog.netlify.app/)   ⇄    [Portfolio](https://bg-portfolio.netlify.app/)   ⇄      [Collaborate](https://webdevhub.jetbrains.space/oauth/auth/invite/419dd305ba717a392a02aa5b4e41e09c)   ⇄    [Other-Websites](https://unruffled-curran-b8a076.netlify.app/my-websites.html)
-  
-![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-  
-  
-
-
-[![Bryans github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz&custom_title=This%20is%20Bryans%20Activity&hide_border=true&theme=chartreuse-dark)](https://github.com/bgoonz/github-readme-activity-graph)
-
-
-
-<h3 align="center">A passionate Web Developer, Electrical Engineer, Musician & Producer</h3>
-
 
 
 
