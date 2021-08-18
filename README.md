@@ -46,20 +46,14 @@
   
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#_email_)
-
 ## ➤ _Email_
 
 #### [bryan.guner@gmail.com](#)
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#_phone_)
-
 ## ➤ _Phone_
 
 #### [551-254-5505](551-254-5505)
-
-
----
+---  
 
 ## ➤ Connect with me:
 <p align="center">
@@ -67,11 +61,8 @@
   <a href="https://bryanguner.medium.com/"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a><a href="https://open.spotify.com/user/bgoonz?si=ShH9wYbIQWab5Jz_30BKFw"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
   </p>
 
-
 <div align="center">
-
-
-  
+ 
   | [GitHub](https://github.com/bgoonz)   	| [Gitlab](https://gitlab.com/bryan.guner.dev)  	| [Bitbucket](https://bitbucket.org/bgoonz/)  	| [Medium](https://bryanguner.medium.com/)  	| [code pen](https://codepen.io/bgoonz)   	|
 |---	|---	|---	|---	|---	|
 | [Replit](https://repl.it/@bgoonz/)  	|  [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN) 	| [Redit](https://www.reddit.com/user/bgoonz1)   	| [webcomponents.dev](https://webcomponents.dev/user/bgoonz)  	|  [dev.to](https://dev.to/bgoonz) 	|
@@ -86,11 +77,6 @@
   
   
 </div>
-  
-  
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#projects)
-
   
 <div align="center">  
   
@@ -137,9 +123,6 @@
 
 <div align="center">
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#_email_)
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bgoonz&show_icons=true&locale=en" alt="bgoonz" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /></p>
   
  [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&row=1)](https://github.com/bgoonz/github-profile-trophy)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&layout=compact&hide=html,mathematica&langs_count=16)](https://github.com/bgoonz/github-readme-stats)
@@ -174,10 +157,6 @@
 
 
 
-
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#blog)
 
 
 
