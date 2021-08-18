@@ -74,10 +74,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Redux](https://img.shields.io/badge/-Redux-lightblue?style=flat&logo=redux)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)                                 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![PostgresQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)      ![Ruby](https://img.shields.io/badge/-Ruby-darkred?style=flat&logo=ruby)             ![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=Material-UI&logoColor=white)      
 
 ![Express](https://img.shields.io/badge/-Express-blue?style=flat&logo=express) ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)![Python](https://img.shields.io/badge/-Python-lightyellow?style=flat&logo=python&logoColor=blue)     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)                                 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![PostgresQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)      ![Ruby](https://img.shields.io/badge/-Ruby-darkred?style=flat&logo=ruby)             ![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=Material-UI&logoColor=white)      
+
 
 
   
