@@ -2,6 +2,11 @@
 <h1>Hi 👋, I'm Bryan</h1>
 
 
+###  [WEBSITE](https://bgoonz-blog.netlify.app/)   ⇄    [Portfolio](https://bg-portfolio.netlify.app/)   ⇄      [Collaborate](https://webdevhub.jetbrains.space/oauth/auth/invite/419dd305ba717a392a02aa5b4e41e09c)   ⇄    [Other-Websites](https://unruffled-curran-b8a076.netlify.app/my-websites.html)
+  
+![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![hackmd-github-sync-badge](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q/badge)](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q)[![GitHub followers](https://img.shields.io/github/followers/bgoonz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bgoonz?tab=followers)
+
+
   
   
 #### Refresh the page for a new joke!
@@ -39,26 +44,6 @@
 
 <div align="center">
 
-###  [WEBSITE](https://bgoonz-blog.netlify.app/)   ⇄    [Portfolio](https://bg-portfolio.netlify.app/)   ⇄      [Collaborate](https://webdevhub.jetbrains.space/oauth/auth/invite/419dd305ba717a392a02aa5b4e41e09c)   ⇄    [Other-Websites](https://unruffled-curran-b8a076.netlify.app/my-websites.html)
-  
-![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![hackmd-github-sync-badge](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q/badge)](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q)[![GitHub followers](https://img.shields.io/github/followers/bgoonz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bgoonz?tab=followers)
-
-
-  
-
- 
-
-
-<div align="center">
-
-
-  
-
-
- <br />
-
-
-</div>  
 
 
 [![Bryans github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz&custom_title=This%20is%20Bryans%20Activity&hide_border=true&theme=chartreuse-dark)](https://github.com/bgoonz/github-readme-activity-graph)
