@@ -38,20 +38,14 @@
 
 
 #### Refresh the page for a new joke!
-
-
 <img align="center" src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
-
 </div>    
   
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#_email_)
 ## ➤ _Email_
-
 #### [bryan.guner@gmail.com](#)
-
 ## ➤ _Phone_
-
 #### [551-254-5505](551-254-5505)
 ---  
 
