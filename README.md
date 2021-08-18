@@ -4,6 +4,8 @@
   
 <img align="center"  src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
 
+> Netlify Research Program Participant!
+
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![hackmd-github-sync-badge](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q/badge)](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q)[![GitHub followers](https://img.shields.io/github/followers/bgoonz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bgoonz?tab=followers)
 
@@ -74,17 +76,9 @@
 
 </div>
 
-> Netlify Research Program Participant!
 
 </div>
   
-<div align="center">  
-  
-
-
-</div>
-
-</div>
 
 <details>
 
@@ -160,7 +154,9 @@ Creating things that change my every day life.
 
 > Mahatma Gandhi
 
-|                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|                |                                                                                                                                                                                                                                                                                                                                                     ## Portfolio:
+
+# [netlify](https://portfolio42.netlify.app/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | :------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Languages**  | ![](https://img.shields.io/badge/Lang-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=CSS%20Wizardry&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-SQL-informational?style=flat&logo=SQL&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=Java&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=Python&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=00FF00)                                                                                                                                                                                                                                              |
 | **Libraries**  | ![](https://img.shields.io/badge/Lib-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=React&logoColor=white&color=00FF00)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -302,9 +298,7 @@ Creating things that change my every day life.
 
 ---
 
-## Portfolio:
 
-# [netlify](https://portfolio42.netlify.app/)
 
 ---
 
