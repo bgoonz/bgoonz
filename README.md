@@ -34,6 +34,11 @@
 
 
 
+#### Refresh the page for a new joke!
+<img align="center" src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
+</div>    
+  
+
 [![Portfolio](https://img.shields.io/badge/-❤_Portfolio-f58?style=flat-square&logo=a&logoColor=white&link=https://bg-portfolio.netlify.app/)](https://bg-portfolio.netlify.app/) 
 <a href="https://github.com/bgoonz/resume-cv-portfolio-samples/blob/master/2021-resume/bryan-guner-resume-2021.pdf" download>![Resume PDF](https://img.shields.io/badge/-Resume-f00?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)</a> 
 [![Bryan's email](https://img.shields.io/badge/bryan.guner@gmail.com-f4b400?style=flat-square&logo=gmail&logoColor=black&link=mailto:bryan.guner@gmail.com)](mailto:bryan.guner@gmail.com) 
@@ -44,11 +49,6 @@
 
 
 
-
-#### Refresh the page for a new joke!
-<img align="center" src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
-</div>    
-  
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#_email_)
 ## ➤ _Email_
