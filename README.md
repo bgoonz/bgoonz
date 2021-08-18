@@ -15,12 +15,9 @@
 
 <img align="center" src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
   
-  
+# ➤ _Email_ [bryan.guner@gmail.com](#) _Phone_ [551-254-5505](551-254-5505)
 
-
-## ➤ _Email_ [bryan.guner@gmail.com](#) _Phone_ [551-254-5505](551-254-5505)
-
-<h3 align="center">A passionate Web Developer, Electrical Engineer, Musician & Producer</h3>
+<h4 align="center">A passionate Web Developer, Electrical Engineer, Musician & Producer</h4>
   
 
 
