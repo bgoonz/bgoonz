@@ -24,7 +24,15 @@
   
 <div align="center">
   
-  
+
+
+## ➤ Current Projects:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Lambda)](https://github.com/bgoonz/Lambda)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=bgoonz.github.io)](https://github.com/bgoonz/bgoonz.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=WEB-DEV-TOOLS-HUB)](https://github.com/bgoonz/WEB-DEV-TOOLS-HUB)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=DS-ALGO-OFFICIAL)](https://github.com/bgoonz/DS-ALGO-OFFICIAL)
+
+
 
 [![Portfolio](https://img.shields.io/badge/-❤_Portfolio-f58?style=flat-square&logo=a&logoColor=white&link=https://bg-portfolio.netlify.app/)](https://bg-portfolio.netlify.app/) 
 <a href="https://github.com/bgoonz/resume-cv-portfolio-samples/blob/master/2021-resume/bryan-guner-resume-2021.pdf" download>![Resume PDF](https://img.shields.io/badge/-Resume-f00?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)</a> 
@@ -349,15 +357,6 @@ Creating things that change my every day life.
     </tr>
     
   </tbody>
-</table>
-
-## ➤ Current Projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Lambda)](https://github.com/bgoonz/Lambda)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=bgoonz.github.io)](https://github.com/bgoonz/bgoonz.github.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=WEB-DEV-TOOLS-HUB)](https://github.com/bgoonz/WEB-DEV-TOOLS-HUB)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=DS-ALGO-OFFICIAL)](https://github.com/bgoonz/DS-ALGO-OFFICIAL)
-
-
 
 
 <p align="center">
