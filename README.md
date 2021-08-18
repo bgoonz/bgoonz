@@ -1,8 +1,13 @@
-
-<h1 align="center">Hi 👋, I'm Bryan</h1>
-
 <div align="center">
+<h1>Hi 👋, I'm Bryan</h1>
+
+
+  
+  
 #### Refresh the page for a new joke!
+  
+  
+  
 <img align="center" src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
 </div>    
   
