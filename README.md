@@ -1,47 +1,34 @@
 <div align="center">
 
-
-  
 <h1>Hi 👋, I'm Bryan</h1>
   
 <img align="center"  src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img> 
-  
+
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![hackmd-github-sync-badge](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q/badge)](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q)[![GitHub followers](https://img.shields.io/github/followers/bgoonz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bgoonz?tab=followers)
 
+### [WEBSITE](https://bgoonz-blog.netlify.app/) ⇄ [Portfolio](https://bg-portfolio.netlify.app/) ⇄ [Collaborate](https://webdevhub.jetbrains.space/oauth/auth/invite/419dd305ba717a392a02aa5b4e41e09c) ⇄ [Other-Websites](https://unruffled-curran-b8a076.netlify.app/my-websites.html)
 
-  
-
-###  [WEBSITE](https://bgoonz-blog.netlify.app/)   ⇄    [Portfolio](https://bg-portfolio.netlify.app/)   ⇄      [Collaborate](https://webdevhub.jetbrains.space/oauth/auth/invite/419dd305ba717a392a02aa5b4e41e09c)   ⇄    [Other-Websites](https://unruffled-curran-b8a076.netlify.app/my-websites.html)
-  
-  
 # Refresh the page for a new joke!
-  
-  
-  
+
 <img align="center" src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
   
   
-  
-
-## ➤ _Email_  [bryan.guner@gmail.com](#)   _Phone_  [551-254-5505](551-254-5505)  
 
 
- 
+## ➤ _Email_ [bryan.guner@gmail.com](#) _Phone_ [551-254-5505](551-254-5505)
+
 <h3 align="center">A passionate Web Developer, Electrical Engineer, Musician & Producer</h3>
   
-  
-
-[![Portfolio](https://img.shields.io/badge/-❤_Portfolio-f58?style=flat-square&logo=a&logoColor=white&link=https://bg-portfolio.netlify.app/)](https://bg-portfolio.netlify.app/) 
-<a href="https://github.com/bgoonz/resume-cv-portfolio-samples/blob/master/2021-resume/bryan-guner-resume-2021.pdf" download>![Resume PDF](https://img.shields.io/badge/-Resume-f00?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)</a> 
-[![Bryan's email](https://img.shields.io/badge/bryan.guner@gmail.com-f4b400?style=flat-square&logo=gmail&logoColor=black&link=mailto:bryan.guner@gmail.com)](mailto:bryan.guner@gmail.com) 
-[![Blog](https://img.shields.io/badge/-Blog-21759b?style=flat-square&logo=WordPress&logoColor=white&link=https://web-dev-hub.com/)](https://web-dev-hub.com/) 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-guner-046199128/)](https://www.linkedin.com/in/bryan-guner-046199128/) 
-[![AngelList](https://img.shields.io/badge/-AngelList-black?style=flat-square&logo=AngelList&logoColor=white&link=https://angel.co/u/bryan-guner)](https://angel.co/u/bryan-guner) 
-[![GitHub bgoonz](https://img.shields.io/github/followers/bgoonz?label=follow&style=social)](https://github.com/bgoonz) 
 
 
-
+[![Portfolio](https://img.shields.io/badge/-❤_Portfolio-f58?style=flat-square&logo=a&logoColor=white&link=https://bg-portfolio.netlify.app/)](https://bg-portfolio.netlify.app/)
+<a href="https://github.com/bgoonz/resume-cv-portfolio-samples/blob/master/2021-resume/bryan-guner-resume-2021.pdf" download>![Resume PDF](https://img.shields.io/badge/-Resume-f00?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)</a>
+[![Bryan's email](https://img.shields.io/badge/bryan.guner@gmail.com-f4b400?style=flat-square&logo=gmail&logoColor=black&link=mailto:bryan.guner@gmail.com)](mailto:bryan.guner@gmail.com)
+[![Blog](https://img.shields.io/badge/-Blog-21759b?style=flat-square&logo=WordPress&logoColor=white&link=https://web-dev-hub.com/)](https://web-dev-hub.com/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-guner-046199128/)](https://www.linkedin.com/in/bryan-guner-046199128/)
+[![AngelList](https://img.shields.io/badge/-AngelList-black?style=flat-square&logo=AngelList&logoColor=white&link=https://angel.co/u/bryan-guner)](https://angel.co/u/bryan-guner)
+[![GitHub bgoonz](https://img.shields.io/github/followers/bgoonz?label=follow&style=social)](https://github.com/bgoonz)
 
 <p align="center">
   <a href="mailto:bryan.guner@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a><a href="https://www.facebook.com/bryan.guner/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a><a href="https://twitter.com/bgooonz"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a><a href="https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/videos"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a><a href="https://www.instagram.com/bgoonz/?hl=en"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a><a href="https://www.linkedin.com/in/bryan-guner-046199128/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
@@ -52,33 +39,16 @@
   
 [![Bryans github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz&custom_title=This%20is%20Bryans%20Activity&hide_border=true&theme=chartreuse-dark)](https://github.com/bgoonz/github-readme-activity-graph)
 
-
-   
 <div align="center">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>  
   
-  </div> 
-
-
+  </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bgoonz&show_icons=true&locale=en" alt="bgoonz" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /></p>
 
-
-  
- 
-  
-
-
 <div align="center">
-
-
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&row=1)](https://github.com/bgoonz/github-profile-trophy)    
-  
-
-
   
   | [GitHub](https://github.com/bgoonz)   	| [Gitlab](https://gitlab.com/bryan.guner.dev)  	| [Bitbucket](https://bitbucket.org/bgoonz/)  	| [Medium](https://bryanguner.medium.com/)  	| [code pen](https://codepen.io/bgoonz)   	|
 |---	|---	|---	|---	|---	|
@@ -92,64 +62,33 @@
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&row=1)](https://github.com/bgoonz/github-profile-trophy)
 
 ## ➤ Current Projects:
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Lambda)](https://github.com/bgoonz/Lambda)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=DS-ALGO-OFFICIAL)](https://github.com/bgoonz/DS-ALGO-OFFICIAL)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=WEB-DEV-TOOLS-HUB)](https://github.com/bgoonz/WEB-DEV-TOOLS-HUB)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&layout=compact&hide=html,mathematica&langs_count=16)](https://github.com/bgoonz/github-readme-stats)
-  
+
 </div>
 
-
-
-   
 > Netlify Research Program Participant!
 
-
-
-
-
-  
-  
 </div>
   
 <div align="center">  
   
-  
-
-
-
- 
-
-        
 
 
 </div>
 
-
-
-
-
 </div>
-
-
-
-
-
-
-
-
 
 <details>
 
 <summary>About Me</summary>
-
-
-
-
 
 - 🔭 Contract Web Development **Relational Concepts**
 
@@ -171,66 +110,69 @@
 
 ### i really like music :headphones:
 
-
 #### What's the most useful business-related book you've ever read?
+
 > A Random Walk Down Wall Street
 
 #### What's your favorite non-business book?
+
 > Hitchhiker's Guide To The Galaxy
 
 #### If money were not an issue, what would you be doing right now?
+
 > Designing recording software/hardware and using it
 
 #### What words of advice would you give your younger self?
+
 > Try harder and listen to your parents more (the latter bit of advice would be almost certain to fall on deaf ears lol)
 
 #### What's the most creative thing you've ever done?
+
 > I built a platform that listens to a guitarist's performance and automatically triggers guitar effects at the appropriate time in the song.
 
 #### Which founders or startups do you most admire?
+
 > Is it to basic to say Tesla... I know they're prevalent now but I've been an avid fan since as early as 2012.
 
 #### What's your super power?
+
 > Having really good ideas and forgetting them moments later.
 
 #### What's the best way for people to get in touch with you?
+
 > A text
 
 #### What aspects of your work are you most passionate about?
+
 Creating things that change my every day life.
 
 #### What was the most impactful class you took in school?
+
 > Modern Physics... almost changed my major after that class... but at the end of the day engineering was a much more fiscally secure avenue.
 
 #### What's something you wish you had done years earlier?
+
 > Learned to code ... and sing
 
 #### What words of wisdom do you live by?
-> *Disclaimer: The following wisdom is very cliche ... but... "Be the change that you wish to see in the world."
+
+> \*Disclaimer: The following wisdom is very cliche ... but... "Be the change that you wish to see in the world."
 
 > Mahatma Gandhi
 
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**  | ![](https://img.shields.io/badge/Lang-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=CSS%20Wizardry&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-SQL-informational?style=flat&logo=SQL&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=Java&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=Python&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=00FF00)                                                                                                                                                                                                                                              |
+| **Libraries**  | ![](https://img.shields.io/badge/Lib-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=React&logoColor=white&color=00FF00)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Frameworks** | ![](https://img.shields.io/badge/FW-Redux-informational?style=flat&logo=Redux&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/FW-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/FW-Express-informational?style=flat&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/FW-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=00FF00)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Databases**  | ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00FF00)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|  **Testing**   | ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=Jest&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logo=JUnit&logoColor=white&color=00FF00)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|   **Other**    | ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=ESLint&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Code-LESS-informational?style=flat&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Code-Emmet-informational?style=flat&logoColor=white&color=00FF00) |
 
-  
-
-  
-|                |                                                                                                                                           |
-| :------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**  | ![](https://img.shields.io/badge/Lang-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=CSS%20Wizardry&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=00FF00)  ![](https://img.shields.io/badge/Lang-SQL-informational?style=flat&logo=SQL&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=Java&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=Python&logoColor=white&color=00FF00)   ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=00FF00)                                                                                                                                                                                                                                            |
-| **Libraries**  | ![](https://img.shields.io/badge/Lib-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=React&logoColor=white&color=00FF00)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Frameworks** | ![](https://img.shields.io/badge/FW-Redux-informational?style=flat&logo=Redux&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/FW-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/FW-Express-informational?style=flat&logoColor=white&color=00FF00)  ![](https://img.shields.io/badge/FW-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=00FF00)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **Databases**  | ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00FF00)                                                                                                                                                                                                                                                                                 |
-|  **Testing**   | ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=Jest&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logo=JUnit&logoColor=white&color=00FF00)                                                                                                                                                                                                                                                                                                                                                                  |
-|   **Other**    | ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=ESLint&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=00FF00)  <br />![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Code-LESS-informational?style=flat&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Code-Emmet-informational?style=flat&logoColor=white&color=00FF00) |  
   </div>  
- 
 
-   
-  
-  
+
 </details>
-
-
 
 <!-- start work experience section -->
 <details>
@@ -238,28 +180,27 @@ Creating things that change my every day life.
 
 # ➤ Technical Skills­­­
 
-| **Programming**** Languages:** | JavaScript ES-6,  NodeJS,  React,  HTML5,  CSS3,  SCSS,  Bash Shell,  Excel,  SQL,  NoSQL,  MATLAB,  Python,  C++ |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| **Databases:**                 | PostgreSQL,  MongoDB                                                                                              |
-| **Cloud:**                     | Docker,  AWS,  Google App Engine,  Netlify,  Digital Ocean,  Heroku,  Azure Cloud Services                        |
-| **OS:**                        | Linux,  Windows (WSL),  IOS                                                                                       |
-| **Agile:**                     | GitHub,  BitBucket,  Jira,  Confluence                                                                            |
-| **IDEs:**                      | VSCode,  Visual Studio,  Atom,  Code Blocks,  Sublime Text 3,  Brackets                                           |
+| **Programming\*\*** Languages:\*\* | JavaScript ES-6, NodeJS, React, HTML5, CSS3, SCSS, Bash Shell, Excel, SQL, NoSQL, MATLAB, Python, C++ |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Databases:**                     | PostgreSQL, MongoDB                                                                                   |
+| **Cloud:**                         | Docker, AWS, Google App Engine, Netlify, Digital Ocean, Heroku, Azure Cloud Services                  |
+| **OS:**                            | Linux, Windows (WSL), IOS                                                                             |
+| **Agile:**                         | GitHub, BitBucket, Jira, Confluence                                                                   |
+| **IDEs:**                          | VSCode, Visual Studio, Atom, Code Blocks, Sublime Text 3, Brackets                                    |
 
 ---
-
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#experience)
 
 # ➤ Experience
 
-| **Relational Concepts:** Hallandale Beach,  FL | March 2020 - Present |
-| ---------------------------------------------- | -------------------- |
-| **Front End Web Developer**                    |
-|                                                |
+| **Relational Concepts:** Hallandale Beach, FL | March 2020 - Present |
+| --------------------------------------------- | -------------------- |
+| **Front End Web Developer**                   |
+|                                               |
 
 - Responsible for front-end development for a custom real estate application which provides sophisticated and fully customizable filtering to allow investors and real estate professionals to narrow in on exact search targets.
-- Designed mock-up screens,  wireframes,  and workflows for intuitive user experience.
+- Designed mock-up screens, wireframes, and workflows for intuitive user experience.
 - Migrated existing multi-page user experience into singular page interfaces using React components.
 - Participated in every stage of the design from conception through development and iterative improvement.
 - Produced user stories and internal documentation for future site development and maintenance.
@@ -268,10 +209,10 @@ Creating things that change my every day life.
 - Produced unit tests using a combination of Mocha and Chai.
 - Injected Google Analytics to capture pertinent usage data to produce an insightful dashboard experience.
 
-| **Environment:** | **JavaScript,  JQuery,  React,  HTML5 &amp; CSS,  Bootstrap,  DOJO,  Google Cloud,  Bash Script** |
-| ---------------- | ------------------------------------------------------------------------------------------------- |
+| **Environment:** | **JavaScript, JQuery, React, HTML5 &amp; CSS, Bootstrap, DOJO, Google Cloud, Bash Script** |
+| ---------------- | ------------------------------------------------------------------------------------------ |
 
-| **Cembre:** Edison,  NJ          | Nov 2019 – Mar 2020 |
+| **Cembre:** Edison, NJ           | Nov 2019 – Mar 2020 |
 | -------------------------------- | ------------------- |
 | **Product Development Engineer** |
 |                                  |
@@ -282,26 +223,25 @@ Creating things that change my every day life.
 - Presided over internal and end user software trainings in addition to producing the corresponding documentation.
 - Served as the primary point of contact for troubleshooting railroad hardware and software in the North America.
 
-| **Environment:** | **Excel,  AutoCAD,  PowerPoint,  Word** |
-| ---------------- | --------------------------------------- |
+| **Environment:** | **Excel, AutoCAD, PowerPoint, Word** |
+| ---------------- | ------------------------------------ |
 
 ---
-
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#education)
 
 # ➤ Education
 
-| **B.S. Electrical Engineering,  TCNJ, ** Ewing NJ | 2014 – 2019 |
-| ------------------------------------------------- | ----------- |
+| **B.S. Electrical Engineering, TCNJ, ** Ewing NJ | 2014 – 2019 |
+| ------------------------------------------------ | ----------- |
 
 **Capstone Project – Team Lead**
 
 - Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency &amp; time domain analysis to track a current performance against prerecorded performance.
 - Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.
 
-| **Environment:** | **C++,  Python,  MATLAB,  PureData** |
-| ---------------- | ------------------------------------ |
+| **Environment:** | **C++, Python, MATLAB, PureData** |
+| ---------------- | --------------------------------- |
 
 </details>
 
@@ -356,41 +296,36 @@ Creating things that change my every day life.
     
   </tbody>
 
-
 <p align="center">
 
 ---
 
-
 ---
-Portfolio:
-------------
+
+## Portfolio:
 
 # [netlify](https://portfolio42.netlify.app/)
+
 ---
 
 ---
+
 <div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
 </div>
 <hr>
 
+---
 
-
-
---------------------
 # [Learning React Blog](https://ecstatic-jang-593fd1.netlify.app/readme)
 
 #### React Repo:
 
 [React Repo](https://github.com/bgoonz/React-Practice)
 
-
 ---
 
-<a href="https://codesandbox.io/embed/zealous-microservice-ti7em?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"   style="width:100%; height:20px; border:0; border-radius: 4px; overflow:hidden;" rel="React Todo">![Foo](https://codesandbox.io/static/img/play-codesandbox.svg)</a>
----
-
+## <a href="https://codesandbox.io/embed/zealous-microservice-ti7em?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"   style="width:100%; height:20px; border:0; border-radius: 4px; overflow:hidden;" rel="React Todo">![Foo](https://codesandbox.io/static/img/play-codesandbox.svg)</a>
 
 <div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
@@ -398,11 +333,7 @@ Portfolio:
 
 # [react-documentation-site](https://documentation-site-react2-peitff669-bgoonz.vercel.app/)
 
-
 [![Edit magical-stallman-ov0d1](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/magical-stallman-ov0d1?autoresize=1&expanddevtools=1&fontsize=12&hidenavigation=1&moduleview=1&theme=dark)
-
-
-
 
 <div style=" border: 1px solid black">
 <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
@@ -410,23 +341,22 @@ Portfolio:
 
 ---
 
-
-
 ## ➤ Codepens (mostly embeded animations)
 
 # [code-pens-embedded](https://embedable-content.netlify.app/)
 
-
-
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#weekly-quick-snips)
 
 ## ➤ Weekly-Quick-Snips:
+
 ---
+
 #### Snippet of the Day:
 
+### replaceAll
 
-### replaceAll 
 the method string.replaceAll(search, replaceWith) replaces all appearances of search string with replaceWith.
+
 ```javascript
 
 
@@ -457,12 +387,8 @@ const updatedStr = str.replaceAll('example', 'snippet'); //'this is a JSsnippets
 
 ```
 
-
-
-
-
-
 ---
+
 ### Fibonacci in Python:
 
 ```py
@@ -482,12 +408,9 @@ for i in range(10):
     print(f'{i}: {fib_iter(i)}')
 ```
 
+---
 
-
-
- ---
- 
- #### Yesterday's Snippet of the day:
+#### Yesterday's Snippet of the day:
 
 ---
 
@@ -498,7 +421,7 @@ def quicksort(l):
         return l
     # If we have a left list, a pivot point and a right list...
     # assigns the return values of the partition() function
-    left, pivot, right = partition(l) 
+    left, pivot, right = partition(l)
     # Our sorted list looks like left + pivot + right, but sorted.
     # Pivot has to be in brackets to be a list, so python can concatenate all the elements to a single list
     return quicksort(left) + [pivot] + quicksort(right)
@@ -529,7 +452,9 @@ print(quicksort([1,2,3,4,5,6,7]))
 
 print(quicksort([9,8,7,6,5,4,3,2,1]))
 ```
+
 ---
+
 <details>
   
   <summary>See Older Snippets!</summary>
@@ -555,9 +480,9 @@ print(quicksort([9,8,7,6,5,4,3,2,1]))
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]
 
-   for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
+for file in \*; do mv "$file" `echo $file | tr ' ' '_'` ; done
         if [[ -d "${f}" ]]; then
-            cd "${f}"
+cd "${f}"
             RecurseDirs $(ls -1 ".")
             cd ..
         fi
@@ -565,16 +490,16 @@ print(quicksort([9,8,7,6,5,4,3,2,1]))
     IFS=$oldIFS
 }
 RecurseDirs "./"
-  
-```
-  
-  
+
+````
+
+
  ---
  ### Copy to clipboard jQuerry
  > Language: Javascript/Jquery
 
 
->In combination with the script tag :  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> , this snippet will add a copy to clipboard button to all of your embedded <code> blocks. 
+>In combination with the script tag :  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> , this snippet will add a copy to clipboard button to all of your embedded <code> blocks.
 
 
 ```js
@@ -606,39 +531,35 @@ $(document).ready(function() {
 })
 
 
-```
- 
- 
- 
- 
- 
- 
- 
- ---
- ### Append Files in PWD
- 
- 
-  ```js
+````
+
+---
+
+### Append Files in PWD
+
+```js
 //APPEND-DIR.js
-const fs = require( 'fs' ); let cat = require( 'child_process' ).execSync( 'cat *' ).toString( 'UTF-8' );
-fs.writeFile( 'output.md', cat, ( err ) => { if ( err ) throw err; } );
+const fs = require("fs");
+let cat = require("child_process").execSync("cat *").toString("UTF-8");
+fs.writeFile("output.md", cat, (err) => {
+  if (err) throw err;
+});
 ```
- 
- 
- ---
- 
-  ### doesUserFrequentStarbucks.js
- 
+
+---
+
+### doesUserFrequentStarbucks.js
+
 ```js
 const isAppleDevice = /Mac|iPod|iPhone|iPad/.test(navigator.platform);
 console.log(isAppleDevice);
 // Result: will return true if user is on an Apple device
-
 ```
+
 ---
- 
- ### arr-intersection.js
- 
+
+### arr-intersection.js
+
 ```js
 /*
  function named intersection(firstArr) that takes in an array and
@@ -665,39 +586,50 @@ console.log(abc(["b", "d", "c"])); // returns [ 'b', 'c' ]
 let fame = intersection(["f", "a", "m", "e"]); // returns a function
 console.log(fame(["a", "f", "z", "b"])); // returns [ 'f', 'a' ]
 ```
+
 ---
- ### arr-of-cum-partial-sums.js
- 
+
+### arr-of-cum-partial-sums.js
+
 ```js
 /*
 First is recurSum(arr, start) which returns the sum of the elements of arr from the index start till the very end.
 Second is partrecurSum() that recursively concatenates the required sum into an array and when we reach the end of the array, it returns the concatenated array.
 */
-//arr.length -1 = 5 
+//arr.length -1 = 5
 //                   arr   [    1,    7,    12,   6,    5,    10   ]
 //                   ind   [    0     1     2     3     4      5   ]
 //                              ↟                              ↟
 //                            start                           end
 
 function recurSum(arr, start = 0, sum = 0) {
-    if(start < arr.length){
-       return recurSum(arr, start+1, sum+arr[start]);
-    };
-    
-    return sum;
- }
- 
- function rPartSumsArr ( arr, partSum = [], start = 0, end = arr.length - 1 ) {
-    if ( start <= end ) {
-       return rPartSumsArr( arr, partSum.concat( recurSum( arr, start ) ), ++start, end );
-    };
-    return partSum.reverse();
- }
+  if (start < arr.length) {
+    return recurSum(arr, start + 1, sum + arr[start]);
+  }
 
- console.log('------------------------------------------------rPartSumArr------------------------------------------------')
-console.log('rPartSumsArr(arr)=[ 1, 1, 5, 2, 6, 10 ]: ', rPartSumsArr(arr));
-console.log('rPartSumsArr(arr1)=[ 1, 7, 12, 6, 5, 10 ]: ', rPartSumsArr(arr1));
-console.log('------------------------------------------------rPartSumArr------------------------------------------------')
+  return sum;
+}
+
+function rPartSumsArr(arr, partSum = [], start = 0, end = arr.length - 1) {
+  if (start <= end) {
+    return rPartSumsArr(
+      arr,
+      partSum.concat(recurSum(arr, start)),
+      ++start,
+      end
+    );
+  }
+  return partSum.reverse();
+}
+
+console.log(
+  "------------------------------------------------rPartSumArr------------------------------------------------"
+);
+console.log("rPartSumsArr(arr)=[ 1, 1, 5, 2, 6, 10 ]: ", rPartSumsArr(arr));
+console.log("rPartSumsArr(arr1)=[ 1, 7, 12, 6, 5, 10 ]: ", rPartSumsArr(arr1));
+console.log(
+  "------------------------------------------------rPartSumArr------------------------------------------------"
+);
 /*
 ------------------------------------------------rPartSumArr------------------------------------------------
 rPartSumsArr(arr)=[ 1, 1, 5, 2, 6, 10 ]:  [ 10, 16, 18, 23, 24, 25 ]
@@ -705,17 +637,21 @@ rPartSumsArr(arr1)=[ 1, 7, 12, 6, 5, 10 ]:  [ 10, 15, 21, 33, 40, 41 ]
 ------------------------------------------------rPartSumArr------------------------------------------------
 */
 ```
+
 ---
- ### camel2Kabab.js
- 
+
+### camel2Kabab.js
+
 ```js
 function camelToKebab(value) {
   return value.replace(/([a-z])([A-Z])/g, "$1-$2").toLowerCase();
 }
 ```
+
 ---
- ### camelCase.js
- 
+
+### camelCase.js
+
 ```js
 function camel(str) {
   return str.replace(/(?:^\w|[A-Z]|\b\w|\s+)/g, function (match, index) {
@@ -724,41 +660,44 @@ function camel(str) {
   });
 }
 ```
+
 ---
- ### concatLinkedLists.js
- 
+
+### concatLinkedLists.js
+
 ```js
 function addTwoNumbers(l1, l2) {
-  let result = new ListNode(0)
-  let currentNode = result
-  let carryOver = 0
+  let result = new ListNode(0);
+  let currentNode = result;
+  let carryOver = 0;
   while (l1 != null || l2 != null) {
-    let v1 = 0
-    let v2 = 0
-    if (l1 != null) v1 = l1.val
-    if (l2 != null) v2 = l2.val
-    
-    let sum =  v1 + v2 + carryOver
-    carryOver = Math.floor(sum / 10)
-    sum = sum % 10
-    currentNode.next = new ListNode(sum)
+    let v1 = 0;
+    let v2 = 0;
+    if (l1 != null) v1 = l1.val;
+    if (l2 != null) v2 = l2.val;
 
-    currentNode = currentNode.next
-    if (l1 != null) l1 = l1.next
-    if (l2 != null) l2 = l2.next
+    let sum = v1 + v2 + carryOver;
+    carryOver = Math.floor(sum / 10);
+    sum = sum % 10;
+    currentNode.next = new ListNode(sum);
+
+    currentNode = currentNode.next;
+    if (l1 != null) l1 = l1.next;
+    if (l2 != null) l2 = l2.next;
   }
-  
+
   if (carryOver > 0) {
-    currentNode.next = new ListNode(carryOver)
+    currentNode.next = new ListNode(carryOver);
   }
-  
-  return result.next
-};
+
+  return result.next;
+}
 ```
+
 ---
 
- ### fast-is-alpha-numeric.js
- 
+### fast-is-alpha-numeric.js
+
 ```js
 //Function to test if a character is alpha numeric that is faster than a regular
 //expression in JavaScript
@@ -782,29 +721,31 @@ console.log(isAlphaNumeric("z")); //true
 console.log(isAlphaNumeric(" ")); //false
 console.log(isAlphaNumeric("!")); //false
 ```
+
 ---
- ### find-n-replace.js
- 
+
+### find-n-replace.js
+
 ```js
-function replaceWords(str,before,after){
-    if(/^[A-Z]/.test(before)){
-after = after[0].toUpperCase() + after.substring(1)
-    }
-    else{
-        after = after[0].toLowerCase()+ after.substring(1)
-    }
-    return str.replace(before,after)
+function replaceWords(str, before, after) {
+  if (/^[A-Z]/.test(before)) {
+    after = after[0].toUpperCase() + after.substring(1);
+  } else {
+    after = after[0].toLowerCase() + after.substring(1);
+  }
+  return str.replace(before, after);
 }
-console.log(replaceWords("Let us go to the store", "store", "mall"))//"Let us go to the mall"
-console.log(replaceWords("He is Sleeping on the couch", "Sleeping", "sitting")) //"He is Sitting on the couch"
-console.log(replaceWords("His name is Tom", "Tom", "john"))
+console.log(replaceWords("Let us go to the store", "store", "mall")); //"Let us go to the mall"
+console.log(replaceWords("He is Sleeping on the couch", "Sleeping", "sitting")); //"He is Sitting on the couch"
+console.log(replaceWords("His name is Tom", "Tom", "john"));
 //"His name is John"
 ```
----
- ### flatten-arr.js
- 
-```js
 
+---
+
+### flatten-arr.js
+
+```js
 /*Simple Function to flatten an array into a single layer */
 const flatten = (array) =>
   array.reduce(
@@ -812,69 +753,53 @@ const flatten = (array) =>
     []
   );
 ```
----
- ### isWeekDay.js
- 
-```js
 
+---
+
+### isWeekDay.js
+
+```js
 const isWeekday = (date) => date.getDay() % 6 !== 0;
 console.log(isWeekday(new Date(2021, 0, 11)));
 // Result: true (Monday)
 console.log(isWeekday(new Date(2021, 0, 10)));
 // Result: false (Sunday)
 ```
----
- ### longest-common-prefix.js
- 
-```js
 
+---
+
+### longest-common-prefix.js
+
+```js
 function longestCommonPrefix(strs) {
-  let prefix = ''
-  if (strs.length === 0) return prefix
+  let prefix = "";
+  if (strs.length === 0) return prefix;
   for (let i = 0; i < strs[0].length; i++) {
-    const character = strs[0][i]
+    const character = strs[0][i];
     for (let j = 0; j < strs.length; j++) {
-      if (strs[j][i] !== character) return prefix
+      if (strs[j][i] !== character) return prefix;
     }
-    prefix = prefix + character
+    prefix = prefix + character;
   }
-  return prefix
+  return prefix;
 }
 ```
 
-
-
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@bgoonz42/e088a908-1c73-434f-9eab-b73ea4f17d3c.png" /></a>
-
-
 
 </details>
 
-
-
-
-
-
-
-
-
-
 <hr>
-
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#github-gists)
 
 # ➤ Github Gists
-[Github Gists](https://bgoonzgist.netlify.app/)
----
+
+## [Github Gists](https://bgoonzgist.netlify.app/)
 
 [list-of-my-websites](https://gist.github.com/bgoonz/659a9b81ac45453bedc0a1a36275b580)
 
-
-
- 
-  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
-
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 
 [![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
@@ -882,16 +807,9 @@ function longestCommonPrefix(strs) {
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/bgoonz/bgoonz/graphs/commit-activity)[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-
-
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Redux](https://img.shields.io/badge/-Redux-lightblue?style=flat&logo=redux)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)                                 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![PostgresQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)      ![Ruby](https://img.shields.io/badge/-Ruby-darkred?style=flat&logo=ruby)             ![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=Material-UI&logoColor=white)      
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![PostgresQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![Ruby](https://img.shields.io/badge/-Ruby-darkred?style=flat&logo=ruby) ![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=Material-UI&logoColor=white)
 
-![Express](https://img.shields.io/badge/-Express-blue?style=flat&logo=express) ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)![Python](https://img.shields.io/badge/-Python-lightyellow?style=flat&logo=python&logoColor=blue)     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-
-
+![Express](https://img.shields.io/badge/-Express-blue?style=flat&logo=express) ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)![Python](https://img.shields.io/badge/-Python-lightyellow?style=flat&logo=python&logoColor=blue) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
 </details>
-
-  
-  
