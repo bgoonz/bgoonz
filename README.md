@@ -9,7 +9,7 @@
   
   
 <img align="center" src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
-</div>    
+
   
 
 [![Portfolio](https://img.shields.io/badge/-❤_Portfolio-f58?style=flat-square&logo=a&logoColor=white&link=https://bg-portfolio.netlify.app/)](https://bg-portfolio.netlify.app/) 
@@ -29,7 +29,7 @@
   </p>
   
   </div>
-<div align="center">
+
 
 
 <div align="center">
