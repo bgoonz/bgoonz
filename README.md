@@ -11,7 +11,6 @@
 
 ### [WEBSITE](https://bgoonz-blog.netlify.app/) ⇄ [Portfolio](https://bg-portfolio.netlify.app/) ⇄ [Collaborate](https://webdevhub.jetbrains.space/oauth/auth/invite/419dd305ba717a392a02aa5b4e41e09c) ⇄ [Other-Websites](https://unruffled-curran-b8a076.netlify.app/my-websites.html)
 
-# Refresh the page for a new joke!
 
 <img align="center" src="https://readme-jokes.vercel.app/api" stye="width:500; height:320;">
   
