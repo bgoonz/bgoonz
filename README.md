@@ -47,7 +47,7 @@
 #### [bryan.guner@gmail.com](#)
 ## ➤ _Phone_
 #### [551-254-5505](551-254-5505)
----  
+
 
 ## ➤ Connect with me:
 <p align="center">
@@ -223,34 +223,6 @@ Creating things that change my every day life.
 
 
 </details>
-
-
-
-<details>
-  
-<summary>See More</summary>
-
-
-
-
-
-
-
-[wakatime](https://wakatime.com/@bgoonz)
-
-
-
-[github-resume](https://resume.github.io/?bgoonz)
-
-</details>
-
-
-
-
-
-
-
-
 
 
 
