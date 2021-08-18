@@ -15,7 +15,7 @@
 <h4 align="center">A passionate Web Developer, Electrical Engineer, Musician & Producer</h4>
 
 
-<img align="center" src="https://readme-jokes.vercel.app/api" stye="width:500; height:420;">
+<img align="center" src="https://readme-jokes.vercel.app/api" stye="width:570; height:420;">
 
 
 [![Portfolio](https://img.shields.io/badge/-❤_Portfolio-f58?style=flat-square&logo=a&logoColor=white&link=https://bg-portfolio.netlify.app/)](https://bg-portfolio.netlify.app/)
