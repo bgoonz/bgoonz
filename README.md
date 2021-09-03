@@ -20,6 +20,11 @@
 <img align="center" src="https://readme-jokes.vercel.app/api" stye="width:570; height:420;">
 
 
+![code](https://github.com/bgoonz/bgoonz/blob/master/code.png?raw=true)
+
+![statistics](https://github.com/bgoonz/bgoonz/blob/master/summary_50.png?raw=true)
+
+
 [![Portfolio](https://img.shields.io/badge/-❤_Portfolio-f58?style=flat-square&logo=a&logoColor=white&link=https://bg-portfolio.netlify.app/)](https://bg-portfolio.netlify.app/)
 <a href="https://github.com/bgoonz/resume-cv-portfolio-samples/blob/master/2021-resume/bryan-guner-resume-2021.pdf" download>![Resume PDF](https://img.shields.io/badge/-Resume-f00?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)</a>
 [![Bryan's email](https://img.shields.io/badge/bryan.guner@gmail.com-f4b400?style=flat-square&logo=gmail&logoColor=black&link=mailto:bryan.guner@gmail.com)](mailto:bryan.guner@gmail.com)
