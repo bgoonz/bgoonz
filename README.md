@@ -18,9 +18,11 @@
 <img align="center" src="https://readme-jokes.vercel.app/api" stye="width:570; height:420;">
 
 
-![code](https://github.com/bgoonz/bgoonz/blob/master/code.png?raw=true)
 
 ![statistics](https://github.com/bgoonz/bgoonz/blob/master/summary_50.png?raw=true)
+
+![code](https://github.com/bgoonz/bgoonz/blob/master/code.png?raw=true)
+
 
 
 [![Portfolio](https://img.shields.io/badge/-❤_Portfolio-f58?style=flat-square&logo=a&logoColor=white&link=https://bg-portfolio.netlify.app/)](https://bg-portfolio.netlify.app/)
