@@ -26,13 +26,11 @@
 
 ![code](https://github.com/bgoonz/bgoonz/blob/master/code.png?raw=true)
 
-
 <p align="center">
   <a href="mailto:bryan.guner@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a><a href="https://www.facebook.com/bryan.guner/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a><a href="https://twitter.com/bgooonz"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a><a href="https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/videos"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a><a href="https://www.instagram.com/bgoonz/?hl=en"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a><a href="https://www.linkedin.com/in/bryan-guner-046199128/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://bryanguner.medium.com/"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a><a href="https://open.spotify.com/user/bgoonz?si=ShH9wYbIQWab5Jz_30BKFw"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
   </p>
    
-  
 [![Bryans github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz&custom_title=This%20is%20Bryans%20Activity&hide_border=true&theme=chartreuse-dark)](https://github.com/bgoonz/github-readme-activity-graph)
 
 <div align="center">
@@ -53,9 +51,9 @@
 | [giphy](https://giphy.com/channel/bryanguner)  	| [kofi](https://ko-fi.com/bgoonz)    	| [Codewars](https://www.codewars.com/users/bgoonz)   	| [Dribble](https://dribbble.com/bgoonz4242?onboarding=true)   	| [Glitch](https://glitch.com/@bgoonz)   	| [YHYPE](https://yhype.me/github/accounts/bgoonz) 
 | [contentful](https://app.contentful.com/spaces/lelpu0ihaz11/assets?id=MocOPmmNliLn6PPv)    	| [Netlify](https://app.netlify.com/user/settings#profile)  	| [Stackblitz](https://stackblitz.com/@bgoonz)  	| [Vercel](https://vercel.com/bgoonz)  	| [Youtube](https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/featured)  	| [Free Code Camp](https://www.freecodecamp.org/bgoonz)
 | [wordpress](https://web-dev-hub.com/)   	| [Edabit](https://edabit.com/user/dsRcx6yCwAgYwZbRB)  	| [Vinmeo](https://vimeo.com/user128661018)  	|  [js fiddle](https://jsfiddle.net/user/bgoonz/) 	| [hashnode](https://hashnode.com/@bgoonz/joinme)  	|
-| [Google Developer Profile](https://developers.google.com/profile/u/100803355943326309646?utm_source=developers.google.com)   	| [Gittee](https://gitee.com/bgoonz)  	|  [Wakatime](https://wakatime.com/@bgoonz42)  	|  [Hubpages](https://hubpages.com/@bryanguner) 	|   	|
-|  	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
+| [Google Developer Profile](https://developers.google.com/profile/u/100803355943326309646?utm_source=developers.google.com)   	| [Gittee](https://gitee.com/bgoonz)  	|  [Wakatime](https://wakatime.com/@bgoonz42)  	|  [Hubpages](https://hubpages.com/@bryanguner) 	| [Gitbook](https://bryan-guner.gitbook.io/web-dev-hub-docs/)  	|
+
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Lambda)](https://github.com/bgoonz/Lambda)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=DS-ALGO-OFFICIAL)](https://github.com/bgoonz/DS-ALGO-OFFICIAL)
@@ -163,8 +161,7 @@ Creating things that change my every day life.
 | **Databases** | ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00FF00) |
 | **Testing** | ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=Jest&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logo=JUnit&logoColor=white&color=00FF00) |
 | **Other** | ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=ESLint&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=00FF00) <br />![](https://img.shields.io/badge/Code-LESS-informational?style=flat&logoColor=white&color=00FF00) ![](https://img.shields.io/badge/Code-Emmet-informational?style=flat&logoColor=white&color=00FF00) |
-
-  </div>
+</div>
 
 </details>
 
@@ -495,8 +492,7 @@ RecurseDirs "./"
 ```js
 $(document).ready(function() {
   $('code, pre').append('<span class="command-copy" ><i class="fa fa-clipboard" aria-hidden="true"></i></span>');
-
-  $('code span.command-copy').click(function(e) {
+$('code span.command-copy').click(function(e) {
     var text = $(this).parent().text().trim(); //.text();
     var copyHex = document.createElement('input');
     copyHex.value = text
@@ -507,8 +503,7 @@ $(document).ready(function() {
     document.body.removeChild(copyHex);
   });
 
-
-  $('pre span.command-copy').click(function(e) {
+$('pre span.command-copy').click(function(e) {
     var text = $(this).parent().text().trim();
     var copyHex = document.createElement('input');
     copyHex.value = text
@@ -596,8 +591,7 @@ function recurSum(arr, start = 0, sum = 0) {
   if (start < arr.length) {
     return recurSum(arr, start + 1, sum + arr[start]);
   }
-
-  return sum;
+return sum;
 }
 
 function rPartSumsArr(arr, partSum = [], start = 0, end = arr.length - 1) {
@@ -665,22 +659,18 @@ function addTwoNumbers(l1, l2) {
     let v2 = 0;
     if (l1 != null) v1 = l1.val;
     if (l2 != null) v2 = l2.val;
-
-    let sum = v1 + v2 + carryOver;
+  let sum = v1 + v2 + carryOver;
     carryOver = Math.floor(sum / 10);
     sum = sum % 10;
     currentNode.next = new ListNode(sum);
-
-    currentNode = currentNode.next;
+  currentNode = currentNode.next;
     if (l1 != null) l1 = l1.next;
     if (l2 != null) l2 = l2.next;
   }
-
-  if (carryOver > 0) {
+if (carryOver > 0) {
     currentNode.next = new ListNode(carryOver);
   }
-
-  return result.next;
+return result.next;
 }
 ```
 
@@ -803,6 +793,3 @@ function longestCommonPrefix(strs) {
 ![Express](https://img.shields.io/badge/-Express-blue?style=flat&logo=express) ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)![Python](https://img.shields.io/badge/-Python-lightyellow?style=flat&logo=python&logoColor=blue) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
 </details>
-
-  
-  ![](https://hit.yhype.me/github/profile?user_id=66654881)
