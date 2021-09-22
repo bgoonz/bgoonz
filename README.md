@@ -19,8 +19,6 @@
 
 
 
-![statistics](https://github.com/bgoonz/bgoonz/blob/master/summary_50.png?raw=true)
-
 ![code](https://github.com/bgoonz/bgoonz/blob/master/code.png?raw=true)
 
 
@@ -83,6 +81,11 @@
 <details>
 
 <summary>About Me</summary>
+  
+  
+  
+![statistics](https://github.com/bgoonz/bgoonz/blob/master/summary_50.png?raw=true)
+
 
 - 🔭 Contract Web Development **Relational Concepts**
 
