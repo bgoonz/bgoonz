@@ -1,4 +1,4 @@
-![art1](./art1.PNG)
+![art1](https://github.com/bgoonz/bgoonz/blob/master/art1.png?raw=true)
 
 
 <div align="center">
