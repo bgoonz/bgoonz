@@ -1,4 +1,4 @@
-<img src="https://github.com/bgoonz/bgoonz/blob/master/art1.png?raw=true" width="100%" height="100%">
+<img src="https://github.com/bgoonz/bgoonz/blob/master/art1.png?raw=true" width="100" height="100">
 <div align="center">
 
 <h1>Hi 👋, I'm Bryan</h1>
