@@ -3,7 +3,7 @@
 
 <h1>Hi 👋, I'm Bryan</h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fbhoovxo6Vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![comfortablynumb](https://www.youtube.com/embed/fbhoovxo6Vw)
   
 <!-- <img align="center"  src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img>-->
 
