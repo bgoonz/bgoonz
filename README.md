@@ -3,7 +3,7 @@
 
 <h1>Hi 👋, I'm Bryan</h1>
 
-![comfortablynumb](https://www.youtube.com/embed/fbhoovxo6Vw)
+![comfortablynumb](https://github.com/bgoonz/bgoonz/blob/master/Comfortably%20Numb%20Cover.mp4)
   
 <!-- <img align="center"  src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img>-->
 
