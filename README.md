@@ -3,7 +3,7 @@
 
 <h1>Hi 👋, I'm Bryan</h1>
   
-<img align="center"  src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img>
+<!-- <img align="center"  src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img>-->
 
 ## [MY DOCS](https://bryan-guner.gitbook.io/my-docs/)
 
