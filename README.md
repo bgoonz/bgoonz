@@ -49,6 +49,12 @@
 |  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=web-crawler-node)](https://hub.com/bgoonz/web-crawler-node)                                   |  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=web-dev-notes-resource-site)](https://hub.com/bgoonz/web-dev-notes-resource-site)                                                    |  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=WEB-DEV-TOOLS-HUB)](https://hub.com/bgoonz/WEB-DEV-TOOLS-HUB)                                                     |  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=WebAudioDaw)](https://hub.com/bgoonz/WebAudioDaw)                                                  |
 
 
+  
+</details>  
+  
+  
+  
+  
 ### [WEBSITE](https://bgoonz-blog.netlify.app/) ⇄ [Portfolio](https://bg-portfolio.netlify.app/) ⇄ [Collaborate](https://webdevhub.jetbrains.space/oauth/auth/invite/419dd305ba717a392a02aa5b4e41e09c) ⇄ [Other-Websites](https://bgoonz-blog.netlify.app/docs/medium/my-websites/) ⇄ [Recent Work](https://bgoonz.github.io/github-stats-website/)  ⇄ [Experiments](https://webdevhub.ghost.io/)
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![hackmd-github-sync-badge](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q/badge)](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q)[![GitHub followers](https://img.shields.io/github/followers/bgoonz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bgoonz?tab=followers)
