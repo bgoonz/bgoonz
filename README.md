@@ -1,4 +1,4 @@
-<img src="https://github.com/bgoonz/bgoonz/blob/master/art1.png?raw=true" width="100%" height="100%">
+
 <div align="center">
 
 <h1>Hi 👋, I'm Bryan</h1>
@@ -129,7 +129,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&layout=compact&hide=html,mathematica&langs_count=16)](https://github.com/bgoonz/github-readme-stats)
 
 </div>
-
+<img src="https://github.com/bgoonz/bgoonz/blob/master/art1.png?raw=true" width="100%" height="100%">
 </div>
 
 
