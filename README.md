@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Bryan</h1>
 
-![comfortablynumb](https://github.com/bgoonz/bgoonz/blob/master/Comfortably%20Numb%20Cover.mp4)
+https://raw.githubusercontent.com/bgoonz/bgoonz/master/.github/images/comfortably.mp4
 
 <!-- <img align="center"  src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img>-->
 
