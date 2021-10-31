@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/bgoonz/bgoonz/master/.github/images/comfortabl
 
 <!-- <img align="center"  src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img>-->
 
-## [MY DOCS](https://bryan-guner.gitbook.io/my-docs/)
+#### [MY DOCS](https://bryan-guner.gitbook.io/my-docs/)
 
 <!-- if you want it to default to open then use <details open>  instead-->
 
