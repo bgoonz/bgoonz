@@ -22,18 +22,17 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-<br />
-<br />
+<center>
 
-[<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][blog]
-[<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][blog]
-[<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][blog]
-[<img align="left" alt="GCP" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" />][blog]
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][blog]
-[<img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
+<img align="center" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" /><img align="center" alt="GCP" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" /><img align="center" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
+
+</center>
 
 <!-- <img align="center"  src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img>-->
+
+
+
+<br>
 
 #### [MY DOCS](https://bryan-guner.gitbook.io/my-docs/)
 
@@ -45,7 +44,7 @@
 <summary><span style="color:red;font-size:x-large; font-weight:bold;"> ===➤(_CLICK TO SEE MORE_)</span></summary>
 
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=a-whole-bunch-o-gatsby-templates)](https://github.com/bgoonz/a-whole-bunch-o-gatsby-templates) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Comments)](https://github.com/bgoonz/Comments)                                                                                       | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=EXPRESS-NOTES)](https://github.com/bgoonz/EXPRESS-NOTES)                                                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=INTERVIEW-PREP-COMPLETE)](https://github.com/bgoonz/INTERVIEW-PREP-COMPLETE)                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=alternate-blog-theme)](https://github.com/bgoonz/alternate-blog-theme)                         | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=commercejs-nextjs-demo-store)](https://github.com/bgoonz/commercejs-nextjs-demo-store)                                               | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=fast-fourier-transform-)](https://github.com/bgoonz/fast-fourier-transform-)                                      | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=JAMSTACK-TEMPLATES)](https://github.com/bgoonz/JAMSTACK-TEMPLATES)                                 |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=anki-cards)](https://github.com/bgoonz/anki-cards)                                             | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Common-npm-Readme-Compilation)](https://github.com/bgoonz/Common-npm-Readme-Compilation)                                             | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=form-builder-vanilla-js)](https://github.com/bgoonz/form-builder-vanilla-js)                                      | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Javascript-Best-Practices_--Tools)](https://github.com/bgoonz/Javascript-Best-Practices_--Tools)   |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=ask-me-anything)](https://github.com/bgoonz/ask-me-anything)                                   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Connect-Four-Final-Version)](https://github.com/bgoonz/Connect-Four-Final-Version)                                                   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Front-End-Frameworks-Practice)](https://github.com/bgoonz/Front-End-Frameworks-Practice)                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=jsanimate)](https://github.com/bgoonz/jsanimate)                                                   |
@@ -256,7 +255,7 @@ Creating things that change my every day life.
 # ➤ Technical Skills­­­
 
 | **Programming\*\*** Languages:\*\* | JavaScript ES-6, NodeJS, React, HTML5, CSS3, SCSS, Bash Shell, Excel, SQL, NoSQL, MATLAB, Python, C++ |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------- |
+|------------------------------------|-------------------------------------------------------------------------------------------------------|
 | **Databases:**                     | PostgreSQL, MongoDB                                                                                   |
 | **Cloud:**                         | Docker, AWS, Google App Engine, Netlify, Digital Ocean, Heroku, Azure Cloud Services                  |
 | **OS:**                            | Linux, Windows (WSL), IOS                                                                             |
@@ -270,9 +269,9 @@ Creating things that change my every day life.
 # ➤ Experience
 
 | **Relational Concepts:** Hallandale Beach, FL | March 2020 - Present |
-| --------------------------------------------- | -------------------- |
-| **Front End Web Developer**                   |
-|                                               |
+|-----------------------------------------------|----------------------|
+| **Front End Web Developer**                   |                      |
+|                                               |                      |
 
 - Responsible for front-end development for a custom real estate application which provides sophisticated and fully customizable filtering to allow investors and real estate professionals to narrow in on exact search targets.
 - Designed mock-up screens, wireframes, and workflows for intuitive user experience.
@@ -284,13 +283,12 @@ Creating things that change my every day life.
 - Produced unit tests using a combination of Mocha and Chai.
 - Injected Google Analytics to capture pertinent usage data to produce an insightful dashboard experience.
 
-| **Environment:** | **JavaScript, JQuery, React, HTML5 &amp; CSS, Bootstrap, DOJO, Google Cloud, Bash Script** |
-| ---------------- | ------------------------------------------------------------------------------------------ |
-
-| **Cembre:** Edison, NJ           | Nov 2019 – Mar 2020 |
-| -------------------------------- | ------------------- |
-| **Product Development Engineer** |
-|                                  |
+| **Environment:**                 | **JavaScript, JQuery, React, HTML5 &amp; CSS, Bootstrap, DOJO, Google Cloud, Bash Script** |
+|----------------------------------|--------------------------------------------------------------------------------------------|
+| **Cembre:** Edison, NJ           | Nov 2019 – Mar 2020                                                                        |
+| -------------------------------- | -------------------                                                                        |
+| **Product Development Engineer** |                                                                                            |
+|                                  |                                                                                            |
 
 - Converted client&#39;s product needs into technical specs to be sent to the development team in Italy.
 - Reorganized internal file server structure.
@@ -299,8 +297,7 @@ Creating things that change my every day life.
 - Served as the primary point of contact for troubleshooting railroad hardware and software in the North America.
 
 | **Environment:** | **Excel, AutoCAD, PowerPoint, Word** |
-| ---------------- | ------------------------------------ |
-
+|------------------|--------------------------------------|
 ---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#education)
@@ -308,16 +305,14 @@ Creating things that change my every day life.
 # ➤ Education
 
 | **B.S. Electrical Engineering, TCNJ, ** Ewing NJ | 2014 – 2019 |
-| ------------------------------------------------ | ----------- |
-
+|--------------------------------------------------|-------------|
 **Capstone Project – Team Lead**
 
 - Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency &amp; time domain analysis to track a current performance against prerecorded performance.
 - Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.
 
 | **Environment:** | **C++, Python, MATLAB, PureData** |
-| ---------------- | --------------------------------- |
-
+|------------------|-----------------------------------|
 </details>
 
 <details>
