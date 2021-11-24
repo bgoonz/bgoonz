@@ -3,15 +3,6 @@
 <h1>Hi 👋, I'm Bryan</h1>
 
 
-<!-- [![Bryan's github activity graph](https://githubreadmeactivitygraph.herokuapp.com/graph?username=bgoonz&bg_color=000000&color=700069&line=ff0000&point=0cad00&area=true&hide_border=true)](https://github.com/bgoonz/github-readme-activity-graph)
-a
-
-[![Bryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz&bg_color=000000&color=700069&line=ff0000&point=0cad00&area=true&hide_border=true)](https://github.com/bgoonz/github-readme-activity-graph)
- -->
-  
-  
-[![Bryan's github activity graph](https://githubreadmeactivitygraph.herokuapp.com/graph?username=bgoonz&bg_color=000000&color=700069&line=ff0000&point=0cad00&area=true&hide_border=true)](https://github.com/bgoonz/github-readme-activity-graph)
-
 
 ### 🛠 
 
