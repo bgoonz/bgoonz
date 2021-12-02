@@ -115,11 +115,10 @@
   
   
   
-</details>  
+
   
   
 
-[![Bryans github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz&custom_title=This%20is%20Bryans%20Activity&hide_border=true&theme=chartreuse-dark)](https://github.com/bgoonz/github-readme-activity-graph)
 
 <div align="center">
 
