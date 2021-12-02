@@ -57,11 +57,11 @@
 
 <center>
 
-<img align="center" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" /><img align="center" alt="GCP" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" /><img align="center" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
+![Graduation](https://github.com/bgoonz/bgoonz/blob/master/chrome_zX9bqxsy9y.png?raw=true)
 
+    
 </center>
 
-<!-- <img align="center"  src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img>-->
 
 
 
@@ -140,7 +140,7 @@
 | [wordpress](https://web-dev-hub.com/)   	| [Edabit](https://edabit.com/user/dsRcx6yCwAgYwZbRB)  	| [Vinmeo](https://vimeo.com/user128661018)  	|  [js fiddle](https://jsfiddle.net/user/bgoonz/) 	| [hashnode](https://hashnode.com/@bgoonz/joinme)  	|
 | [Google Developer Profile](https://developers.google.com/profile/u/100803355943326309646?utm_source=developers.google.com)   	| [Gittee](https://gitee.com/bgoonz)  	|  [Wakatime](https://wakatime.com/@bgoonz42)  	|  [Hubpages](https://hubpages.com/@bryanguner) 	| [Gitbook](https://bryan-guner.gitbook.io/web-dev-hub-docs/)  	|
 
-![Graduation](https://github.com/bgoonz/bgoonz/blob/master/chrome_zX9bqxsy9y.png?raw=true)
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=my-lambda-projects&repo=LAMBDA_LABS_FAMILY_PROMISE)](https://github.com/my-lambda-projects/LAMBDA_LABS_FAMILY_PROMISE)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Leetcode-JS-PY-MD)](https://github.com/bgoonz/Leetcode-JS-PY-MD)
