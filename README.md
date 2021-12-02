@@ -2,14 +2,11 @@
 
 <h1>Hi 👋, I'm Bryan</h1>
 
-
-## ➤ _Email_ [bryan.guner@gmail.com](#) _Phone_ [551-254-5505](551-254-5505)    
+## ➤ _Email_ [bryan.guner@gmail.com](#) _Phone_ [551-254-5505](551-254-5505)
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![hackmd-github-sync-badge](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q/badge)](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q)[![GitHub followers](https://img.shields.io/github/followers/bgoonz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bgoonz?tab=followers)
-    
-  
-### [💻WEBSITE💻](https://bgoonz-blog.netlify.app/) ⇄ [Portfolio](https://bg-portfolio.netlify.app/) ⇄ [Recent Work](https://bgoonz.github.io/github-stats-website/)  ⇄ [MY DOCS📚](https://bryan-guner.gitbook.io/my-docs/)
 
+### [💻WEBSITE💻](https://bgoonz-blog.netlify.app/) ⇄ [Portfolio](https://bg-portfolio.netlify.app/) ⇄ [Recent Work](https://bgoonz.github.io/github-stats-website/) ⇄ [MY DOCS📚](https://bryan-guner.gitbook.io/my-docs/)
 
 - [**📁DOWNLOAD RESUME📁**](https://github.com/bgoonz/INTERVIEW-PREP-COMPLETE/raw/master/bryan_guner_resume_2021-V8.pdf)
 
@@ -25,21 +22,17 @@
   <a href="mailto:bryan.guner@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a><a href="https://www.facebook.com/bryan.guner/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a><a href="https://twitter.com/bgooonz"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a><a href="https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/videos"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a><a href="https://www.instagram.com/bgoonz/?hl=en"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a><a href="https://www.linkedin.com/in/bryan-guner-046199128/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://bryanguner.medium.com/"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a><a href="https://open.spotify.com/user/bgoonz?si=ShH9wYbIQWab5Jz_30BKFw"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
   </p>
-   
+
 
 [![Bryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz&bg_color=000000&color=700069&line=ff0000&point=0cad00&area=true&hide_border=true)](https://github.com/bgoonz/github-readme-activity-graph)
 
-
 <h4 align="center">A passionate Web Developer, Electrical Engineer, Musician & Producer</h4>
-    
+
 
 <img align="center" src="https://readme-jokes.vercel.app/api" stye="width:770; height:420;">
-    
 
 
-
-
-### 🛠 
+### 🛠
 
 <!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -59,11 +52,7 @@
 
 ![Graduation](https://github.com/bgoonz/bgoonz/blob/master/chrome_zX9bqxsy9y.png?raw=true)
 
-    
 </center>
-
-
-
 
 <br>
 
@@ -75,7 +64,7 @@
 <summary><span style="align-self: center; margin: auto; font-family: papyrus; font-size: 2em;"> ===➤(_CLICK TO SEE MORE_)➤</span></summary>
 
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=a-whole-bunch-o-gatsby-templates)](https://github.com/bgoonz/a-whole-bunch-o-gatsby-templates) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Comments)](https://github.com/bgoonz/Comments)                                                                                       | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=EXPRESS-NOTES)](https://github.com/bgoonz/EXPRESS-NOTES)                                                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=INTERVIEW-PREP-COMPLETE)](https://github.com/bgoonz/INTERVIEW-PREP-COMPLETE)                       |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=alternate-blog-theme)](https://github.com/bgoonz/alternate-blog-theme)                         | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=commercejs-nextjs-demo-store)](https://github.com/bgoonz/commercejs-nextjs-demo-store)                                               | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=fast-fourier-transform-)](https://github.com/bgoonz/fast-fourier-transform-)                                      | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=JAMSTACK-TEMPLATES)](https://github.com/bgoonz/JAMSTACK-TEMPLATES)                                 |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=anki-cards)](https://github.com/bgoonz/anki-cards)                                             | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Common-npm-Readme-Compilation)](https://github.com/bgoonz/Common-npm-Readme-Compilation)                                             | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=form-builder-vanilla-js)](https://github.com/bgoonz/form-builder-vanilla-js)                                      | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Javascript-Best-Practices_--Tools)](https://github.com/bgoonz/Javascript-Best-Practices_--Tools)   |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=ask-me-anything)](https://github.com/bgoonz/ask-me-anything)                                   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Connect-Four-Final-Version)](https://github.com/bgoonz/Connect-Four-Final-Version)                                                   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Front-End-Frameworks-Practice)](https://github.com/bgoonz/Front-End-Frameworks-Practice)                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=jsanimate)](https://github.com/bgoonz/jsanimate)                                                   |
@@ -114,10 +103,6 @@
   
   
   
-  
-
-  
-  
 
 
 <div align="center">
@@ -130,17 +115,15 @@
 <div align="center">
   
   
-  | [GitHub](https://github.com/bgoonz)   	| [Gitlab](https://gitlab.com/bryan.guner.dev)  	| [Bitbucket](https://bitbucket.org/bgoonz/)  	| [Medium](https://bryanguner.medium.com/)  	| [code pen](https://codepen.io/bgoonz)   	|
-|---	|---	|---	|---	|---	|
-| [Replit](https://repl.it/@bgoonz/)  	|  [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN) 	| [Redit](https://www.reddit.com/user/bgoonz1)   	| [webcomponents.dev](https://webcomponents.dev/user/bgoonz)  	|  [dev.to](https://dev.to/bgoonz) 	|
-| [runkit](https://runkit.com/bgoonz)    	| [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)  	| [npm](https://www.npmjs.com/~bgoonz11)  	| [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)  	| [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)  	|
-| [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)  	| [Notion](https://www.notion.so/Overview-Of-Css-5d88b0bc9a73422a9be1481d599a56ba)  	|  [AngelList](https://angel.co/u/bryan-guner)  	| [StackShare](https://stackshare.io/bryanguner)  	| [Plunk](http://plnkr.co/account/plunks)   	| [Tealfeed](https://tealfeed.com/bryan_759844)
-| [giphy](https://giphy.com/channel/bryanguner)  	| [kofi](https://ko-fi.com/bgoonz)    	| [Codewars](https://www.codewars.com/users/bgoonz)   	| [Dribble](https://dribbble.com/bgoonz4242?onboarding=true)   	| [Glitch](https://glitch.com/@bgoonz)   	| [YHYPE](https://yhype.me/github/accounts/bgoonz) 
-| [contentful](https://app.contentful.com/spaces/lelpu0ihaz11/assets?id=MocOPmmNliLn6PPv)    	| [Netlify](https://app.netlify.com/user/settings#profile)  	| [Stackblitz](https://stackblitz.com/@bgoonz)  	| [Vercel](https://vercel.com/bgoonz)  	| [Youtube](https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/featured)  	| [Free Code Camp](https://www.freecodecamp.org/bgoonz)
-| [wordpress](https://web-dev-hub.com/)   	| [Edabit](https://edabit.com/user/dsRcx6yCwAgYwZbRB)  	| [Vinmeo](https://vimeo.com/user128661018)  	|  [js fiddle](https://jsfiddle.net/user/bgoonz/) 	| [hashnode](https://hashnode.com/@bgoonz/joinme)  	|
-| [Google Developer Profile](https://developers.google.com/profile/u/100803355943326309646?utm_source=developers.google.com)   	| [Gittee](https://gitee.com/bgoonz)  	|  [Wakatime](https://wakatime.com/@bgoonz42)  	|  [Hubpages](https://hubpages.com/@bryanguner) 	| [Gitbook](https://bryan-guner.gitbook.io/web-dev-hub-docs/)  	|
-
-
+  | [GitHub](https://github.com/bgoonz)       | [Gitlab](https://gitlab.com/bryan.guner.dev)      | [Bitbucket](https://bitbucket.org/bgoonz/)      | [Medium](https://bryanguner.medium.com/)      | [code pen](https://codepen.io/bgoonz)       |
+|---    |---    |---    |---    |---    |
+| [Replit](https://repl.it/@bgoonz/)      |  [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN)     | [Redit](https://www.reddit.com/user/bgoonz1)       | [webcomponents.dev](https://webcomponents.dev/user/bgoonz)      |  [dev.to](https://dev.to/bgoonz)     |
+| [runkit](https://runkit.com/bgoonz)        | [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)      | [npm](https://www.npmjs.com/~bgoonz11)      | [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)      | [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)      |
+| [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)      | [Notion](https://www.notion.so/Overview-Of-Css-5d88b0bc9a73422a9be1481d599a56ba)      |  [AngelList](https://angel.co/u/bryan-guner)      | [StackShare](https://stackshare.io/bryanguner)      | [Plunk](http://plnkr.co/account/plunks)       | [Tealfeed](https://tealfeed.com/bryan_759844)
+| [giphy](https://giphy.com/channel/bryanguner)      | [kofi](https://ko-fi.com/bgoonz)        | [Codewars](https://www.codewars.com/users/bgoonz)       | [Dribble](https://dribbble.com/bgoonz4242?onboarding=true)       | [Glitch](https://glitch.com/@bgoonz)       | [YHYPE](https://yhype.me/github/accounts/bgoonz) 
+| [contentful](https://app.contentful.com/spaces/lelpu0ihaz11/assets?id=MocOPmmNliLn6PPv)        | [Netlify](https://app.netlify.com/user/settings#profile)      | [Stackblitz](https://stackblitz.com/@bgoonz)      | [Vercel](https://vercel.com/bgoonz)      | [Youtube](https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/featured)      | [Free Code Camp](https://www.freecodecamp.org/bgoonz)
+| [wordpress](https://web-dev-hub.com/)       | [Edabit](https://edabit.com/user/dsRcx6yCwAgYwZbRB)      | [Vinmeo](https://vimeo.com/user128661018)      |  [js fiddle](https://jsfiddle.net/user/bgoonz/)     | [hashnode](https://hashnode.com/@bgoonz/joinme)      |
+| [Google Developer Profile](https://developers.google.com/profile/u/100803355943326309646?utm_source=developers.google.com)       | [Gittee](https://gitee.com/bgoonz)      |  [Wakatime](https://wakatime.com/@bgoonz42)      |  [Hubpages](https://hubpages.com/@bryanguner)     | [Gitbook](https://bryan-guner.gitbook.io/web-dev-hub-docs/)      |
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=my-lambda-projects&repo=LAMBDA_LABS_FAMILY_PROMISE)](https://github.com/my-lambda-projects/LAMBDA_LABS_FAMILY_PROMISE)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Leetcode-JS-PY-MD)](https://github.com/bgoonz/Leetcode-JS-PY-MD)
@@ -258,7 +241,8 @@ Creating things that change my every day life.
 <div align="center">
 
 # **Bryan** **Guner**
-## _551-254-5505     |    [bryan.guner@gmail.com](mailto:bryan.guner@gmail.com)_
+
+## _551-254-5505 | [bryan.guner@gmail.com](mailto:bryan.guner@gmail.com)_
 
 </div>
 <br>
@@ -267,24 +251,20 @@ Creating things that change my every day life.
 
 ## ⦿===➤Skills
 
-| Languages:                   | JavaScript ES-6, NodeJS, HTML5, CSS3, SCSS, Bash Shell, SQL, MATLAB, Python, C++, Mathematica, JSON                        |
-|------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Frameworks / Libraries:      |  React, Redux, ExpressJS, Gatsby, NextJS, Ant-Design, Loadash, Sequelize, GraphQL, AJAX, Jest, Mocha, jQuery, Electron     |
-| Databases:                   | PostgreSQL, MongoDB, SQlite3                                                                                               |
-| Tools:                       | Figma, Adobe XD, GitHub, GitLab, Excel, VSCode, Sublime Text, Atom, Google Analytics, Bootstrap, Tailwind, FontAwesome     |
-| Tools (continued):           | Docker, Firebase, Postman, Wordpress, Chrome Dev Tools, Jira, Trello, Confluence, Firebase, AWS S3, Okta, Algolia, Loadash |
-| Hosting:                     | Heroku, Netlify, Vercel, Wordpress, Cloudfare, AWS, Firebase, Digital Ocean                                                |
-| Operating Systems:           | Linux, Windows (WSL), IOS                                                                                                  |
-
+| Languages:              | JavaScript ES-6, NodeJS, HTML5, CSS3, SCSS, Bash Shell, SQL, MATLAB, Python, C++, Mathematica, JSON                        |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Frameworks / Libraries: | React, Redux, ExpressJS, Gatsby, NextJS, Ant-Design, Loadash, Sequelize, GraphQL, AJAX, Jest, Mocha, jQuery, Electron      |
+| Databases:              | PostgreSQL, MongoDB, SQlite3                                                                                               |
+| Tools:                  | Figma, Adobe XD, GitHub, GitLab, Excel, VSCode, Sublime Text, Atom, Google Analytics, Bootstrap, Tailwind, FontAwesome     |
+| Tools (continued):      | Docker, Firebase, Postman, Wordpress, Chrome Dev Tools, Jira, Trello, Confluence, Firebase, AWS S3, Okta, Algolia, Loadash |
+| Hosting:                | Heroku, Netlify, Vercel, Wordpress, Cloudfare, AWS, Firebase, Digital Ocean                                                |
+| Operating Systems:      | Linux, Windows (WSL), IOS                                                                                                  |
 
 ---
 
-
-
-
 ## ⦿===➤Projects
 
-**Gatsby**  **GraphQL-Blog** **[Live Site |](https://bgoonz-blog.netlify.app/)[GitHub](https://github.com/bgoonz/BGOONZ_BLOG_2.0)**
+**Gatsby** **GraphQL-Blog** **[Live Site |](https://bgoonz-blog.netlify.app/)[GitHub](https://github.com/bgoonz/BGOONZ_BLOG_2.0)**
 
 **Stack:** _JavaScript, React / Gatsby | GraphQL | SCSS | Lodash | Jamstack | Facebook Comments API | jQuery | Firebase_
 
@@ -294,14 +274,11 @@ _**A**_[_**web development blog**_](https://bgoonz-blog.netlify.app/)_**featurin
 - Designed and integrated a set of convenient web-hosted [developer tools](https://bgoonz-blog.netlify.app/docs/tools/) and GUI interfaces.
 - Added interactive content including comments, [video conferencing](https://bgoonz-blog.netlify.app/docs/interact/video-chat/), [data-structure visualization](https://bgoonz-blog.netlify.app/docs/interact/other-sites/), [games](https://bgoonz-blog.netlify.app/docs/interact/) and full text search.
 
-
 ---
 
+**Autonomously Triggered Guitar Effects Platform\*\*** [Live Site](https://bgoonz.github.io/Revamped-Automatic-Guitar-Effect-Triggering/)| [GitHub](https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/Triggered-Guitar-Effects-Platform)\*\*
 
-
-**Autonomously Triggered Guitar Effects Platform**** [Live Site](https://bgoonz.github.io/Revamped-Automatic-Guitar-Effect-Triggering/)| [GitHub](https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/Triggered-Guitar-Effects-Platform)**
-
-**Stack:**  _C++ | Python | MATLAB | PureData_
+**Stack:** _C++ | Python | MATLAB | PureData_
 
 [_**Platform**_](https://bgoonz.github.io/Revamped-Automatic-Guitar-Effect-Triggering/SR%20Project%20II%20Presentation.pdf)_**designed to analyze a time sequence of notes and autonomously trigger guitar effects at**_[_**a predetermined point in the song**_](https://youtu.be/pRKjaprdWx4)
 
@@ -309,14 +286,11 @@ _**A**_[_**web development blog**_](https://bgoonz-blog.netlify.app/)_**featurin
 - Implemented the Dynamic Time Warping algorithm in C++ and Python to generate a time agnostic measure of similarity between performances.
 - Autonomously activated or adjusted guitar effects at multiple pre-designated sections of performance.
 
-
 ---
 
+**Data Structures** [**Interactive Teaching Tool**](https://ds-algo-official.netlify.app/)[**Live Site**](https://ds-algo-official.netlify.app/) **|\*\*** [GitHub](https://github.com/bgoonz/DS-ALGO-OFFICIAL)\*\*
 
-
-**Data Structures** [**Interactive Teaching Tool**](https://ds-algo-official.netlify.app/)[**Live Site**](https://ds-algo-official.netlify.app/) **|**** [GitHub](https://github.com/bgoonz/DS-ALGO-OFFICIAL)**
-
-**Stack:**  _jQuery | ExpressJS | Google Analytics |Algolia Full Text Search | Amazon S3_
+**Stack:** _jQuery | ExpressJS | Google Analytics |Algolia Full Text Search | Amazon S3_
 
 _**A**_[_**website**_](https://youtu.be/onquAh1Bl0g)_**for visualizing and practicing data structures and algorithms in JavaScript &amp; Python**_
 
@@ -325,10 +299,7 @@ _**A**_[_**website**_](https://youtu.be/onquAh1Bl0g)_**for visualizing and pract
 - Created multiple embedded data structure visualizations that interact with user input.
 - Automated the generation and submission of a [sitemap](https://ds-algo-official.netlify.app/sitemap.xml)to (Google, Bing, and Yandex) on every build.
 
-
 ---
-
-
 
 <br>
 
@@ -336,7 +307,7 @@ _**A**_[_**website**_](https://youtu.be/onquAh1Bl0g)_**for visualizing and pract
 
 ## ⦿===➤ Experience
 
-**Product Development Engineer |** [_**Cembre**_](https://www.cembre.com/)_**, Edison, NJ**__|_**Oct 2019 - Mar 2020**
+**Product Development Engineer |** [_**Cembre**_](https://www.cembre.com/)_**, Edison, NJ**\_\_|_**Oct 2019 - Mar 2020**
 
 - Converted client&#39;s product needs into [technical specs](https://www.cembre.com/family/details/5202) to be sent to the development team in Italy.
 - Reorganized internal file server structure and conducted system integration and product demonstrations.
@@ -347,7 +318,7 @@ _**A**_[_**website**_](https://youtu.be/onquAh1Bl0g)_**for visualizing and pract
 
 **Full Stack Web Development Intern | Remote | Sept 2021 - Present** **[Live Site |](https://a.familypromiseservicetracker.dev/)[GitHub](https://github.com/Lambda-School-Labs/family-promise-service-tracker-fe-a)**
 
-**Stack:**  _React | Redux | ExpressJS | Figma | Okta | AWS_
+**Stack:** _React | Redux | ExpressJS | Figma | Okta | AWS_
 
 _**An**_[_**app**_](https://bryan-guner.gitbook.io/lambda-labs/navigation/roadmap)_**built to helps local communities provide services to address the root causes of family homelessness**_
 
@@ -361,21 +332,13 @@ _**An**_[_**app**_](https://bryan-guner.gitbook.io/lambda-labs/navigation/roadma
 
 ## ⦿===➤ Education
 
+#### [**Lambda School**](https://www.credly.com/badges/bd145ba3-0f09-42fc-8d1f-a3bc4e0a46b4/public_url) , _**Full Stack Web Development**_
 
-
-
-
-#### [**Lambda School**](https://www.credly.com/badges/bd145ba3-0f09-42fc-8d1f-a3bc4e0a46b4/public_url) , _**Full Stack Web Development**_ 
 > _**May 2020 - Nov 2021**_
-
 
 Six-month immersive software development course with a focus on [full stack web development](https://gist.github.com/bgoonz/17494dab0042a6f70eda7929c08c878f). Over 2000 hours of work invested including class time, homework, and projects.
 
-**B.S.** [**Electrical Engineering**](https://electrical-computerengineering.tcnj.edu/) **, TCNJ, Ewing NJ**  **2014 – 2019**
-
-
-
-
+**B.S.** [**Electrical Engineering**](https://electrical-computerengineering.tcnj.edu/) **, TCNJ, Ewing NJ** **2014 – 2019**
 
 [2 **Curriculum link**](https://github.com/bgoonz/random-static-html-page-deploy/blob/master/ElectricalEngineeringCurriculum.pdf)
 
@@ -384,13 +347,13 @@ Six-month immersive software development course with a focus on [full stack web 
 <div align="center">
 
 _**References &amp; further work experience available upon request.**_
+
 </div>
     
     
 </details>
 
 <details>
-
 <summary> My Projects</summary>
 
 <table>
@@ -446,52 +409,7 @@ _**References &amp; further work experience available upon request.**_
 
 ---
 
----
-
----
-
-<div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
-</div>
-<hr>
-
----
-
-# [Learning React Blog](https://ecstatic-jang-593fd1.netlify.app/readme)
-
-#### React Repo:
-
-[React Repo](https://github.com/bgoonz/React-Practice)
-
----
-
-## <a href="https://codesandbox.io/embed/zealous-microservice-ti7em?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"   style="width:100%; height:20px; border:0; border-radius: 4px; overflow:hidden;" rel="React Todo">![Foo](https://codesandbox.io/static/img/play-codesandbox.svg)</a>
-
-<div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
-</div>
-
-# [react-documentation-site](https://documentation-site-react2-peitff669-bgoonz.vercel.app/)
-
-[![Edit magical-stallman-ov0d1](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/magical-stallman-ov0d1?autoresize=1&expanddevtools=1&fontsize=12&hidenavigation=1&moduleview=1&theme=dark)
-
-<div style=" border: 1px solid black">
-<img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/23b9b236-746e-409c-8e86-30b4385e3b72/hr1-raypham.gif" alt="hr-line" width="100%" height="22">
-</div>
-
----
-
-## ➤ Codepens (mostly embeded animations)
-
-# [code-pens-embedded](https://embedable-content.netlify.app/)
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#weekly-quick-snips)
-
 ## ➤ Weekly-Quick-Snips:
-
----
-
-#### Snippet of the Day:
 
 ### replaceAll
 
@@ -918,13 +836,9 @@ function longestCommonPrefix(strs) {
 }
 ```
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bgoonz42/e088a908-1c73-434f-9eab-b73ea4f17d3c.png" /></a>
-
 </details>
 
 <hr>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#github-gists)
 
 # ➤ Github Gists
 
