@@ -69,7 +69,7 @@
 
 <!-- if you want it to default to open then use <details open>  instead-->
 
-### Repo List: _**CLICK TO SEE MORE BELOW THIS LINE**_
+# Repo List: _**CLICK The Arrow Below To See Repo List**_
 
 <details>
 <summary><span style="align-self: center; margin: auto; font-family: papyrus; font-size: 2em;"> ===➤(_CLICK TO SEE MORE_)➤</span></summary>
