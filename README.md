@@ -25,24 +25,8 @@
   <a href="https://bryanguner.medium.com/"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a><a href="https://open.spotify.com/user/bgoonz?si=ShH9wYbIQWab5Jz_30BKFw"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
   </p>
 
-
-[![Bryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz&bg_color=000000&color=700069&line=ff0000&point=0cad00&area=true&hide_border=true)](https://github.com/bgoonz/github-readme-activity-graph)
-
-<h4 align="center">A passionate Web Developer, Electrical Engineer, Musician & Producer</h4>
-
-
-<img align="center" src="https://readme-jokes.vercel.app/api" stye="width:770; height:420;">
-
-
-### 🛠
-
-<!-- -->
-
-<center>
-
-![Graduation](https://github.com/bgoonz/bgoonz/blob/master/chrome_zX9bqxsy9y.png?raw=true)
-
-</center>
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>  
+  
 
 <br>
 
@@ -91,6 +75,26 @@
 
 </details>  
   
+  
+  
+[![Bryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz&bg_color=000000&color=700069&line=ff0000&point=0cad00&area=true&hide_border=true)](https://github.com/bgoonz/github-readme-activity-graph)
+
+<h4 align="center">A passionate Web Developer, Electrical Engineer, Musician & Producer</h4>
+
+
+<img align="center" src="https://readme-jokes.vercel.app/api" stye="width:770; height:420;">
+
+
+### 🛠
+
+<!-- -->
+
+<center>
+
+![Graduation](https://github.com/bgoonz/bgoonz/blob/master/chrome_zX9bqxsy9y.png?raw=true)
+
+</center>
+
   
   
 
