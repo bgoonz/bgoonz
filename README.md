@@ -28,8 +28,6 @@
 <h1  align="center">💻 Check Out My Repos ⬇️ </h1>  
   
 
-<br>
-
 <!-- if you want it to default to open then use <details open>  instead-->
 
  ### Repo List: _**CLICK The Arrow Below To See Repo List**_
@@ -74,6 +72,12 @@
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=web-crawler-node)](https://hub.com/bgoonz/web-crawler-node)                                    | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=web-dev-notes-resource-site)](https://hub.com/bgoonz/web-dev-notes-resource-site)                                                    | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=WEB-DEV-TOOLS-HUB)](https://hub.com/bgoonz/WEB-DEV-TOOLS-HUB)                                                     | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=WebAudioDaw)](https://hub.com/bgoonz/WebAudioDaw)                                                  |
 
 </details>  
+  
+  
+
+<br>
+
+<br>
   
   
   
