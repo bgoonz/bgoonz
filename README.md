@@ -873,3 +873,4 @@ https://giters.com/bgoonz?page=6
 https://webdevhub.ghost.io/ghost/#/tags/new
 https://app.archbee.io/public/lI1AR-3-Ys9iITwuhct3i/treT9kilaJkzSjozhixGi
 https://shields.io/
+  https://frontendmasters.com/guides/front-end-handbook/2019/
