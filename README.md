@@ -10,7 +10,7 @@
 
 ### [💻WEBSITE💻](https://bgoonz-blog.netlify.app/) ⇄ [Portfolio](https://bg-portfolio.netlify.app/) ⇄ [Recent Work](https://bgoonz.github.io/github-stats-website/) ⇄ [MY DOCS📚](https://bryan-guner.gitbook.io/my-docs/)
 
-- [**📁DOWNLOAD RESUME📁**](https://github.com/bgoonz/INTERVIEW-PREP-COMPLETE/raw/master/bryan_guner_resume_2021-V8.pdf)
+- [**📁DOWNLOAD RESUME📁**](https://github.com/bgoonz/bgoonz/raw/master/bryan_guner_resume_2021_V9.pdf)
 
 [![Portfolio](https://img.shields.io/badge/-❤_Portfolio-f58?style=flat-square&logo=a&logoColor=white&link=https://bgoonz-blog.netlify.app/)](https://bgoonz-blog.netlify.app/)
 <a href="https://1drv.ms/b/s!AkGiZ9n9CRDSquIDCW3sdtgIghzpeg?e=GcgN10" download>![Resume PDF](https://img.shields.io/badge/-Resume-f00?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)</a>
