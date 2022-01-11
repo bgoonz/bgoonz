@@ -26,12 +26,12 @@
   </p>
 
   
-# <div align="center">--Explosion--</div>
+# <div align="center">--bgoonz--</div>
 
 <div align=center>
   
 ![--bgoonz's GitHub followers](https://img.shields.io/github/followers/bgoonz?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff) 
-![GitHub visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=bgoonz.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github)
+
 
 </div>
 
