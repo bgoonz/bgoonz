@@ -1,23 +1,19 @@
 <div align="center">
 
-  
-  
 <h1>Hi 👋, I'm Bryan</h1>
   
-
 ## ➤ _📧_ [bryan.guner@gmail.com](📲) _☎️_ [551-254-5505](551-254-5505)
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![hackmd-github-sync-badge](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q/badge)](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q)[![GitHub followers](https://img.shields.io/github/followers/bgoonz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bgoonz?tab=followers)
 
-### [💻WEBSITE💻](https://bgoonz-blog.netlify.app/) ⇄ [Portfolio](https://bg-portfolio.netlify.app/) ⇄ [Recent Work](https://bgoonz.github.io/github-stats-website/) ⇄ [MY DOCS📚](https://bryan-guner.gitbook.io/my-docs/)
-
+### [💻WEBSITE💻](https://bgoonzblog20master.gatsbyjs.io/) ⇄ [Portfolio](https://bg-portfolio.netlify.app/) ⇄ [Recent Work](https://bgoonz.github.io/github-stats-website/) ⇄ [MY DOCS📚](https://bryan-guner.gitbook.io/my-docs/)
 
  [**📁DOWNLOAD RESUME📁**](https://github.com/bgoonz/bgoonz/raw/master/bryan_guner_resume_2021_V9.pdf)
 
-[![Portfolio](https://img.shields.io/badge/-❤_Portfolio-f58?style=flat-square&logo=a&logoColor=white&link=https://bgoonz-blog.netlify.app/)](https://bgoonz-blog.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-❤_Portfolio-f58?style=flat-square&logo=a&logoColor=white&link=https://bgoonzblog20master.gatsbyjs.io/)](https://bgoonzblog20master.gatsbyjs.io/)
 <a href="https://1drv.ms/b/s!AkGiZ9n9CRDSquIDCW3sdtgIghzpeg?e=GcgN10" download>![Resume PDF](https://img.shields.io/badge/-Resume-f00?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)</a>
 [![Bryan's email](https://img.shields.io/badge/bryan.guner@gmail.com-f4b400?style=flat-square&logo=gmail&logoColor=black&link=mailto:bryan.guner@gmail.com)](mailto:bryan.guner@gmail.com)
-[![Blog](https://img.shields.io/badge/-Blog-21759b?style=flat-square&logo=WordPress&logoColor=white&link=https://bgoonz-blog.netlify.app/)](https://web-dev-hub.com/)
+[![Blog](https://img.shields.io/badge/-Blog-21759b?style=flat-square&logo=WordPress&logoColor=white&link=https://bgoonzblog20master.gatsbyjs.io/)](https://web-dev-hub.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-guner-046199128/)](https://www.linkedin.com/in/bryan-guner-046199128/)
 [![AngelList](https://img.shields.io/badge/-AngelList-black?style=flat-square&logo=AngelList&logoColor=white&link=https://angel.co/u/bryan-guner)](https://angel.co/u/bryan-guner)
 [![GitHub bgoonz](https://img.shields.io/github/followers/bgoonz?label=follow&style=social)](https://github.com/bgoonz)
@@ -28,17 +24,15 @@
   <a href="https://bryanguner.medium.com/"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a><a href="https://open.spotify.com/user/bgoonz?si=ShH9wYbIQWab5Jz_30BKFw"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
   </p>
 
-  
 # <div align="center">--bgoonz--</div>
 
 <div align=center>
   
-![--bgoonz's GitHub followers](https://img.shields.io/github/followers/bgoonz?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff) 
-
+![--bgoonz's GitHub followers](https://img.shields.io/github/followers/bgoonz?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff)
 
 </div>
 
-Hi there everyone! Welcome to my GitHub profile! 
+Hi there everyone! Welcome to my GitHub profile!
 
 ##  <img src="https://static.thenounproject.com/png/5639-200.png" alt="Statistics Icons - Download Free Vector Icons | Noun Project" width="15px"/> My stats
 ![stats](https://github-readme-stats.vercel.app/api?username=bgoonz&include_all_commits=true&show_icons=true&theme=prussian&count_private=true&cache_seconds=5)
@@ -48,17 +42,13 @@ Hi there everyone! Welcome to my GitHub profile!
 
 <img src="https://bestanimations.com/media/explosions/933419296explosion-animation-1.gif" align="left" />
 
-
-
 <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /></p>
 
-  
 <h1  align="center">💻 Check Out My Repos ⬇️ </h1>  
   
-
 <!-- if you want it to default to open then use <details open>  instead-->
 
- ### Repo List: _**CLICK The Arrow Below To See Repo List**_
+### Repo List: _**CLICK The Arrow Below To See Repo List**_
 
 <details>
 <summary><span style="align-self: center; margin: auto; font-family: papyrus; font-size: 2em;"> ===➤(_CLICK TO SEE MORE_)➤</span></summary>
@@ -101,21 +91,15 @@ Hi there everyone! Welcome to my GitHub profile!
 
 </details>  
   
-  
-
 <br>
 
 <br>
-  
-  
   
 [![Bryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz&bg_color=000000&color=700069&line=ff0000&point=0cad00&area=true&hide_border=true)](https://github.com/bgoonz/github-readme-activity-graph)
 
 <h4 align="center">A passionate Web Developer, Electrical Engineer, Musician & Producer</h4>
 
-
 <img align="center" src="https://readme-jokes.vercel.app/api" stye="width:770; height:420;">
-
 
 ### 🛠
 
@@ -127,10 +111,6 @@ Hi there everyone! Welcome to my GitHub profile!
 
 </center>
 
-  
-  
-
-
 <div align="center">
 
 <h3 align="center">Languages and Tools:</h3>
@@ -140,13 +120,12 @@ Hi there everyone! Welcome to my GitHub profile!
 
 <div align="center">
   
-  
   | [GitHub](https://github.com/bgoonz)       | [Gitlab](https://gitlab.com/bryan.guner.dev)      | [Bitbucket](https://bitbucket.org/bgoonz/)      | [Medium](https://bryanguner.medium.com/)      | [code pen](https://codepen.io/bgoonz)       |
 |---    |---    |---    |---    |---    |
 | [Replit](https://repl.it/@bgoonz/)      |  [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN)     | [Redit](https://www.reddit.com/user/bgoonz1)       | [webcomponents.dev](https://webcomponents.dev/user/bgoonz)      |  [dev.to](https://dev.to/bgoonz)     |
 | [runkit](https://runkit.com/bgoonz)        | [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)      | [npm](https://www.npmjs.com/~bgoonz11)      | [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)      | [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)      |
 | [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)      | [Notion](https://www.notion.so/Overview-Of-Css-5d88b0bc9a73422a9be1481d599a56ba)      |  [AngelList](https://angel.co/u/bryan-guner)      | [StackShare](https://stackshare.io/bryanguner)      | [Plunk](http://plnkr.co/account/plunks)       | [Tealfeed](https://tealfeed.com/bryan_759844)
-| [giphy](https://giphy.com/channel/bryanguner)      | [kofi](https://ko-fi.com/bgoonz)        | [Codewars](https://www.codewars.com/users/bgoonz)       | [Dribble](https://dribbble.com/bgoonz4242?onboarding=true)       | [Glitch](https://glitch.com/@bgoonz)       | [YHYPE](https://yhype.me/github/accounts/bgoonz) 
+| [giphy](https://giphy.com/channel/bryanguner)      | [kofi](https://ko-fi.com/bgoonz)        | [Codewars](https://www.codewars.com/users/bgoonz)       | [Dribble](https://dribbble.com/bgoonz4242?onboarding=true)       | [Glitch](https://glitch.com/@bgoonz)       | [YHYPE](https://yhype.me/github/accounts/bgoonz)
 | [contentful](https://app.contentful.com/spaces/lelpu0ihaz11/assets?id=MocOPmmNliLn6PPv)        | [Netlify](https://app.netlify.com/user/settings#profile)      | [Stackblitz](https://stackblitz.com/@bgoonz)      | [Vercel](https://vercel.com/bgoonz)      | [Youtube](https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/featured)      | [Free Code Camp](https://www.freecodecamp.org/bgoonz)
 | [wordpress](https://web-dev-hub.com/)       | [Edabit](https://edabit.com/user/dsRcx6yCwAgYwZbRB)      | [Vinmeo](https://vimeo.com/user128661018)      |  [js fiddle](https://jsfiddle.net/user/bgoonz/)     | [hashnode](https://hashnode.com/@bgoonz/joinme)      |
 | [Google Developer Profile](https://developers.google.com/profile/u/100803355943326309646?utm_source=developers.google.com)       | [Gittee](https://gitee.com/bgoonz)      |  [Wakatime](https://wakatime.com/@bgoonz42)      |  [Hubpages](https://hubpages.com/@bryanguner)     | [Gitbook](https://bryan-guner.gitbook.io/web-dev-hub-docs/)      |
@@ -170,8 +149,6 @@ Hi there everyone! Welcome to my GitHub profile!
 <details>
 <summary>About Me</summary>
   
-  
-  
 ![statistics](https://github.com/bgoonz/bgoonz/blob/master/summary_50.png?raw=true)
 
 - 🔭 Contract Web Development **Relational Concepts**
@@ -192,7 +169,7 @@ Hi there everyone! Welcome to my GitHub profile!
 
 - ⚡ Fun fact **I played Bamboozle Music Festival at the Meadowlands Stadium Complex when I was 14.**
 
-### i really like music :headphones:
+### i really like music :headphones
 
 #### What's the most useful business-related book you've ever read?
 
@@ -246,7 +223,7 @@ Creating things that change my every day life.
 
 | | ## Portfolio:
 
-# [netlify](https://portfolio42.netlify.app/) 
+# [netlify](https://portfolio42.netlify.app/)
 </div>
 
 </details>
@@ -281,15 +258,15 @@ Creating things that change my every day life.
 
 ## ⦿===➤Projects
 
-**Gatsby** **GraphQL-Blog** **[Live Site |](https://bgoonz-blog.netlify.app/)[GitHub](https://github.com/bgoonz/BGOONZ_BLOG_2.0)**
+**Gatsby** **GraphQL-Blog** **[Live Site |](https://bgoonzblog20master.gatsbyjs.io/)[GitHub](https://github.com/bgoonz/BGOONZ_BLOG_2.0)**
 
 **Stack:** _JavaScript, React / Gatsby | GraphQL | SCSS | Lodash | Jamstack | Facebook Comments API | jQuery | Firebase_
 
-_**A**_[_**web development blog**_](https://bgoonz-blog.netlify.app/)_**featuring convenient web development tools and interactive content**_
+_**A**_[_**web development blog**_](https://bgoonzblog20master.gatsbyjs.io/)_**featuring convenient web development tools and interactive content**_
 
 - Implemented 4 Gatsby page models and GraphQL schema to fetch markdown content and feed it into react components.
-- Designed and integrated a set of convenient web-hosted [developer tools](https://bgoonz-blog.netlify.app/docs/tools/) and GUI interfaces.
-- Added interactive content including comments, [video conferencing](https://bgoonz-blog.netlify.app/docs/interact/video-chat/), [data-structure visualization](https://bgoonz-blog.netlify.app/docs/interact/other-sites/), [games](https://bgoonz-blog.netlify.app/docs/interact/) and full text search.
+- Designed and integrated a set of convenient web-hosted [developer tools](https://bgoonzblog20master.gatsbyjs.io/docs/tools/) and GUI interfaces.
+- Added interactive content including comments, [video conferencing](https://bgoonzblog20master.gatsbyjs.io/docs/interact/video-chat/), [data-structure visualization](https://bgoonzblog20master.gatsbyjs.io/docs/interact/other-sites/), [games](https://bgoonzblog20master.gatsbyjs.io/docs/interact/) and full text search.
 
 ---
 
@@ -366,8 +343,7 @@ Six-month immersive software development course with a focus on [full stack web 
 _**References &amp; further work experience available upon request.**_
 
 </div>
-    
-    
+
 </details>
 
 <details>
@@ -417,7 +393,7 @@ _**References &amp; further work experience available upon request.**_
       <td>HTML, HTML5, CSS, CSS3, Javascript, jQuery</td>
       <td>add songs and play music, it also uses to store data in  INDEXEDB Database by which we can play songs, if we not clear the catch then song will remain stored in database.</td>
     </tr>
-    
+
   </tbody>
 
 <p align="center">
@@ -426,7 +402,7 @@ _**References &amp; further work experience available upon request.**_
 
 ---
 
-## ➤ Weekly-Quick-Snips:
+## ➤ Weekly-Quick-Snips
 
 ### replaceAll
 
@@ -464,7 +440,7 @@ const updatedStr = str.replaceAll('example', 'snippet'); //'this is a JSsnippets
 
 ---
 
-### Fibonacci in Python:
+### Fibonacci in Python
 
 ```py
 def fib_iter(n):
@@ -485,7 +461,7 @@ for i in range(10):
 
 ---
 
-#### Yesterday's Snippet of the day:
+#### Yesterday's Snippet of the day
 
 ---
 
@@ -534,13 +510,12 @@ print(quicksort([9,8,7,6,5,4,3,2,1]))
   
   <summary>See Older Snippets!</summary>
   
-  
-  #### This Week's snippets: 
+#### This Week's snippets
   
   ---
   
-  
    >will replace any spaces in file names with an underscore!
+
 ```bash
  for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
   ## TAKING IT A STEP FURTHER:
@@ -568,14 +543,11 @@ RecurseDirs "./"
 
 ````
 
-
  ---
- ### Copy to clipboard jQuerry
+### Copy to clipboard jQuerry
  > Language: Javascript/Jquery
 
-
 >In combination with the script tag :  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> , this snippet will add a copy to clipboard button to all of your embedded <code> blocks.
-
 
 ```js
 $(document).ready(function() {
@@ -890,15 +862,12 @@ function longestCommonPrefix(strs) {
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)   
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
   
-  
-  
-  
-  # Useful Links: 
-https://www.jsdelivr.com/github
-https://giters.com/bgoonz?page=6
-https://webdevhub.ghost.io/ghost/#/tags/new
-https://app.archbee.io/public/lI1AR-3-Ys9iITwuhct3i/treT9kilaJkzSjozhixGi
-https://shields.io/
-  https://frontendmasters.com/guides/front-end-handbook/2019/
+# Useful Links
+<https://www.jsdelivr.com/github>
+<https://giters.com/bgoonz?page=6>
+<https://webdevhub.ghost.io/ghost/#/tags/new>
+<https://app.archbee.io/public/lI1AR-3-Ys9iITwuhct3i/treT9kilaJkzSjozhixGi>
+<https://shields.io/>
+  <https://frontendmasters.com/guides/front-end-handbook/2019/>
