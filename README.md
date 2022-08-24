@@ -39,7 +39,7 @@ Hi there everyone! Welcome to my GitHub profile!
 
 ##  <img src="http://cdn.onlinewebfonts.com/svg/img_256848.png" width="15px"> About me
 
-<img src="https://bestanimations.com/media/explosions/933419296explosion-animation-1.gif" align="left" />
+
 
 <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /></p>
 
