@@ -39,7 +39,33 @@ My stats
 
 
 [![stats](https://github-readme-stats.vercel.app/api?username=bgoonz&include_all_commits=true&show_icons=true&theme=prussian&count_private=true&cache_seconds=5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&theme=prussian&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&theme=prussian&layout=compact)
+  
+  <div align="center">
+  
+  | [GitHub](https://github.com/bgoonz)       | [Gitlab](https://gitlab.com/bryan.guner.dev)      | [Bitbucket](https://bitbucket.org/bgoonz/)      | [Medium](https://bryanguner.medium.com/)      | [code pen](https://codepen.io/bgoonz)       |
+|---    |---    |---    |---    |---    |
+| [Replit](https://repl.it/@bgoonz/)      |  [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN)     | [Redit](https://www.reddit.com/user/bgoonz1)       | [webcomponents.dev](https://webcomponents.dev/user/bgoonz)      |  [dev.to](https://dev.to/bgoonz)     |
+| [runkit](https://runkit.com/bgoonz)        | [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)      | [npm](https://www.npmjs.com/~bgoonz11)      | [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)      | [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)      |
+| [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)      | [Notion](https://www.notion.so/Overview-Of-Css-5d88b0bc9a73422a9be1481d599a56ba)      |  [AngelList](https://angel.co/u/bryan-guner)      | [StackShare](https://stackshare.io/bryanguner)      | [Plunk](http://plnkr.co/account/plunks)       | [Tealfeed](https://tealfeed.com/bryan_759844)
+| [giphy](https://giphy.com/channel/bryanguner)      | [kofi](https://ko-fi.com/bgoonz)        | [Codewars](https://www.codewars.com/users/bgoonz)       | [Dribble](https://dribbble.com/bgoonz4242?onboarding=true)       | [Glitch](https://glitch.com/@bgoonz)       | [YHYPE](https://yhype.me/github/accounts/bgoonz)
+| [contentful](https://app.contentful.com/spaces/lelpu0ihaz11/assets?id=MocOPmmNliLn6PPv)        | [Netlify](https://app.netlify.com/user/settings#profile)      | [Stackblitz](https://stackblitz.com/@bgoonz)      | [Vercel](https://vercel.com/bgoonz)      | [Youtube](https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/featured)      | [Free Code Camp](https://www.freecodecamp.org/bgoonz)
+| [wordpress](https://web-dev-hub.com/)       | [Edabit](https://edabit.com/user/dsRcx6yCwAgYwZbRB)      | [Vinmeo](https://vimeo.com/user128661018)      |  [js fiddle](https://jsfiddle.net/user/bgoonz/)     | [hashnode](https://hashnode.com/@bgoonz/joinme)      |
+| [Google Developer Profile](https://developers.google.com/profile/u/100803355943326309646?utm_source=developers.google.com)       | [Gittee](https://gitee.com/bgoonz)      |  [Wakatime](https://wakatime.com/@bgoonz42)      |  [Hubpages](https://hubpages.com/@bryanguner)     | [Gitbook](https://bryan-guner.gitbook.io/web-dev-hub-docs/)      |
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=my-lambda-projects&repo=LAMBDA_LABS_FAMILY_PROMISE)](https://github.com/my-lambda-projects/LAMBDA_LABS_FAMILY_PROMISE)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Leetcode-JS-PY-MD)](https://github.com/bgoonz/Leetcode-JS-PY-MD)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Lambda)](https://github.com/bgoonz/Lambda)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=DS-ALGO-OFFICIAL)](https://github.com/bgoonz/DS-ALGO-OFFICIAL)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=BGOONZ_BLOG_2.0)](https://github.com/bgoonz/BGOONZ_BLOG_2.0)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=DATA_STRUC_PYTHON_NOTES)](https://github.com/bgoonz/DATA_STRUC_PYTHON_NOTES)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&row=1)](https://github.com/bgoonz/github-profile-trophy)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=bgoonz&show_icons=true&locale=en" alt="bgoonz" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&layout=compact&hide=html,mathematica&langs_count=16)](https://github.com/bgoonz/github-readme-stats)
+
+</div>
 
 ##  About me
 
@@ -121,31 +147,7 @@ My stats
   
   </div>
 
-<div align="center">
-  
-  | [GitHub](https://github.com/bgoonz)       | [Gitlab](https://gitlab.com/bryan.guner.dev)      | [Bitbucket](https://bitbucket.org/bgoonz/)      | [Medium](https://bryanguner.medium.com/)      | [code pen](https://codepen.io/bgoonz)       |
-|---    |---    |---    |---    |---    |
-| [Replit](https://repl.it/@bgoonz/)      |  [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN)     | [Redit](https://www.reddit.com/user/bgoonz1)       | [webcomponents.dev](https://webcomponents.dev/user/bgoonz)      |  [dev.to](https://dev.to/bgoonz)     |
-| [runkit](https://runkit.com/bgoonz)        | [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)      | [npm](https://www.npmjs.com/~bgoonz11)      | [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)      | [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)      |
-| [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)      | [Notion](https://www.notion.so/Overview-Of-Css-5d88b0bc9a73422a9be1481d599a56ba)      |  [AngelList](https://angel.co/u/bryan-guner)      | [StackShare](https://stackshare.io/bryanguner)      | [Plunk](http://plnkr.co/account/plunks)       | [Tealfeed](https://tealfeed.com/bryan_759844)
-| [giphy](https://giphy.com/channel/bryanguner)      | [kofi](https://ko-fi.com/bgoonz)        | [Codewars](https://www.codewars.com/users/bgoonz)       | [Dribble](https://dribbble.com/bgoonz4242?onboarding=true)       | [Glitch](https://glitch.com/@bgoonz)       | [YHYPE](https://yhype.me/github/accounts/bgoonz)
-| [contentful](https://app.contentful.com/spaces/lelpu0ihaz11/assets?id=MocOPmmNliLn6PPv)        | [Netlify](https://app.netlify.com/user/settings#profile)      | [Stackblitz](https://stackblitz.com/@bgoonz)      | [Vercel](https://vercel.com/bgoonz)      | [Youtube](https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/featured)      | [Free Code Camp](https://www.freecodecamp.org/bgoonz)
-| [wordpress](https://web-dev-hub.com/)       | [Edabit](https://edabit.com/user/dsRcx6yCwAgYwZbRB)      | [Vinmeo](https://vimeo.com/user128661018)      |  [js fiddle](https://jsfiddle.net/user/bgoonz/)     | [hashnode](https://hashnode.com/@bgoonz/joinme)      |
-| [Google Developer Profile](https://developers.google.com/profile/u/100803355943326309646?utm_source=developers.google.com)       | [Gittee](https://gitee.com/bgoonz)      |  [Wakatime](https://wakatime.com/@bgoonz42)      |  [Hubpages](https://hubpages.com/@bryanguner)     | [Gitbook](https://bryan-guner.gitbook.io/web-dev-hub-docs/)      |
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=my-lambda-projects&repo=LAMBDA_LABS_FAMILY_PROMISE)](https://github.com/my-lambda-projects/LAMBDA_LABS_FAMILY_PROMISE)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Leetcode-JS-PY-MD)](https://github.com/bgoonz/Leetcode-JS-PY-MD)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Lambda)](https://github.com/bgoonz/Lambda)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=DS-ALGO-OFFICIAL)](https://github.com/bgoonz/DS-ALGO-OFFICIAL)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=BGOONZ_BLOG_2.0)](https://github.com/bgoonz/BGOONZ_BLOG_2.0)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=DATA_STRUC_PYTHON_NOTES)](https://github.com/bgoonz/DATA_STRUC_PYTHON_NOTES)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&row=1)](https://github.com/bgoonz/github-profile-trophy)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=bgoonz&show_icons=true&locale=en" alt="bgoonz" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&layout=compact&hide=html,mathematica&langs_count=16)](https://github.com/bgoonz/github-readme-stats)
-
-</div>
 
 </div>
 
