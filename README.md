@@ -33,13 +33,17 @@
 
 Hi there everyone! Welcome to my GitHub profile!
 
-##  <img src="https://static.thenounproject.com/png/5639-200.png" alt="Statistics Icons - Download Free Vector Icons | Noun Project" width="15px"/> My stats
-![stats](https://github-readme-stats.vercel.app/api?username=bgoonz&include_all_commits=true&show_icons=true&theme=prussian&count_private=true&cache_seconds=5)
+##  <img src="https://static.thenounproject.com/png/5639-200.png" alt="Statistics Icons - Download Free Vector Icons | Noun Project" width="15px"/>
+
+My stats
+
+
+[![stats](https://github-readme-stats.vercel.app/api?username=bgoonz&include_all_commits=true&show_icons=true&theme=prussian&count_private=true&cache_seconds=5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&theme=prussian&layout=compact)](#)
 
-##  <img src="http://cdn.onlinewebfonts.com/svg/img_256848.png" width="15px"> About me
+##  About me
 
-
+ <img src="http://cdn.onlinewebfonts.com/svg/img_256848.png" width="15px">
 
 <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /></p>
 
