@@ -31,15 +31,14 @@
 
 </div>
 
-Hi there everyone! Welcome to my GitHub profile!
-
-##  <img src="https://static.thenounproject.com/png/5639-200.png" alt="Statistics Icons - Download Free Vector Icons | Noun Project" width="15px"/>
-
-My stats
 
 
-[![stats](https://github-readme-stats.vercel.app/api?username=bgoonz&include_all_commits=true&show_icons=true&theme=prussian&count_private=true&cache_seconds=5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&theme=prussian&layout=compact)
+
+
+
+
+
+
   
   <div align="center">
   
