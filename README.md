@@ -16,7 +16,7 @@
 [![Blog](https://img.shields.io/badge/-Blog-21759b?style=flat-square&logo=WordPress&logoColor=white&link=https://bgoonzblog20master.gatsbyjs.io/)](https://web-dev-hub.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-guner-046199128/)](https://www.linkedin.com/in/bryan-guner-046199128/)
 [![AngelList](https://img.shields.io/badge/-AngelList-black?style=flat-square&logo=AngelList&logoColor=white&link=https://angel.co/u/bryan-guner)](https://angel.co/u/bryan-guner)
-[![GitHub bgoonz](https://img.shields.io/github/followers/bgoonz?label=follow&style=social)](https://github.com/bgoonz)
+
 
 <p align="center">
   
@@ -32,25 +32,18 @@
 </div>
 
 
-
-
-
-
-
-
-
   
   <div align="center">
   
-  | [GitHub](https://github.com/bgoonz)       | [Gitlab](https://gitlab.com/bryan.guner.dev)      | [Bitbucket](https://bitbucket.org/bgoonz/)      | [Medium](https://bryanguner.medium.com/)      | [code pen](https://codepen.io/bgoonz)       |
-|---    |---    |---    |---    |---    |
-| [Replit](https://repl.it/@bgoonz/)      |  [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN)     | [Redit](https://www.reddit.com/user/bgoonz1)       | [webcomponents.dev](https://webcomponents.dev/user/bgoonz)      |  [dev.to](https://dev.to/bgoonz)     |
-| [runkit](https://runkit.com/bgoonz)        | [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)      | [npm](https://www.npmjs.com/~bgoonz11)      | [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner)      | [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)      |
-| [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)      | [Notion](https://www.notion.so/Overview-Of-Css-5d88b0bc9a73422a9be1481d599a56ba)      |  [AngelList](https://angel.co/u/bryan-guner)      | [StackShare](https://stackshare.io/bryanguner)      | [Plunk](http://plnkr.co/account/plunks)       | [Tealfeed](https://tealfeed.com/bryan_759844)
-| [giphy](https://giphy.com/channel/bryanguner)      | [kofi](https://ko-fi.com/bgoonz)        | [Codewars](https://www.codewars.com/users/bgoonz)       | [Dribble](https://dribbble.com/bgoonz4242?onboarding=true)       | [Glitch](https://glitch.com/@bgoonz)       | [YHYPE](https://yhype.me/github/accounts/bgoonz)
-| [contentful](https://app.contentful.com/spaces/lelpu0ihaz11/assets?id=MocOPmmNliLn6PPv)        | [Netlify](https://app.netlify.com/user/settings#profile)      | [Stackblitz](https://stackblitz.com/@bgoonz)      | [Vercel](https://vercel.com/bgoonz)      | [Youtube](https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/featured)      | [Free Code Camp](https://www.freecodecamp.org/bgoonz)
-| [wordpress](https://web-dev-hub.com/)       | [Edabit](https://edabit.com/user/dsRcx6yCwAgYwZbRB)      | [Vinmeo](https://vimeo.com/user128661018)      |  [js fiddle](https://jsfiddle.net/user/bgoonz/)     | [hashnode](https://hashnode.com/@bgoonz/joinme)      |
-| [Google Developer Profile](https://developers.google.com/profile/u/100803355943326309646?utm_source=developers.google.com)       | [Gittee](https://gitee.com/bgoonz)      |  [Wakatime](https://wakatime.com/@bgoonz42)      |  [Hubpages](https://hubpages.com/@bryanguner)     | [Gitbook](https://bryan-guner.gitbook.io/web-dev-hub-docs/)      |
+| [GitHub](https://github.com/bgoonz)                                                                                        | [Gitlab](https://gitlab.com/bryan.guner.dev)                                        | [Bitbucket](https://bitbucket.org/bgoonz/)        | [Medium](https://bryanguner.medium.com/)                                  | [code pen](https://codepen.io/bgoonz)                                        |                                                       |
+|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------|
+| [Replit](https://repl.it/@bgoonz/)                                                                                         | [Quora](https://www.quora.com/q/webdevresourcehub?invite_code=qwZOqbpAhgQ6hjjGl8NN) | [Redit](https://www.reddit.com/user/bgoonz1)      | [webcomponents.dev](https://webcomponents.dev/user/bgoonz)                | [dev.to](https://dev.to/bgoonz)                                              |                                                       |
+| [runkit](https://runkit.com/bgoonz)                                                                                        | [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)                | [npm](https://www.npmjs.com/~bgoonz11)            | [stack-exchange](https://meta.stackexchange.com/users/936785/bryan-guner) | [Observable Notebooks](https://observablehq.com/@bgoonz?tab=profile)         |                                                       |
+| [Upwork](https://www.upwork.com/freelancers/~01bb1a3627e1e9c630?viewMode=1&s=1110580755057594368)                          | [Notion](https://www.notion.so/Overview-Of-Css-5d88b0bc9a73422a9be1481d599a56ba)    | [AngelList](https://angel.co/u/bryan-guner)       | [StackShare](https://stackshare.io/bryanguner)                            | [Plunk](http://plnkr.co/account/plunks)                                      | [Tealfeed](https://tealfeed.com/bryan_759844)         |
+| [giphy](https://giphy.com/channel/bryanguner)                                                                              | [kofi](https://ko-fi.com/bgoonz)                                                    | [Codewars](https://www.codewars.com/users/bgoonz) | [Dribble](https://dribbble.com/bgoonz4242?onboarding=true)                | [Glitch](https://glitch.com/@bgoonz)                                         | [YHYPE](https://yhype.me/github/accounts/bgoonz)      |
+| [contentful](https://app.contentful.com/spaces/lelpu0ihaz11/assets?id=MocOPmmNliLn6PPv)                                    | [Netlify](https://app.netlify.com/user/settings#profile)                            | [Stackblitz](https://stackblitz.com/@bgoonz)      | [Vercel](https://vercel.com/bgoonz)                                       | [Youtube](https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA/featured) | [Free Code Camp](https://www.freecodecamp.org/bgoonz) |
+| [wordpress](https://web-dev-hub.com/)                                                                                      | [Edabit](https://edabit.com/user/dsRcx6yCwAgYwZbRB)                                 | [Vinmeo](https://vimeo.com/user128661018)         | [js fiddle](https://jsfiddle.net/user/bgoonz/)                            | [hashnode](https://hashnode.com/@bgoonz/joinme)                              |                                                       |
+| [Google Developer Profile](https://developers.google.com/profile/u/100803355943326309646?utm_source=developers.google.com) | [Gittee](https://gitee.com/bgoonz)                                                  | [Wakatime](https://wakatime.com/@bgoonz42)        | [Hubpages](https://hubpages.com/@bryanguner)                              | [Gitbook](https://bryan-guner.gitbook.io/web-dev-hub-docs/)                  |                                                       |
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=my-lambda-projects&repo=LAMBDA_LABS_FAMILY_PROMISE)](https://github.com/my-lambda-projects/LAMBDA_LABS_FAMILY_PROMISE)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Leetcode-JS-PY-MD)](https://github.com/bgoonz/Leetcode-JS-PY-MD)
@@ -82,7 +75,7 @@
 <summary><span style="align-self: center; margin: auto; font-family: papyrus; font-size: 2em;"> ===➤(_CLICK TO SEE MORE_)➤</span></summary>
 
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=a-whole-bunch-o-gatsby-templates)](https://github.com/bgoonz/a-whole-bunch-o-gatsby-templates) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Comments)](https://github.com/bgoonz/Comments)                                                                                       | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=EXPRESS-NOTES)](https://github.com/bgoonz/EXPRESS-NOTES)                                                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=INTERVIEW-PREP-COMPLETE)](https://github.com/bgoonz/INTERVIEW-PREP-COMPLETE)                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=alternate-blog-theme)](https://github.com/bgoonz/alternate-blog-theme)                         | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=commercejs-nextjs-demo-store)](https://github.com/bgoonz/commercejs-nextjs-demo-store)                                               | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=fast-fourier-transform-)](https://github.com/bgoonz/fast-fourier-transform-)                                      | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=JAMSTACK-TEMPLATES)](https://github.com/bgoonz/JAMSTACK-TEMPLATES)                                 |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=anki-cards)](https://github.com/bgoonz/anki-cards)                                             | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Common-npm-Readme-Compilation)](https://github.com/bgoonz/Common-npm-Readme-Compilation)                                             | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=form-builder-vanilla-js)](https://github.com/bgoonz/form-builder-vanilla-js)                                      | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Javascript-Best-Practices_--Tools)](https://github.com/bgoonz/Javascript-Best-Practices_--Tools)   |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=ask-me-anything)](https://github.com/bgoonz/ask-me-anything)                                   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Connect-Four-Final-Version)](https://github.com/bgoonz/Connect-Four-Final-Version)                                                   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Front-End-Frameworks-Practice)](https://github.com/bgoonz/Front-End-Frameworks-Practice)                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=jsanimate)](https://github.com/bgoonz/jsanimate)                                                   |
@@ -250,7 +243,7 @@ Creating things that change my every day life.
 ## ⦿===➤Skills
 
 | Languages:              | JavaScript ES-6, NodeJS, HTML5, CSS3, SCSS, Bash Shell, SQL, MATLAB, Python, C++, Mathematica, JSON                        |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | Frameworks / Libraries: | React, Redux, ExpressJS, Gatsby, NextJS, Ant-Design, Loadash, Sequelize, GraphQL, AJAX, Jest, Mocha, jQuery, Electron      |
 | Databases:              | PostgreSQL, MongoDB, SQlite3                                                                                               |
 | Tools:                  | Figma, Adobe XD, GitHub, GitLab, Excel, VSCode, Sublime Text, Atom, Google Analytics, Bootstrap, Tailwind, FontAwesome     |
@@ -406,432 +399,6 @@ _**References &amp; further work experience available upon request.**_
 
 ---
 
-## ➤ Weekly-Quick-Snips
-
-### replaceAll
-
-the method string.replaceAll(search, replaceWith) replaces all appearances of search string with replaceWith.
-
-```javascript
-
-
-const str = 'this is a JSsnippets example';
-
-const updatedStr = str.replace('example', 'snippet'); // 'this is a  JSsnippets snippet'
-
-
-The tricky part is that replace method replaces only the very first match of the substring we have passed:
-
-
-const str = 'this is a JSsnippets example and examples are great';
-
-const updatedStr = str.replace('example', 'snippet'); //'this is a JSsnippets snippet and examples are great'
-
-In order to go through this, we need to use a global regexp instead:
-
-
-const str = 'this is a JSsnippets example and examples are great';
-
-const updatedStr = str.replace(/example/g, 'snippet'); //'this is a JSsnippets snippet and snippets are greatr'
-
-but now we have new friend in town, replaceAll
-
-const str = 'this is a JSsnippets example and examples are great';
-
-const updatedStr = str.replaceAll('example', 'snippet'); //'this is a JSsnippets snippet and snippets are greatr'
-
-```
-
----
-
-### Fibonacci in Python
-
-```py
-def fib_iter(n):
-    if n == 0:
-        return 0
-    if n == 1:
-        return 1
-    p0 = 0
-    p1 = 1
-    for i in range(n-1):
-        next_val = p0 + p1
-        p0 = p1
-        p1 = next_val
-    return next_val
-for i in range(10):
-    print(f'{i}: {fib_iter(i)}')
-```
-
----
-
-#### Yesterday's Snippet of the day
-
----
-
-```py
-def quicksort(l):
-    # One of our base cases is an empty list or list with one element
-    if len(l) == 0 or len(l) == 1:
-        return l
-    # If we have a left list, a pivot point and a right list...
-    # assigns the return values of the partition() function
-    left, pivot, right = partition(l)
-    # Our sorted list looks like left + pivot + right, but sorted.
-    # Pivot has to be in brackets to be a list, so python can concatenate all the elements to a single list
-    return quicksort(left) + [pivot] + quicksort(right)
-
-
-
-print(quicksort([]))
-
-
-
-print(quicksort([1]))
-
-
-
-print(quicksort([1,2]))
-
-print(quicksort([2,1]))
-
-
-print(quicksort([2,2]))
-
-
-print(quicksort([5,3,9,4,8,1,7]))
-
-
-print(quicksort([1,2,3,4,5,6,7]))
-
-
-print(quicksort([9,8,7,6,5,4,3,2,1]))
-```
-
----
-
-<details>
-  
-  <summary>See Older Snippets!</summary>
-  
-#### This Week's snippets
-  
-  ---
-  
-   >will replace any spaces in file names with an underscore!
-
-```bash
- for file in *; do mv "$file" `echo $file | tr ' ' '_'` ; done
-  ## TAKING IT A STEP FURTHER:
- # Let's do it recursivley:
-  function RecurseDirs ()
-{
-    oldIFS=$IFS
-    IFS=$'\n'
-    for f in "$@"
-    do
-  # YOUR CODE HERE!
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]
-
-for file in \*; do mv "$file" `echo $file | tr ' ' '_'` ; done
-        if [[ -d "${f}" ]]; then
-cd "${f}"
-            RecurseDirs $(ls -1 ".")
-            cd ..
-        fi
-    done
-    IFS=$oldIFS
-}
-RecurseDirs "./"
-
-````
-
- ---
-### Copy to clipboard jQuerry
- > Language: Javascript/Jquery
-
->In combination with the script tag :  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> , this snippet will add a copy to clipboard button to all of your embedded <code> blocks.
-
-```js
-$(document).ready(function() {
-  $('code, pre').append('<span class="command-copy" ><i class="fa fa-clipboard" aria-hidden="true"></i></span>');
-$('code span.command-copy').click(function(e) {
-    var text = $(this).parent().text().trim(); //.text();
-    var copyHex = document.createElement('input');
-    copyHex.value = text
-    document.body.appendChild(copyHex);
-    copyHex.select();
-    document.execCommand('copy');
-    console.log(copyHex.value)
-    document.body.removeChild(copyHex);
-  });
-
-$('pre span.command-copy').click(function(e) {
-    var text = $(this).parent().text().trim();
-    var copyHex = document.createElement('input');
-    copyHex.value = text
-    document.body.appendChild(copyHex);
-    copyHex.select();
-    document.execCommand('copy');
-    console.log(copyHex.value)
-    document.body.removeChild(copyHex);
-  });
-})
-
-
-````
-
----
-
-### Append Files in PWD
-
-```js
-//APPEND-DIR.js
-const fs = require("fs");
-let cat = require("child_process").execSync("cat *").toString("UTF-8");
-fs.writeFile("output.md", cat, (err) => {
-  if (err) throw err;
-});
-```
-
----
-
-### doesUserFrequentStarbucks.js
-
-```js
-const isAppleDevice = /Mac|iPod|iPhone|iPad/.test(navigator.platform);
-console.log(isAppleDevice);
-// Result: will return true if user is on an Apple device
-```
-
----
-
-### arr-intersection.js
-
-```js
-/*
- function named intersection(firstArr) that takes in an array and
-returns a function. 
-When the function returned by intersection is invoked
-passing in an array (secondArr) it returns a new array containing the elements
-common to both firstArr and secondArr.
-*/
-function intersection(firstArr) {
-  return (secondArr) => {
-    let common = [];
-    for (let i = 0; i < firstArr.length; i++) {
-      let el = firstArr[i];
-      if (secondArr.indexOf(el) > -1) {
-        common.push(el);
-      }
-    }
-    return common;
-  };
-}
-let abc = intersection(["a", "b", "c"]); // returns a function
-console.log(abc(["b", "d", "c"])); // returns [ 'b', 'c' ]
-
-let fame = intersection(["f", "a", "m", "e"]); // returns a function
-console.log(fame(["a", "f", "z", "b"])); // returns [ 'f', 'a' ]
-```
-
----
-
-### arr-of-cum-partial-sums.js
-
-```js
-/*
-First is recurSum(arr, start) which returns the sum of the elements of arr from the index start till the very end.
-Second is partrecurSum() that recursively concatenates the required sum into an array and when we reach the end of the array, it returns the concatenated array.
-*/
-//arr.length -1 = 5
-//                   arr   [    1,    7,    12,   6,    5,    10   ]
-//                   ind   [    0     1     2     3     4      5   ]
-//                              ↟                              ↟
-//                            start                           end
-
-function recurSum(arr, start = 0, sum = 0) {
-  if (start < arr.length) {
-    return recurSum(arr, start + 1, sum + arr[start]);
-  }
-  return sum;
-}
-
-function rPartSumsArr(arr, partSum = [], start = 0, end = arr.length - 1) {
-  if (start <= end) {
-    return rPartSumsArr(
-      arr,
-      partSum.concat(recurSum(arr, start)),
-      ++start,
-      end
-    );
-  }
-  return partSum.reverse();
-}
-
-console.log(
-  "------------------------------------------------rPartSumArr------------------------------------------------"
-);
-console.log("rPartSumsArr(arr)=[ 1, 1, 5, 2, 6, 10 ]: ", rPartSumsArr(arr));
-console.log("rPartSumsArr(arr1)=[ 1, 7, 12, 6, 5, 10 ]: ", rPartSumsArr(arr1));
-console.log(
-  "------------------------------------------------rPartSumArr------------------------------------------------"
-);
-/*
-------------------------------------------------rPartSumArr------------------------------------------------
-rPartSumsArr(arr)=[ 1, 1, 5, 2, 6, 10 ]:  [ 10, 16, 18, 23, 24, 25 ]
-rPartSumsArr(arr1)=[ 1, 7, 12, 6, 5, 10 ]:  [ 10, 15, 21, 33, 40, 41 ]
-------------------------------------------------rPartSumArr------------------------------------------------
-*/
-```
-
----
-
-### camel2Kabab.js
-
-```js
-function camelToKebab(value) {
-  return value.replace(/([a-z])([A-Z])/g, "$1-$2").toLowerCase();
-}
-```
-
----
-
-### camelCase.js
-
-```js
-function camel(str) {
-  return str.replace(/(?:^\w|[A-Z]|\b\w|\s+)/g, function (match, index) {
-    if (+match === 0) return ""; // or if (/\s+/.test(match)) for white spaces
-    return index === 0 ? match.toLowerCase() : match.toUpperCase();
-  });
-}
-```
-
----
-
-### concatLinkedLists.js
-
-```js
-function addTwoNumbers(l1, l2) {
-  let result = new ListNode(0);
-  let currentNode = result;
-  let carryOver = 0;
-  while (l1 != null || l2 != null) {
-    let v1 = 0;
-    let v2 = 0;
-    if (l1 != null) v1 = l1.val;
-    if (l2 != null) v2 = l2.val;
-    let sum = v1 + v2 + carryOver;
-    carryOver = Math.floor(sum / 10);
-    sum = sum % 10;
-    currentNode.next = new ListNode(sum);
-    currentNode = currentNode.next;
-    if (l1 != null) l1 = l1.next;
-    if (l2 != null) l2 = l2.next;
-  }
-  if (carryOver > 0) {
-    currentNode.next = new ListNode(carryOver);
-  }
-  return result.next;
-}
-```
-
----
-
-### fast-is-alpha-numeric.js
-
-```js
-//Function to test if a character is alpha numeric that is faster than a regular
-//expression in JavaScript
-
-let isAlphaNumeric = (char) => {
-  char = char.toString();
-  let id = char.charCodeAt(0);
-  if (
-    !(id > 47 && id < 58) && // if not numeric(0-9)
-    !(id > 64 && id < 91) && // if not letter(A-Z)
-    !(id > 96 && id < 123) // if not letter(a-z)
-  ) {
-    return false;
-  }
-  return true;
-};
-
-console.log(isAlphaNumeric("A")); //true
-console.log(isAlphaNumeric(2)); //true
-console.log(isAlphaNumeric("z")); //true
-console.log(isAlphaNumeric(" ")); //false
-console.log(isAlphaNumeric("!")); //false
-```
-
----
-
-### find-n-replace.js
-
-```js
-function replaceWords(str, before, after) {
-  if (/^[A-Z]/.test(before)) {
-    after = after[0].toUpperCase() + after.substring(1);
-  } else {
-    after = after[0].toLowerCase() + after.substring(1);
-  }
-  return str.replace(before, after);
-}
-console.log(replaceWords("Let us go to the store", "store", "mall")); //"Let us go to the mall"
-console.log(replaceWords("He is Sleeping on the couch", "Sleeping", "sitting")); //"He is Sitting on the couch"
-console.log(replaceWords("His name is Tom", "Tom", "john"));
-//"His name is John"
-```
-
----
-
-### flatten-arr.js
-
-```js
-/*Simple Function to flatten an array into a single layer */
-const flatten = (array) =>
-  array.reduce(
-    (accum, ele) => accum.concat(Array.isArray(ele) ? flatten(ele) : ele),
-    []
-  );
-```
-
----
-
-### isWeekDay.js
-
-```js
-const isWeekday = (date) => date.getDay() % 6 !== 0;
-console.log(isWeekday(new Date(2021, 0, 11)));
-// Result: true (Monday)
-console.log(isWeekday(new Date(2021, 0, 10)));
-// Result: false (Sunday)
-```
-
----
-
-### longest-common-prefix.js
-
-```js
-function longestCommonPrefix(strs) {
-  let prefix = "";
-  if (strs.length === 0) return prefix;
-  for (let i = 0; i < strs[0].length; i++) {
-    const character = strs[0][i];
-    for (let j = 0; j < strs.length; j++) {
-      if (strs[j][i] !== character) return prefix;
-    }
-    prefix = prefix + character;
-  }
-  return prefix;
-}
-```
-
-</details>
-
-<hr>
 
 # ➤ Github Gists
 
@@ -868,10 +435,4 @@ function longestCommonPrefix(strs) {
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
   
-# Useful Links
-<https://www.jsdelivr.com/github>
-<https://giters.com/bgoonz?page=6>
-<https://webdevhub.ghost.io/ghost/#/tags/new>
-<https://app.archbee.io/public/lI1AR-3-Ys9iITwuhct3i/treT9kilaJkzSjozhixGi>
-<https://shields.io/>
-  <https://frontendmasters.com/guides/front-end-handbook/2019/>
+
