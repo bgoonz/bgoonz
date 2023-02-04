@@ -45,11 +45,11 @@
 | [wordpress](https://web-dev-hub.com/)                                                                                      | [Edabit](https://edabit.com/user/dsRcx6yCwAgYwZbRB)                                 | [Vinmeo](https://vimeo.com/user128661018)         | [js fiddle](https://jsfiddle.net/user/bgoonz/)                            | [hashnode](https://hashnode.com/@bgoonz/joinme)                              |                                                       |
 | [Google Developer Profile](https://developers.google.com/profile/u/100803355943326309646?utm_source=developers.google.com) | [Gittee](https://gitee.com/bgoonz)                                                  | [Wakatime](https://wakatime.com/@bgoonz42)        | [Hubpages](https://hubpages.com/@bryanguner)                              | [Gitbook](https://bryan-guner.gitbook.io/web-dev-hub-docs/)                  |                                                       |
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=my-lambda-projects&repo=LAMBDA_LABS_FAMILY_PROMISE)](https://github.com/my-lambda-projects/LAMBDA_LABS_FAMILY_PROMISE)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Leetcode-JS-PY-MD)](https://github.com/bgoonz/Leetcode-JS-PY-MD)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Lambda)](https://github.com/bgoonz/Lambda)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=DS-ALGO-OFFICIAL)](https://github.com/bgoonz/DS-ALGO-OFFICIAL)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=BGOONZ_BLOG_2.0)](https://github.com/bgoonz/BGOONZ_BLOG_2.0)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=DATA_STRUC_PYTHON_NOTES)](https://github.com/bgoonz/DATA_STRUC_PYTHON_NOTES)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=BGOONZ_BLOG_2.0)](https://github.com/bgoonz/BGOONZ_BLOG_2.0)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bgoonz&row=1)](https://github.com/bgoonz/github-profile-trophy)
 
@@ -63,7 +63,8 @@
 
  <img src="http://cdn.onlinewebfonts.com/svg/img_256848.png" width="15px">
 
-<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /></p>
+<p align=center>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /></p>
 
 <h1  align="center">💻 Check Out My Repos ⬇️ </h1>  
   
