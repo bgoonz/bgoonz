@@ -47,7 +47,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=bgoonz&show_icons=true&locale=en" alt="bgoonz" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&layout=compact&hide=html,mathematica&langs_count=16)](https://github.com/bgoonz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgoonz&layout=compact&hide=html,mathematica&langs_count=16)](https://github.com/bgoonz/github-readme-stats) ![statistics](https://github.com/bgoonz/bgoonz/blob/master/summary_50.png?raw=true)
 
     
  | [GitHub](https://github.com/bgoonz)                                                                                        | [Gitlab](https://gitlab.com/bryan.guner.dev)                                        | [Bitbucket](https://bitbucket.org/bgoonz/)        | [Medium](https://bryanguner.medium.com/)                                  | [code pen](https://codepen.io/bgoonz)                                        |                                                       |
@@ -149,9 +149,9 @@
 <details>
 <summary>About Me</summary>
   
-![statistics](https://github.com/bgoonz/bgoonz/blob/master/summary_50.png?raw=true)
 
-- 🔭 Contract Web Development **Relational Concepts**
+
+- 🔭 Contract Web Development **Duke Energy**
 
 - 🌱 I'm currently learning **React/Redux, Python, Java, Express, jQuery**
 
