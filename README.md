@@ -157,7 +157,7 @@
 
 - 👯 I'm looking to collaborate on [Any web audio or open source educational tools.](https://goofy-euclid-1cd736.netlify.app/core-site/index.html)
 
-- 🤝 I'm looking for help with [Learning React](https://github.com/bgoonz/React-Practice)
+- 🤝 I'm looking for help with [Learning React](https://github.com/bgoonz/React-Complete-Guide-Course)
 
 - 👨‍💻 All of my projects are available at [https://bgoonz.github.io/](https://bgoonz.github.io/)
 
