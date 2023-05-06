@@ -2,6 +2,8 @@
 
 <h1>Hi 👋, I'm Bryan</h1>
   
+  
+  
 ## ➤ _📧_ [bryan.guner@gmail.com](📲) _☎️_ [551-254-5505](551-254-5505)
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![hackmd-github-sync-badge](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q/badge)](https://hackmd.io/5DeYj2oXTvGJ1-Xvp1Jo2Q)[![GitHub followers](https://img.shields.io/github/followers/bgoonz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bgoonz?tab=followers)
