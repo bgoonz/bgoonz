@@ -58,7 +58,7 @@
 <img src="http://cdn.onlinewebfonts.com/svg/img_256848.png" width="15px">
 
 <p align=center>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgoonz&" alt="bgoonz" /></p>
+
 
 <h1  align="center">💻 Check Out My Repos ⬇️ </h1>  
   
